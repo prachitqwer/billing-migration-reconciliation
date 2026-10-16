@@ -24,7 +24,7 @@ This is the data workstream of a migration as a Technical BA would run it: profi
 | Moved | 50,069 records: 1,153 customers, 1,722 subscriptions, 23,578 invoices, 444 credit notes, 23,172 payments |
 | Checks | 20 data quality rules on the extract; 37 reconciliation checks across completeness, control totals, field level, integrity and the Finance views |
 | Mock 1 | 13 of 36 checks passed. Six defects found, two Critical. |
-| Mock 2 | 33 of 37 passed. All six fixed; one new High defect, which mock 1 had shown and I missed. |
+| Mock 2 | 33 of 37 passed. All six fixed; one new High defect, caught by two controls added after mock 1. |
 | Outcome | Conditional go for the 31 October cutover, with the conditions written down |
 | Stack | Python, SQL (SQLite), Excel (openpyxl), pytest, GitHub Actions |
 
