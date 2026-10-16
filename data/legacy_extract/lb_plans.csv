@@ -1,0 +1,11 @@
+plan_code,plan_name,billing_period,price_usd_per_seat_month
+STR-M,Starter,M,15
+STR-A,Starter (annual),A,15
+PRO-M,Professional,M,35
+PRO-A,Professional (annual),A,35
+BUS-M,Business,M,60
+BUS-A,Business (annual),A,60
+ENT-A,Enterprise (annual),A,95
+ADD-SSO-M,Add-on: SSO,M,4
+ADD-API-M,Add-on: API access,M,6
+ADD-STO-M,Add-on: extra storage,M,3

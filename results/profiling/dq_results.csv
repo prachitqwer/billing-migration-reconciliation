@@ -1,0 +1,21 @@
+rule_id,title,source_table,severity,rows_checked,rows_failing
+DQ-01,Customer id padded with spaces,all,High,68726,1149
+DQ-02,Country not an ISO 3166 alpha-2 code,lb_customers,Medium,1227,532
+DQ-03,Country value missing from the country map,lb_customers,Blocker,1227,0
+DQ-04,Customer created date not in YYYY-MM-DD,lb_customers,Low,1227,225
+DQ-05,Duplicate customer (same company and email),lb_customers,High,1227,27
+DQ-06,Contact email missing or invalid,lb_customers,Medium,1227,27
+DQ-07,Amount exported with a thousands separator,"lb_invoices, lb_payments",Low,65605,1001
+DQ-08,Gross does not equal net plus tax,lb_invoices,Medium,33266,124
+DQ-09,Plan code not in the plan table,lb_subscriptions,High,1894,58
+DQ-10,Plan code missing from the plan map,lb_subscriptions,Blocker,1894,0
+DQ-11,Payment with no matching invoice,lb_payments,High,32339,23
+DQ-12,Credit note stored as a negative invoice,lb_invoices,Info,33266,635
+DQ-13,Subscription with zero seats,lb_subscriptions,Medium,1894,6
+DQ-14,Payment currency differs from the invoice,lb_payments,High,32316,0
+DQ-15,Invoice currency differs from the customer,lb_invoices,High,33266,0
+DQ-16,Payments exceed the invoice gross,lb_invoices,High,32631,0
+DQ-17,Subscription ends before it starts,lb_subscriptions,Medium,1894,0
+DQ-18,Customer id not in the customer table,all,Blocker,67499,0
+DQ-19,Open invoice older than the 24-month window,lb_invoices,Info,32631,54
+DQ-20,Status or payment method missing from its value map,all,Blocker,68091,0

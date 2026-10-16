@@ -1,0 +1,13 @@
+legacy_plan_code,target_plan_id,note
+STR-M,starter-monthly,
+STR-A,starter-annual,
+PRO-M,professional-monthly,
+PRO-A,professional-annual,
+BUS-M,business-monthly,
+BUS-A,business-annual,
+ENT-A,enterprise-annual,
+ADD-SSO-M,addon-sso-monthly,
+ADD-API-M,addon-api-monthly,
+ADD-STO-M,addon-storage-monthly,
+LEG-PRO-2019,legacy-pro-monthly-gf,Retired 2021; not in lb_plans. Grandfathered plan created in the new platform (DEC-BPM-004)
+LEG-TEAM-2020,legacy-team-monthly-gf,Retired 2021; not in lb_plans. Grandfathered plan created in the new platform (DEC-BPM-004)

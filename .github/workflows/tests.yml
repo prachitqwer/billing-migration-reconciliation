@@ -1,0 +1,25 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      # The tests rebuild everything in a temporary folder and compare it with the committed results.
+      - run: python -m pytest
+      - name: Re-run the documented commands and confirm nothing in results/ changes
+        run: |
+          python scripts/generate_legacy_extract.py
+          python scripts/run_mock.py --profile
+          python scripts/run_mock.py mock1
+          python scripts/run_mock.py mock2
+          git diff --exit-code -- data results

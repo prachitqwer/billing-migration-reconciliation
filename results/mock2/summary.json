@@ -1,0 +1,164 @@
+{
+  "run_id": "mock2",
+  "label": "Mock cutover 2",
+  "run_date": "2026-10-12",
+  "migration_build": "1.1",
+  "checks_total": 37,
+  "checks_passed": 33,
+  "checks_failed": [
+    "RC-L2-09",
+    "RC-L3-05",
+    "RC-RI-11",
+    "RC-L4-05"
+  ],
+  "checks_no_data": [],
+  "by_level": {
+    "L1": {
+      "total": 6,
+      "passed": 6
+    },
+    "L2": {
+      "total": 10,
+      "passed": 9
+    },
+    "L3": {
+      "total": 5,
+      "passed": 4
+    },
+    "RI": {
+      "total": 11,
+      "passed": 10
+    },
+    "L4": {
+      "total": 5,
+      "passed": 4
+    }
+  },
+  "l1_bridge": {
+    "customers": {
+      "entity": "customers",
+      "source_rows": 1227,
+      "merged": 27,
+      "out_of_scope": 47,
+      "expected_rejects": 0,
+      "expected_loads": 1153,
+      "actual_loads": 1153,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "subscriptions": {
+      "entity": "subscriptions",
+      "source_rows": 1894,
+      "merged": 0,
+      "out_of_scope": 166,
+      "expected_rejects": 6,
+      "expected_loads": 1722,
+      "actual_loads": 1722,
+      "actual_rejects": 6,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "invoices": {
+      "entity": "invoices",
+      "source_rows": 32631,
+      "merged": 0,
+      "out_of_scope": 9053,
+      "expected_rejects": 0,
+      "expected_loads": 23578,
+      "actual_loads": 23578,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "credit notes": {
+      "entity": "credit notes",
+      "source_rows": 635,
+      "merged": 0,
+      "out_of_scope": 191,
+      "expected_rejects": 0,
+      "expected_loads": 444,
+      "actual_loads": 444,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "payments": {
+      "entity": "payments",
+      "source_rows": 32339,
+      "merged": 0,
+      "out_of_scope": 9167,
+      "expected_rejects": 0,
+      "expected_loads": 23172,
+      "actual_loads": 23172,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    }
+  },
+  "l3_mismatches_by_field": {
+    "payments.paid_date": 1463
+  },
+  "l3_records_with_mismatch": {
+    "customers": 0,
+    "subscriptions": 0,
+    "invoices": 0,
+    "credit_notes": 0,
+    "payments": 1463
+  },
+  "money": {
+    "expected_invoice_total_by_currency": {
+      "CAD": "4422802.20",
+      "EUR": "1547050.78",
+      "GBP": "2372713.83",
+      "USD": "17220379.99"
+    },
+    "actual_invoice_total_by_currency": {
+      "CAD": "4422802.20",
+      "EUR": "1547050.78",
+      "GBP": "2372713.83",
+      "USD": "17220379.99"
+    },
+    "expected_payment_total_by_currency": {
+      "CAD": "4049985.40",
+      "EUR": "1493889.46",
+      "GBP": "2207990.65",
+      "USD": "16412216.74"
+    },
+    "actual_payment_total_by_currency": {
+      "CAD": "4049985.40",
+      "EUR": "1493889.46",
+      "GBP": "2207990.65",
+      "USD": "16412216.74"
+    },
+    "expected_open_ar_by_currency": {
+      "CAD": "331093.70",
+      "EUR": "43081.77",
+      "GBP": "99317.02",
+      "USD": "228757.51"
+    },
+    "actual_open_ar_by_currency": {
+      "CAD": "331093.70",
+      "EUR": "43081.77",
+      "GBP": "99317.02",
+      "USD": "228757.51"
+    }
+  },
+  "accepted_exceptions": {
+    "EX-01": 23,
+    "EX-02": 80,
+    "EX-03": 25,
+    "EX-04": 6
+  },
+  "coverage_change": "Added payments.paid_date, payments.method and customers.created_date, and check RC-RI-11, after DEF-BPM-001 showed the loader converting time stamps (DEC-BPM-011)."
+}

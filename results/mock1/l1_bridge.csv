@@ -1,0 +1,6 @@
+entity,source_rows,merged,out_of_scope,expected_rejects,expected_loads,actual_loads,actual_rejects,missing_in_target,not_expected,loaded_twice,bridge_balances
+customers,1227,27,47,0,1153,1153,0,0,0,0,1
+subscriptions,1894,0,166,6,1722,1698,6,24,0,0,1
+invoices,32631,0,9053,0,23578,24022,0,0,444,0,1
+credit notes,635,0,191,0,444,0,0,444,0,0,1
+payments,32339,0,9167,0,23172,23172,0,0,0,0,1

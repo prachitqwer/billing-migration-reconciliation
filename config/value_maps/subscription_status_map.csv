@@ -1,0 +1,8 @@
+legacy_status,legacy_meaning,target_status,cancel_reason,migrate
+ACT,Active,active,,Y
+TRL,Free trial,trialing,,Y
+SUSP,Suspended for non-payment,past_due,,Y
+PAUS,Paused at customer request,paused,,Y
+CANC,Cancelled,canceled,customer_request,Y
+EXP,Expired at term end,canceled,expired,Y
+PEND,Pending activation,,,N

@@ -1,0 +1,8 @@
+legacy_method,target_method
+CARD,card
+ACH,ach_debit
+WIRE,wire_transfer
+CHK,check
+EFT,eft
+BACS,bacs_debit
+SEPA,sepa_debit

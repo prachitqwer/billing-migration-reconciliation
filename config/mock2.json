@@ -1,0 +1,59 @@
+{
+  "run_id": "mock2",
+  "label": "Mock cutover 2",
+  "run_date": "2026-10-12",
+  "migration_build": "1.1",
+  "l3_fields": {
+    "customers": [
+      "name",
+      "email",
+      "country",
+      "currency",
+      "status",
+      "invoice_hold",
+      "merged_legacy_ids",
+      "created_date"
+    ],
+    "subscriptions": [
+      "customer",
+      "plan_id",
+      "quantity",
+      "start_date",
+      "end_date",
+      "status",
+      "cancel_reason"
+    ],
+    "invoices": [
+      "customer",
+      "subscription",
+      "invoice_date",
+      "due_date",
+      "currency",
+      "subtotal",
+      "tax",
+      "total",
+      "amount_paid",
+      "amount_due",
+      "status"
+    ],
+    "credit_notes": [
+      "customer",
+      "invoice",
+      "credit_date",
+      "currency",
+      "subtotal",
+      "tax",
+      "total"
+    ],
+    "payments": [
+      "customer",
+      "invoice",
+      "currency",
+      "amount",
+      "unapplied",
+      "paid_date",
+      "method"
+    ]
+  },
+  "coverage_change": "Added payments.paid_date, payments.method and customers.created_date, and check RC-RI-11, after DEF-BPM-001 showed the loader converting time stamps (DEC-BPM-011)."
+}

@@ -1,0 +1,135 @@
+exception_id,entity,legacy_key,detail
+EX-01,payment,P3021387,"USD 7938.42, customer C100017"
+EX-01,payment,P3021407,"USD 389.01, customer C102157"
+EX-01,payment,P3021779,"USD 1099.73, customer C101589"
+EX-01,payment,P3022305,"USD 8684.28, customer C101016"
+EX-01,payment,P3022657,"USD 8742.08, customer C102894"
+EX-01,payment,P3022778,"GBP 2637.72, customer C102185"
+EX-01,payment,P3022978,"USD 8233.98, customer C102310"
+EX-01,payment,P3023186,"USD 2801.56, customer C100664"
+EX-01,payment,P3024382,"EUR 6007.74, customer C101673"
+EX-01,payment,P3025010,"USD 7687.72, customer C100686"
+EX-01,payment,P3025092,"GBP 3146.39, customer C102773"
+EX-01,payment,P3025273,"USD 5690.57, customer C102150"
+EX-01,payment,P3025304,"USD 3894.18, customer C102108"
+EX-01,payment,P3025339,"USD 952.19, customer C102322"
+EX-01,payment,P3025780,"USD 7297.72, customer C101620"
+EX-01,payment,P3026134,"USD 2245.56, customer C100871"
+EX-01,payment,P3027510,"USD 3999.25, customer C101962"
+EX-01,payment,P3028683,"USD 5146.52, customer C102565"
+EX-01,payment,P3028888,"USD 676.44, customer C102508"
+EX-01,payment,P3029476,"CAD 2267.76, customer C101804"
+EX-01,payment,P3030077,"USD 1871.03, customer C101761"
+EX-01,payment,P3030352,"CAD 8230.62, customer C101178"
+EX-01,payment,P3031561,"CAD 8859.29, customer C100749"
+EX-02,invoice,INV7009492,"net 900.00 + tax 56.25, billed 956.26"
+EX-02,invoice,INV7009817,"net 1820.00 + tax 0.00, billed 1820.01"
+EX-02,invoice,INV7010052,"net 225.00 + tax 14.06, billed 239.07"
+EX-02,invoice,INV7010200,"net 210.00 + tax 0.00, billed 209.99"
+EX-02,invoice,INV7010420,"net 48.00 + tax 9.60, billed 57.61"
+EX-02,invoice,INV7010533,"net 47.25 + tax 6.14, billed 53.38"
+EX-02,invoice,INV7010632,"net 360.00 + tax 21.60, billed 381.61"
+EX-02,invoice,INV7010754,"net 51.00 + tax 3.19, billed 54.18"
+EX-02,invoice,INV7011099,"net 18493.73 + tax 1202.09, billed 19695.83"
+EX-02,invoice,INV7012091,"net 38.64 + tax 0.00, billed 38.65"
+EX-02,invoice,INV7012267,"net 115.20 + tax 23.04, billed 138.25"
+EX-02,invoice,INV7012553,"net 350.00 + tax 21.88, billed 371.89"
+EX-02,invoice,INV7012733,"net 1200.00 + tax 57.00, billed 1257.01"
+EX-02,invoice,INV7012770,"net 7245.00 + tax 642.99, billed 7888.00"
+EX-02,invoice,INV7012859,"net 28101.00 + tax 0.00, billed 28100.99"
+EX-02,invoice,INV7013063,"net 660.00 + tax 39.60, billed 699.61"
+EX-02,invoice,INV7013330,"net 672.00 + tax 134.40, billed 806.41"
+EX-02,invoice,INV7013357,"net 255.00 + tax 12.11, billed 267.10"
+EX-02,invoice,INV7013459,"net 385.00 + tax 24.06, billed 409.07"
+EX-02,invoice,INV7013502,"net 116.00 + tax 7.54, billed 123.53"
+EX-02,invoice,INV7013624,"net 420.00 + tax 26.25, billed 446.26"
+EX-02,invoice,INV7013920,"net 68.00 + tax 3.23, billed 71.22"
+EX-02,invoice,INV7014119,"net 1290.00 + tax 61.28, billed 1351.27"
+EX-02,invoice,INV7014651,"net 178.20 + tax 23.17, billed 201.36"
+EX-02,invoice,INV7014954,"net 300.00 + tax 14.25, billed 314.26"
+EX-02,invoice,INV7014973,"net 375.00 + tax 0.00, billed 375.01"
+EX-02,invoice,INV7014996,"net 51.00 + tax 4.53, billed 55.52"
+EX-02,invoice,INV7015029,"net 70.00 + tax 4.55, billed 74.56"
+EX-02,invoice,INV7015490,"net 744.00 + tax 148.80, billed 892.79"
+EX-02,invoice,INV7016171,"net 60.75 + tax 7.90, billed 68.64"
+EX-02,invoice,INV7016287,"net 40.80 + tax 8.16, billed 48.95"
+EX-02,invoice,INV7016505,"net 455.00 + tax 29.58, billed 484.57"
+EX-02,invoice,INV7016687,"net 75.00 + tax 4.69, billed 79.70"
+EX-02,invoice,INV7016987,"net 168.00 + tax 14.91, billed 182.90"
+EX-02,invoice,INV7018175,"net 30.00 + tax 1.88, billed 31.89"
+EX-02,invoice,INV7018239,"net 1104.00 + tax 209.76, billed 1313.75"
+EX-02,invoice,INV7018375,"net 307.80 + tax 40.01, billed 347.82"
+EX-02,invoice,INV7018548,"net 129.60 + tax 16.85, billed 146.44"
+EX-02,invoice,INV7019508,"net 222.00 + tax 0.00, billed 221.99"
+EX-02,invoice,INV7020617,"net 140.00 + tax 8.75, billed 148.76"
+EX-02,invoice,INV7020810,"net 55.20 + tax 0.00, billed 55.21"
+EX-02,invoice,INV7022002,"net 547.40 + tax 114.95, billed 662.36"
+EX-02,invoice,INV7022326,"net 240.00 + tax 0.00, billed 239.99"
+EX-02,invoice,INV7022529,"net 186.00 + tax 0.00, billed 185.99"
+EX-02,invoice,INV7022699,"net 60.00 + tax 0.00, billed 59.99"
+EX-02,invoice,INV7023074,"net 47.25 + tax 6.14, billed 53.38"
+EX-02,invoice,INV7023312,"net 240.00 + tax 0.00, billed 240.01"
+EX-02,invoice,INV7023341,"net 194.40 + tax 23.33, billed 217.72"
+EX-02,invoice,INV7023789,"net 768.00 + tax 153.60, billed 921.61"
+EX-02,invoice,INV7024457,"net 78.00 + tax 4.88, billed 82.89"
+EX-02,invoice,INV7025284,"net 136.16 + tax 25.87, billed 162.02"
+EX-02,invoice,INV7025465,"net 18.00 + tax 0.00, billed 17.99"
+EX-02,invoice,INV7025594,"net 86.40 + tax 10.37, billed 96.78"
+EX-02,invoice,INV7025703,"net 45.00 + tax 2.81, billed 47.80"
+EX-02,invoice,INV7026699,"net 972.00 + tax 116.64, billed 1088.65"
+EX-02,invoice,INV7027089,"net 120.00 + tax 24.00, billed 144.01"
+EX-02,invoice,INV7027381,"net 16.00 + tax 1.04, billed 17.03"
+EX-02,invoice,INV7027492,"net 385.00 + tax 0.00, billed 384.99"
+EX-02,invoice,INV7028076,"net 406.00 + tax 25.38, billed 431.39"
+EX-02,invoice,INV7028398,"net 60.80 + tax 12.16, billed 72.97"
+EX-02,invoice,INV7028472,"net 84.00 + tax 16.80, billed 100.79"
+EX-02,invoice,INV7028576,"net 140.00 + tax 0.00, billed 140.01"
+EX-02,invoice,INV7028665,"net 128.00 + tax 0.00, billed 127.99"
+EX-02,invoice,INV7028764,"net 24.00 + tax 0.00, billed 24.01"
+EX-02,invoice,INV7028769,"net 78.00 + tax 4.88, billed 82.87"
+EX-02,invoice,INV7028955,"net 60.00 + tax 3.90, billed 63.89"
+EX-02,invoice,INV7028958,"net 124.00 + tax 7.75, billed 131.76"
+EX-02,invoice,INV7029448,"net 96.00 + tax 0.00, billed 96.01"
+EX-02,invoice,INV7029820,"net 385.00 + tax 0.00, billed 384.99"
+EX-02,invoice,INV7029884,"net 6.00 + tax 0.29, billed 6.28"
+EX-02,invoice,INV7030078,"net 30.00 + tax 1.80, billed 31.79"
+EX-02,invoice,INV7030643,"net 174.00 + tax 11.31, billed 185.32"
+EX-02,invoice,INV7031255,"net 178.20 + tax 21.38, billed 199.57"
+EX-02,invoice,INV7031269,"net 210.00 + tax 13.13, billed 223.14"
+EX-02,invoice,INV7031332,"net 105.00 + tax 6.56, billed 111.57"
+EX-02,invoice,INV7031359,"net 768.00 + tax 153.60, billed 921.59"
+EX-02,invoice,INV7031366,"net 15.00 + tax 1.33, billed 16.34"
+EX-02,invoice,INV7031585,"net 105.30 + tax 15.77, billed 121.06"
+EX-02,invoice,INV7031664,"net 234.60 + tax 44.57, billed 279.16"
+EX-02,invoice,INV7032161,"net 4384.25 + tax 389.10, billed 4773.36"
+EX-03,customer,C100101,Echo Insurance Group
+EX-03,customer,C100160,Keystone Systems Inc
+EX-03,customer,C100307,Clear Builders Inc
+EX-03,customer,C100388,Bluff Outfitters Corp
+EX-03,customer,C100394,Meridian Retail Inc
+EX-03,customer,C100494,Driftwood Legal Group
+EX-03,customer,C100517,Willow Printing PLC
+EX-03,customer,C100623,Lake Learning Inc
+EX-03,customer,C100674,Golden Software Inc
+EX-03,customer,C100834,Vista Media Co
+EX-03,customer,C100906,Lantern Dental Group
+EX-03,customer,C100977,North Aviation Corp
+EX-03,customer,C101230,Vantage Supply Corp
+EX-03,customer,C101349,Hollow Pharma Co
+EX-03,customer,C101479,Union Staffing Group
+EX-03,customer,C101830,Driftwood Studios DAC
+EX-03,customer,C101835,Timber Freight Group
+EX-03,customer,C101995,Orbit Veterinary Inc
+EX-03,customer,C102021,Cedar Accounting Corp
+EX-03,customer,C102272,Spruce Engineering Inc
+EX-03,customer,C102346,Canyon Insurance PLC
+EX-03,customer,C102603,Laurel Accounting LLC
+EX-03,customer,C102611,Stone Printing Corp
+EX-03,customer,C102628,Wren Energy Corp
+EX-03,customer,C102779,Frontier Legal Group
+EX-04,subscription,S501889,quantity must be at least 1
+EX-04,subscription,S501890,quantity must be at least 1
+EX-04,subscription,S501891,quantity must be at least 1
+EX-04,subscription,S501892,quantity must be at least 1
+EX-04,subscription,S501893,quantity must be at least 1
+EX-04,subscription,S501894,quantity must be at least 1

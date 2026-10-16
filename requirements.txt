@@ -1,0 +1,9 @@
+# Runtime and test dependencies (built and tested on Python 3.13).
+pandas>=2.2
+openpyxl>=3.1
+tzdata>=2024.1        # IANA time zones for zoneinfo; Windows has none built in
+pytest>=8.0
+
+# Only for scripts/render_readme_images.py
+# matplotlib>=3.8
+# pillow>=10.0

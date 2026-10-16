@@ -1,0 +1,4 @@
+legacy_status,legacy_meaning,target_status,invoice_hold
+A,Active,active,false
+H,On billing hold,active,true
+I,Inactive,inactive,false

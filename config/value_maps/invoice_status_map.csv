@@ -1,0 +1,6 @@
+legacy_status,legacy_meaning,target_status
+OPEN,Unpaid,open
+PART,Part paid,open
+PAID,Paid in full,paid
+VOID,Voided,void
+WO,Written off,uncollectible

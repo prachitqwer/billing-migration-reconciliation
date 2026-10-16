@@ -1,0 +1,3862 @@
+rule_id,source_table,record_key,value
+DQ-01,lb_invoices,CRN8000050,"""C100187 """
+DQ-01,lb_invoices,CRN8000091,"""C100519 """
+DQ-01,lb_invoices,CRN8000272,"""C102202 """
+DQ-01,lb_invoices,CRN8000289,"""C102146 """
+DQ-01,lb_invoices,CRN8000331,"""C101508 """
+DQ-01,lb_invoices,CRN8000427,"""C102977 """
+DQ-01,lb_invoices,INV7000009,"""C101649 """
+DQ-01,lb_invoices,INV7000315,"""C100318 """
+DQ-01,lb_invoices,INV7000320,"""C100995 """
+DQ-01,lb_invoices,INV7000407,"""C101308 """
+DQ-01,lb_invoices,INV7000412,"""C102957 """
+DQ-01,lb_invoices,INV7000480,"""C102844 """
+DQ-01,lb_invoices,INV7000508,"""C100389 """
+DQ-01,lb_invoices,INV7000557,"""C102883 """
+DQ-01,lb_invoices,INV7000588,"""C103040 """
+DQ-01,lb_invoices,INV7000813,"""C100945 """
+DQ-01,lb_invoices,INV7000950,"""C102517 """
+DQ-01,lb_invoices,INV7001042,"""C102475 """
+DQ-01,lb_invoices,INV7001069,"""C100514 """
+DQ-01,lb_invoices,INV7001165,"""C101648 """
+DQ-01,lb_invoices,INV7001256,"""C100453 """
+DQ-01,lb_invoices,INV7001289,"""C101508 """
+DQ-01,lb_invoices,INV7001407,"""C100785 """
+DQ-01,lb_invoices,INV7001416,"""C100416 """
+DQ-01,lb_invoices,INV7001488,"""C100089 """
+DQ-01,lb_invoices,INV7001495,"""C100300 """
+DQ-01,lb_invoices,INV7001623,"""C101441 """
+DQ-01,lb_invoices,INV7001808,"""C101153 """
+DQ-01,lb_invoices,INV7001900,"""C102276 """
+DQ-01,lb_invoices,INV7002001,"""C101059 """
+DQ-01,lb_invoices,INV7002035,"""C100519 """
+DQ-01,lb_invoices,INV7002135,"""C100024 """
+DQ-01,lb_invoices,INV7002145,"""C100416 """
+DQ-01,lb_invoices,INV7002238,"""C101162 """
+DQ-01,lb_invoices,INV7002500,"""C100514 """
+DQ-01,lb_invoices,INV7002503,"""C101146 """
+DQ-01,lb_invoices,INV7002579,"""C100782 """
+DQ-01,lb_invoices,INV7002679,"""C100389 """
+DQ-01,lb_invoices,INV7002812,"""C100180 """
+DQ-01,lb_invoices,INV7002873,"""C101711 """
+DQ-01,lb_invoices,INV7002934,"""C101684 """
+DQ-01,lb_invoices,INV7002985,"""C101360 """
+DQ-01,lb_invoices,INV7003051,"""C100937 """
+DQ-01,lb_invoices,INV7003270,"""C101153 """
+DQ-01,lb_invoices,INV7003334,"""C102603 """
+DQ-01,lb_invoices,INV7003344,"""C102844 """
+DQ-01,lb_invoices,INV7003491,"""C101349 """
+DQ-01,lb_invoices,INV7003604,"""C102468 """
+DQ-01,lb_invoices,INV7003806,"""C100420 """
+DQ-01,lb_invoices,INV7003817,"""C101441 """
+DQ-01,lb_invoices,INV7003995,"""C102056 """
+DQ-01,lb_invoices,INV7004114,"""C102137 """
+DQ-01,lb_invoices,INV7004183,"""C101923 """
+DQ-01,lb_invoices,INV7004351,"""C101479 """
+DQ-01,lb_invoices,INV7004547,"""C101413 """
+DQ-01,lb_invoices,INV7004631,"""C101849 """
+DQ-01,lb_invoices,INV7004747,"""C100821 """
+DQ-01,lb_invoices,INV7004793,"""C100811 """
+DQ-01,lb_invoices,INV7004859,"""C100257 """
+DQ-01,lb_invoices,INV7004870,"""C101689 """
+DQ-01,lb_invoices,INV7004950,"""C100458 """
+DQ-01,lb_invoices,INV7004986,"""C100109 """
+DQ-01,lb_invoices,INV7004999,"""C103021 """
+DQ-01,lb_invoices,INV7005926,"""C100700 """
+DQ-01,lb_invoices,INV7006123,"""C102029 """
+DQ-01,lb_invoices,INV7006216,"""C101521 """
+DQ-01,lb_invoices,INV7006493,"""C100651 """
+DQ-01,lb_invoices,INV7006542,"""C102880 """
+DQ-01,lb_invoices,INV7006595,"""C101053 """
+DQ-01,lb_invoices,INV7006717,"""C101587 """
+DQ-01,lb_invoices,INV7006746,"""C102679 """
+DQ-01,lb_invoices,INV7006929,"""C102679 """
+DQ-01,lb_invoices,INV7007044,"""C102095 """
+DQ-01,lb_invoices,INV7007077,"""C100141 """
+DQ-01,lb_invoices,INV7007126,"""C102710 """
+DQ-01,lb_invoices,INV7007160,"""C100061 """
+DQ-01,lb_invoices,INV7007286,"""C101952 """
+DQ-01,lb_invoices,INV7007458,"""C102310 """
+DQ-01,lb_invoices,INV7007559,"""C102964 """
+DQ-01,lb_invoices,INV7007574,"""C100089 """
+DQ-01,lb_invoices,INV7007857,"""C102011 """
+DQ-01,lb_invoices,INV7007935,"""C101253 """
+DQ-01,lb_invoices,INV7007937,"""C102926 """
+DQ-01,lb_invoices,INV7008006,"""C100560 """
+DQ-01,lb_invoices,INV7008033,"""C102202 """
+DQ-01,lb_invoices,INV7008046,"""C101962 """
+DQ-01,lb_invoices,INV7008119,"""C101337 """
+DQ-01,lb_invoices,INV7008120,"""C102225 """
+DQ-01,lb_invoices,INV7008153,"""C100738 """
+DQ-01,lb_invoices,INV7008189,"""C102667 """
+DQ-01,lb_invoices,INV7008225,"""C101831 """
+DQ-01,lb_invoices,INV7008286,"""C100829 """
+DQ-01,lb_invoices,INV7008403,"""C101296 """
+DQ-01,lb_invoices,INV7008531,"""C100157 """
+DQ-01,lb_invoices,INV7008602,"""C102522 """
+DQ-01,lb_invoices,INV7008678,"""C100318 """
+DQ-01,lb_invoices,INV7008719,"""C102332 """
+DQ-01,lb_invoices,INV7008750,"""C100256 """
+DQ-01,lb_invoices,INV7008845,"""C100284 """
+DQ-01,lb_invoices,INV7008876,"""C102128 """
+DQ-01,lb_invoices,INV7008895,"""C102790 """
+DQ-01,lb_invoices,INV7008942,"""C102708 """
+DQ-01,lb_invoices,INV7008959,"""C102370 """
+DQ-01,lb_invoices,INV7009066,"""C101831 """
+DQ-01,lb_invoices,INV7009179,"""C100723 """
+DQ-01,lb_invoices,INV7009343,"""C102618 """
+DQ-01,lb_invoices,INV7009374,"""C101441 """
+DQ-01,lb_invoices,INV7009567,"""C102799 """
+DQ-01,lb_invoices,INV7009614,"""C101749 """
+DQ-01,lb_invoices,INV7009697,"""C101781 """
+DQ-01,lb_invoices,INV7009740,"""C102666 """
+DQ-01,lb_invoices,INV7009877,"""C100586 """
+DQ-01,lb_invoices,INV7009894,"""C101854 """
+DQ-01,lb_invoices,INV7009962,"""C100542 """
+DQ-01,lb_invoices,INV7010073,"""C100809 """
+DQ-01,lb_invoices,INV7010336,"""C102715 """
+DQ-01,lb_invoices,INV7010358,"""C101430 """
+DQ-01,lb_invoices,INV7010559,"""C100785 """
+DQ-01,lb_invoices,INV7010764,"""C100989 """
+DQ-01,lb_invoices,INV7011078,"""C102191 """
+DQ-01,lb_invoices,INV7011088,"""C102563 """
+DQ-01,lb_invoices,INV7011246,"""C100025 """
+DQ-01,lb_invoices,INV7011439,"""C101259 """
+DQ-01,lb_invoices,INV7011547,"""C101464 """
+DQ-01,lb_invoices,INV7011572,"""C102632 """
+DQ-01,lb_invoices,INV7011621,"""C102028 """
+DQ-01,lb_invoices,INV7011775,"""C102958 """
+DQ-01,lb_invoices,INV7012072,"""C102317 """
+DQ-01,lb_invoices,INV7012220,"""C100257 """
+DQ-01,lb_invoices,INV7012267,"""C102298 """
+DQ-01,lb_invoices,INV7012411,"""C100481 """
+DQ-01,lb_invoices,INV7012515,"""C101863 """
+DQ-01,lb_invoices,INV7012600,"""C102821 """
+DQ-01,lb_invoices,INV7012686,"""C101147 """
+DQ-01,lb_invoices,INV7012762,"""C102790 """
+DQ-01,lb_invoices,INV7012833,"""C102029 """
+DQ-01,lb_invoices,INV7012849,"""C100925 """
+DQ-01,lb_invoices,INV7013103,"""C101915 """
+DQ-01,lb_invoices,INV7013138,"""C102317 """
+DQ-01,lb_invoices,INV7013148,"""C100439 """
+DQ-01,lb_invoices,INV7013170,"""C100927 """
+DQ-01,lb_invoices,INV7013287,"""C101059 """
+DQ-01,lb_invoices,INV7013345,"""C100340 """
+DQ-01,lb_invoices,INV7013517,"""C100700 """
+DQ-01,lb_invoices,INV7013617,"""C102757 """
+DQ-01,lb_invoices,INV7013745,"""C102306 """
+DQ-01,lb_invoices,INV7013823,"""C100679 """
+DQ-01,lb_invoices,INV7013929,"""C100183 """
+DQ-01,lb_invoices,INV7014128,"""C100446 """
+DQ-01,lb_invoices,INV7014157,"""C100017 """
+DQ-01,lb_invoices,INV7014223,"""C102169 """
+DQ-01,lb_invoices,INV7014242,"""C100260 """
+DQ-01,lb_invoices,INV7014302,"""C101599 """
+DQ-01,lb_invoices,INV7014309,"""C101257 """
+DQ-01,lb_invoices,INV7014334,"""C101728 """
+DQ-01,lb_invoices,INV7014358,"""C101991 """
+DQ-01,lb_invoices,INV7014398,"""C103002 """
+DQ-01,lb_invoices,INV7014652,"""C102718 """
+DQ-01,lb_invoices,INV7014666,"""C100599 """
+DQ-01,lb_invoices,INV7014724,"""C100183 """
+DQ-01,lb_invoices,INV7014838,"""C101264 """
+DQ-01,lb_invoices,INV7014910,"""C101804 """
+DQ-01,lb_invoices,INV7014973,"""C101648 """
+DQ-01,lb_invoices,INV7015044,"""C100097 """
+DQ-01,lb_invoices,INV7015456,"""C101000 """
+DQ-01,lb_invoices,INV7015737,"""C100514 """
+DQ-01,lb_invoices,INV7015798,"""C101424 """
+DQ-01,lb_invoices,INV7015813,"""C102191 """
+DQ-01,lb_invoices,INV7015949,"""C102221 """
+DQ-01,lb_invoices,INV7016021,"""C101360 """
+DQ-01,lb_invoices,INV7016613,"""C101491 """
+DQ-01,lb_invoices,INV7016671,"""C101790 """
+DQ-01,lb_invoices,INV7016676,"""C100502 """
+DQ-01,lb_invoices,INV7016738,"""C102191 """
+DQ-01,lb_invoices,INV7016741,"""C101187 """
+DQ-01,lb_invoices,INV7017012,"""C102880 """
+DQ-01,lb_invoices,INV7017230,"""C100320 """
+DQ-01,lb_invoices,INV7017247,"""C100662 """
+DQ-01,lb_invoices,INV7017316,"""C100371 """
+DQ-01,lb_invoices,INV7017341,"""C101610 """
+DQ-01,lb_invoices,INV7017383,"""C102692 """
+DQ-01,lb_invoices,INV7017509,"""C102740 """
+DQ-01,lb_invoices,INV7017574,"""C101491 """
+DQ-01,lb_invoices,INV7017664,"""C102918 """
+DQ-01,lb_invoices,INV7017684,"""C102191 """
+DQ-01,lb_invoices,INV7017785,"""C101648 """
+DQ-01,lb_invoices,INV7017824,"""C101280 """
+DQ-01,lb_invoices,INV7017953,"""C101441 """
+DQ-01,lb_invoices,INV7017984,"""C102219 """
+DQ-01,lb_invoices,INV7018000,"""C103014 """
+DQ-01,lb_invoices,INV7018029,"""C102276 """
+DQ-01,lb_invoices,INV7018035,"""C100414 """
+DQ-01,lb_invoices,INV7018184,"""C100991 """
+DQ-01,lb_invoices,INV7018377,"""C100969 """
+DQ-01,lb_invoices,INV7018507,"""C101825 """
+DQ-01,lb_invoices,INV7018759,"""C101962 """
+DQ-01,lb_invoices,INV7018900,"""C102203 """
+DQ-01,lb_invoices,INV7018948,"""C102632 """
+DQ-01,lb_invoices,INV7018980,"""C102373 """
+DQ-01,lb_invoices,INV7019085,"""C102468 """
+DQ-01,lb_invoices,INV7019316,"""C102049 """
+DQ-01,lb_invoices,INV7019446,"""C102377 """
+DQ-01,lb_invoices,INV7019451,"""C101864 """
+DQ-01,lb_invoices,INV7019606,"""C101987 """
+DQ-01,lb_invoices,INV7019708,"""C101455 """
+DQ-01,lb_invoices,INV7020199,"""C100591 """
+DQ-01,lb_invoices,INV7020400,"""C102279 """
+DQ-01,lb_invoices,INV7020594,"""C100808 """
+DQ-01,lb_invoices,INV7020851,"""C103019 """
+DQ-01,lb_invoices,INV7020946,"""C100477 """
+DQ-01,lb_invoices,INV7021256,"""C101387 """
+DQ-01,lb_invoices,INV7021449,"""C102052 """
+DQ-01,lb_invoices,INV7021454,"""C102457 """
+DQ-01,lb_invoices,INV7021507,"""C102018 """
+DQ-01,lb_invoices,INV7021761,"""C100634 """
+DQ-01,lb_invoices,INV7021765,"""C102225 """
+DQ-01,lb_invoices,INV7022099,"""C100715 """
+DQ-01,lb_invoices,INV7022156,"""C102024 """
+DQ-01,lb_invoices,INV7022372,"""C101028 """
+DQ-01,lb_invoices,INV7022520,"""C100467 """
+DQ-01,lb_invoices,INV7022543,"""C101415 """
+DQ-01,lb_invoices,INV7022576,"""C100061 """
+DQ-01,lb_invoices,INV7022667,"""C102284 """
+DQ-01,lb_invoices,INV7022897,"""C101816 """
+DQ-01,lb_invoices,INV7023335,"""C102942 """
+DQ-01,lb_invoices,INV7023550,"""C101323 """
+DQ-01,lb_invoices,INV7023624,"""C100197 """
+DQ-01,lb_invoices,INV7023679,"""C102790 """
+DQ-01,lb_invoices,INV7023736,"""C102883 """
+DQ-01,lb_invoices,INV7023748,"""C102708 """
+DQ-01,lb_invoices,INV7023826,"""C102477 """
+DQ-01,lb_invoices,INV7023832,"""C101192 """
+DQ-01,lb_invoices,INV7023864,"""C100611 """
+DQ-01,lb_invoices,INV7023874,"""C101728 """
+DQ-01,lb_invoices,INV7023897,"""C101831 """
+DQ-01,lb_invoices,INV7024054,"""C100320 """
+DQ-01,lb_invoices,INV7024184,"""C100761 """
+DQ-01,lb_invoices,INV7024299,"""C102922 """
+DQ-01,lb_invoices,INV7024442,"""C101112 """
+DQ-01,lb_invoices,INV7024552,"""C100834 """
+DQ-01,lb_invoices,INV7024601,"""C102157 """
+DQ-01,lb_invoices,INV7024870,"""C100414 """
+DQ-01,lb_invoices,INV7024902,"""C102227 """
+DQ-01,lb_invoices,INV7024984,"""C100473 """
+DQ-01,lb_invoices,INV7025096,"""C101453 """
+DQ-01,lb_invoices,INV7025097,"""C101497 """
+DQ-01,lb_invoices,INV7025187,"""C101897 """
+DQ-01,lb_invoices,INV7025199,"""C100286 """
+DQ-01,lb_invoices,INV7025333,"""C102778 """
+DQ-01,lb_invoices,INV7025343,"""C100201 """
+DQ-01,lb_invoices,INV7025402,"""C100371 """
+DQ-01,lb_invoices,INV7025736,"""C100017 """
+DQ-01,lb_invoices,INV7025751,"""C100465 """
+DQ-01,lb_invoices,INV7025774,"""C100101 """
+DQ-01,lb_invoices,INV7025837,"""C100109 """
+DQ-01,lb_invoices,INV7025855,"""C101464 """
+DQ-01,lb_invoices,INV7025893,"""C100958 """
+DQ-01,lb_invoices,INV7026157,"""C102385 """
+DQ-01,lb_invoices,INV7026164,"""C100657 """
+DQ-01,lb_invoices,INV7026206,"""C100538 """
+DQ-01,lb_invoices,INV7026511,"""C100602 """
+DQ-01,lb_invoices,INV7026679,"""C100045 """
+DQ-01,lb_invoices,INV7026744,"""C100534 """
+DQ-01,lb_invoices,INV7026749,"""C100626 """
+DQ-01,lb_invoices,INV7026772,"""C102790 """
+DQ-01,lb_invoices,INV7026820,"""C102453 """
+DQ-01,lb_invoices,INV7026880,"""C101077 """
+DQ-01,lb_invoices,INV7026883,"""C101486 """
+DQ-01,lb_invoices,INV7026945,"""C102487 """
+DQ-01,lb_invoices,INV7026957,"""C101779 """
+DQ-01,lb_invoices,INV7026993,"""C101264 """
+DQ-01,lb_invoices,INV7027062,"""C100785 """
+DQ-01,lb_invoices,INV7027228,"""C102943 """
+DQ-01,lb_invoices,INV7027276,"""C102892 """
+DQ-01,lb_invoices,INV7027330,"""C100927 """
+DQ-01,lb_invoices,INV7027444,"""C102435 """
+DQ-01,lb_invoices,INV7027467,"""C102009 """
+DQ-01,lb_invoices,INV7027524,"""C100318 """
+DQ-01,lb_invoices,INV7027539,"""C102283 """
+DQ-01,lb_invoices,INV7027605,"""C100141 """
+DQ-01,lb_invoices,INV7027618,"""C102332 """
+DQ-01,lb_invoices,INV7027635,"""C101725 """
+DQ-01,lb_invoices,INV7027724,"""C101764 """
+DQ-01,lb_invoices,INV7027810,"""C102202 """
+DQ-01,lb_invoices,INV7027814,"""C102298 """
+DQ-01,lb_invoices,INV7027884,"""C101528 """
+DQ-01,lb_invoices,INV7027943,"""C100481 """
+DQ-01,lb_invoices,INV7027947,"""C100054 """
+DQ-01,lb_invoices,INV7028222,"""C102508 """
+DQ-01,lb_invoices,INV7028229,"""C100878 """
+DQ-01,lb_invoices,INV7028769,"""C101344 """
+DQ-01,lb_invoices,INV7028793,"""C100493 """
+DQ-01,lb_invoices,INV7028998,"""C100038 """
+DQ-01,lb_invoices,INV7029282,"""C101266 """
+DQ-01,lb_invoices,INV7029401,"""C100713 """
+DQ-01,lb_invoices,INV7029557,"""C102890 """
+DQ-01,lb_invoices,INV7029651,"""C102419 """
+DQ-01,lb_invoices,INV7029678,"""C102512 """
+DQ-01,lb_invoices,INV7029705,"""C102740 """
+DQ-01,lb_invoices,INV7029727,"""C103001 """
+DQ-01,lb_invoices,INV7029753,"""C101431 """
+DQ-01,lb_invoices,INV7029843,"""C102111 """
+DQ-01,lb_invoices,INV7029932,"""C100711 """
+DQ-01,lb_invoices,INV7029962,"""C101869 """
+DQ-01,lb_invoices,INV7029969,"""C102317 """
+DQ-01,lb_invoices,INV7029979,"""C102569 """
+DQ-01,lb_invoices,INV7029987,"""C102148 """
+DQ-01,lb_invoices,INV7030102,"""C101741 """
+DQ-01,lb_invoices,INV7030150,"""C101657 """
+DQ-01,lb_invoices,INV7030179,"""C102431 """
+DQ-01,lb_invoices,INV7030264,"""C101984 """
+DQ-01,lb_invoices,INV7030338,"""C100611 """
+DQ-01,lb_invoices,INV7030362,"""C100035 """
+DQ-01,lb_invoices,INV7030435,"""C102821 """
+DQ-01,lb_invoices,INV7030699,"""C100532 """
+DQ-01,lb_invoices,INV7030780,"""C102995 """
+DQ-01,lb_invoices,INV7031053,"""C102793 """
+DQ-01,lb_invoices,INV7031067,"""C101591 """
+DQ-01,lb_invoices,INV7031081,"""C101448 """
+DQ-01,lb_invoices,INV7031102,"""C101784 """
+DQ-01,lb_invoices,INV7031319,"""C100494 """
+DQ-01,lb_invoices,INV7031502,"""C102632 """
+DQ-01,lb_invoices,INV7031573,"""C100473 """
+DQ-01,lb_invoices,INV7031607,"""C102310 """
+DQ-01,lb_invoices,INV7031754,"""C100900 """
+DQ-01,lb_invoices,INV7031755,"""C100538 """
+DQ-01,lb_invoices,INV7031762,"""C102024 """
+DQ-01,lb_invoices,INV7031767,"""C102983 """
+DQ-01,lb_invoices,INV7032050,"""C102475 """
+DQ-01,lb_invoices,INV7032169,"""C100655 """
+DQ-01,lb_invoices,INV7032211,"""C101323 """
+DQ-01,lb_invoices,INV7032252,"""C101623 """
+DQ-01,lb_invoices,INV7032258,"""C102652 """
+DQ-01,lb_invoices,INV7032266,"""C102603 """
+DQ-01,lb_invoices,INV7032402,"""C102666 """
+DQ-01,lb_invoices,INV7032429,"""C102312 """
+DQ-01,lb_invoices,INV7032440,"""C101792 """
+DQ-01,lb_invoices,INV7032451,"""C100494 """
+DQ-01,lb_payments,P3000003,"""C102292  """
+DQ-01,lb_payments,P3000031,"""C101703  """
+DQ-01,lb_payments,P3000043,"""C101157  """
+DQ-01,lb_payments,P3000220,"""C101400  """
+DQ-01,lb_payments,P3000260,"""C101849  """
+DQ-01,lb_payments,P3000349,"""C102254  """
+DQ-01,lb_payments,P3000368,"""C102527  """
+DQ-01,lb_payments,P3000398,"""C100310  """
+DQ-01,lb_payments,P3000419,"""C100086  """
+DQ-01,lb_payments,P3000449,"""C101930  """
+DQ-01,lb_payments,P3000493,"""C100738  """
+DQ-01,lb_payments,P3000505,"""C102679  """
+DQ-01,lb_payments,P3000579,"""C101971  """
+DQ-01,lb_payments,P3000580,"""C102148  """
+DQ-01,lb_payments,P3000586,"""C101393  """
+DQ-01,lb_payments,P3000778,"""C102715  """
+DQ-01,lb_payments,P3000921,"""C101426  """
+DQ-01,lb_payments,P3000930,"""C102989  """
+DQ-01,lb_payments,P3000956,"""C102475  """
+DQ-01,lb_payments,P3000992,"""C102478  """
+DQ-01,lb_payments,P3001069,"""C102063  """
+DQ-01,lb_payments,P3001077,"""C101505  """
+DQ-01,lb_payments,P3001138,"""C102508  """
+DQ-01,lb_payments,P3001163,"""C102295  """
+DQ-01,lb_payments,P3001260,"""C102148  """
+DQ-01,lb_payments,P3001279,"""C100937  """
+DQ-01,lb_payments,P3001313,"""C100716  """
+DQ-01,lb_payments,P3001334,"""C102146  """
+DQ-01,lb_payments,P3001343,"""C100346  """
+DQ-01,lb_payments,P3001370,"""C102784  """
+DQ-01,lb_payments,P3001398,"""C100389  """
+DQ-01,lb_payments,P3001447,"""C102298  """
+DQ-01,lb_payments,P3001465,"""C101430  """
+DQ-01,lb_payments,P3001481,"""C102056  """
+DQ-01,lb_payments,P3001516,"""C102541  """
+DQ-01,lb_payments,P3001590,"""C100079  """
+DQ-01,lb_payments,P3001603,"""C102128  """
+DQ-01,lb_payments,P3001604,"""C101160  """
+DQ-01,lb_payments,P3001621,"""C102790  """
+DQ-01,lb_payments,P3001631,"""C100883  """
+DQ-01,lb_payments,P3001719,"""C101642  """
+DQ-01,lb_payments,P3001740,"""C101162  """
+DQ-01,lb_payments,P3001745,"""C101863  """
+DQ-01,lb_payments,P3001748,"""C102217  """
+DQ-01,lb_payments,P3001780,"""C102715  """
+DQ-01,lb_payments,P3001816,"""C102233  """
+DQ-01,lb_payments,P3001819,"""C102632  """
+DQ-01,lb_payments,P3001897,"""C102977  """
+DQ-01,lb_payments,P3001949,"""C101441  """
+DQ-01,lb_payments,P3001975,"""C102370  """
+DQ-01,lb_payments,P3001987,"""C102700  """
+DQ-01,lb_payments,P3002014,"""C102477  """
+DQ-01,lb_payments,P3002074,"""C101059  """
+DQ-01,lb_payments,P3002094,"""C100833  """
+DQ-01,lb_payments,P3002110,"""C102093  """
+DQ-01,lb_payments,P3002137,"""C101833  """
+DQ-01,lb_payments,P3002149,"""C100183  """
+DQ-01,lb_payments,P3002160,"""C101776  """
+DQ-01,lb_payments,P3002206,"""C102146  """
+DQ-01,lb_payments,P3002260,"""C102284  """
+DQ-01,lb_payments,P3002399,"""C100832  """
+DQ-01,lb_payments,P3002471,"""C102192  """
+DQ-01,lb_payments,P3002501,"""C101097  """
+DQ-01,lb_payments,P3002521,"""C101231  """
+DQ-01,lb_payments,P3002564,"""C101779  """
+DQ-01,lb_payments,P3002621,"""C102977  """
+DQ-01,lb_payments,P3002654,"""C102233  """
+DQ-01,lb_payments,P3002687,"""C102667  """
+DQ-01,lb_payments,P3002711,"""C102732  """
+DQ-01,lb_payments,P3002736,"""C100180  """
+DQ-01,lb_payments,P3002753,"""C102894  """
+DQ-01,lb_payments,P3002772,"""C102200  """
+DQ-01,lb_payments,P3002774,"""C102938  """
+DQ-01,lb_payments,P3002811,"""C102942  """
+DQ-01,lb_payments,P3002838,"""C101337  """
+DQ-01,lb_payments,P3002851,"""C102661  """
+DQ-01,lb_payments,P3002918,"""C100986  """
+DQ-01,lb_payments,P3002991,"""C101210  """
+DQ-01,lb_payments,P3002993,"""C102797  """
+DQ-01,lb_payments,P3003016,"""C101937  """
+DQ-01,lb_payments,P3003039,"""C102784  """
+DQ-01,lb_payments,P3003040,"""C100803  """
+DQ-01,lb_payments,P3003042,"""C102831  """
+DQ-01,lb_payments,P3003054,"""C102814  """
+DQ-01,lb_payments,P3003079,"""C102750  """
+DQ-01,lb_payments,P3003140,"""C100562  """
+DQ-01,lb_payments,P3003150,"""C102354  """
+DQ-01,lb_payments,P3003230,"""C102638  """
+DQ-01,lb_payments,P3003286,"""C102153  """
+DQ-01,lb_payments,P3003389,"""C102095  """
+DQ-01,lb_payments,P3003471,"""C101749  """
+DQ-01,lb_payments,P3003560,"""C101733  """
+DQ-01,lb_payments,P3003578,"""C101097  """
+DQ-01,lb_payments,P3003641,"""C100611  """
+DQ-01,lb_payments,P3003713,"""C102063  """
+DQ-01,lb_payments,P3003736,"""C100842  """
+DQ-01,lb_payments,P3003737,"""C100644  """
+DQ-01,lb_payments,P3003779,"""C101184  """
+DQ-01,lb_payments,P3003788,"""C101125  """
+DQ-01,lb_payments,P3003801,"""C101849  """
+DQ-01,lb_payments,P3003812,"""C101962  """
+DQ-01,lb_payments,P3003865,"""C102619  """
+DQ-01,lb_payments,P3003915,"""C100821  """
+DQ-01,lb_payments,P3003933,"""C102821  """
+DQ-01,lb_payments,P3004019,"""C102500  """
+DQ-01,lb_payments,P3004074,"""C101065  """
+DQ-01,lb_payments,P3004080,"""C102196  """
+DQ-01,lb_payments,P3004111,"""C100804  """
+DQ-01,lb_payments,P3004118,"""C100038  """
+DQ-01,lb_payments,P3004237,"""C100389  """
+DQ-01,lb_payments,P3004260,"""C101413  """
+DQ-01,lb_payments,P3004295,"""C100787  """
+DQ-01,lb_payments,P3004299,"""C101046  """
+DQ-01,lb_payments,P3004300,"""C100785  """
+DQ-01,lb_payments,P3004310,"""C100704  """
+DQ-01,lb_payments,P3004316,"""C100453  """
+DQ-01,lb_payments,P3004422,"""C102897  """
+DQ-01,lb_payments,P3004479,"""C101160  """
+DQ-01,lb_payments,P3004498,"""C100300  """
+DQ-01,lb_payments,P3004527,"""C101112  """
+DQ-01,lb_payments,P3004595,"""C102700  """
+DQ-01,lb_payments,P3004657,"""C100738  """
+DQ-01,lb_payments,P3004658,"""C101905  """
+DQ-01,lb_payments,P3004675,"""C102355  """
+DQ-01,lb_payments,P3004817,"""C102202  """
+DQ-01,lb_payments,P3004839,"""C100288  """
+DQ-01,lb_payments,P3004874,"""C100320  """
+DQ-01,lb_payments,P3004905,"""C101790  """
+DQ-01,lb_payments,P3004955,"""C101133  """
+DQ-01,lb_payments,P3005014,"""C102461  """
+DQ-01,lb_payments,P3005031,"""C103035  """
+DQ-01,lb_payments,P3005067,"""C102445  """
+DQ-01,lb_payments,P3005178,"""C100018  """
+DQ-01,lb_payments,P3005272,"""C101937  """
+DQ-01,lb_payments,P3005279,"""C102449  """
+DQ-01,lb_payments,P3005300,"""C102832  """
+DQ-01,lb_payments,P3005308,"""C100453  """
+DQ-01,lb_payments,P3005328,"""C101241  """
+DQ-01,lb_payments,P3005378,"""C101150  """
+DQ-01,lb_payments,P3005423,"""C100985  """
+DQ-01,lb_payments,P3005464,"""C102196  """
+DQ-01,lb_payments,P3005487,"""C102133  """
+DQ-01,lb_payments,P3005521,"""C100782  """
+DQ-01,lb_payments,P3005592,"""C102095  """
+DQ-01,lb_payments,P3005618,"""C102219  """
+DQ-01,lb_payments,P3005660,"""C102383  """
+DQ-01,lb_payments,P3005692,"""C100183  """
+DQ-01,lb_payments,P3005719,"""C102831  """
+DQ-01,lb_payments,P3005769,"""C103059  """
+DQ-01,lb_payments,P3005783,"""C102049  """
+DQ-01,lb_payments,P3005790,"""C101673  """
+DQ-01,lb_payments,P3005804,"""C100008  """
+DQ-01,lb_payments,P3005893,"""C101984  """
+DQ-01,lb_payments,P3005903,"""C100711  """
+DQ-01,lb_payments,P3005969,"""C100589  """
+DQ-01,lb_payments,P3006006,"""C100655  """
+DQ-01,lb_payments,P3006014,"""C100562  """
+DQ-01,lb_payments,P3006024,"""C102111  """
+DQ-01,lb_payments,P3006082,"""C101424  """
+DQ-01,lb_payments,P3006092,"""C101733  """
+DQ-01,lb_payments,P3006145,"""C101153  """
+DQ-01,lb_payments,P3006161,"""C101133  """
+DQ-01,lb_payments,P3006204,"""C101923  """
+DQ-01,lb_payments,P3006255,"""C101192  """
+DQ-01,lb_payments,P3006318,"""C102983  """
+DQ-01,lb_payments,P3006322,"""C100336  """
+DQ-01,lb_payments,P3006340,"""C101949  """
+DQ-01,lb_payments,P3006352,"""C102418  """
+DQ-01,lb_payments,P3006367,"""C101962  """
+DQ-01,lb_payments,P3006368,"""C101253  """
+DQ-01,lb_payments,P3006446,"""C100925  """
+DQ-01,lb_payments,P3006482,"""C100817  """
+DQ-01,lb_payments,P3006487,"""C103031  """
+DQ-01,lb_payments,P3006511,"""C102638  """
+DQ-01,lb_payments,P3006536,"""C101584  """
+DQ-01,lb_payments,P3006558,"""C102385  """
+DQ-01,lb_payments,P3006571,"""C100254  """
+DQ-01,lb_payments,P3006669,"""C100955  """
+DQ-01,lb_payments,P3006770,"""C100832  """
+DQ-01,lb_payments,P3006822,"""C100686  """
+DQ-01,lb_payments,P3006834,"""C100811  """
+DQ-01,lb_payments,P3006867,"""C100560  """
+DQ-01,lb_payments,P3007004,"""C101190  """
+DQ-01,lb_payments,P3007033,"""C101279  """
+DQ-01,lb_payments,P3007084,"""C101830  """
+DQ-01,lb_payments,P3007170,"""C100581  """
+DQ-01,lb_payments,P3007283,"""C102799  """
+DQ-01,lb_payments,P3007307,"""C100715  """
+DQ-01,lb_payments,P3007336,"""C103031  """
+DQ-01,lb_payments,P3007391,"""C100937  """
+DQ-01,lb_payments,P3007442,"""C100927  """
+DQ-01,lb_payments,P3007500,"""C102512  """
+DQ-01,lb_payments,P3007503,"""C102740  """
+DQ-01,lb_payments,P3007556,"""C100369  """
+DQ-01,lb_payments,P3007620,"""C102457  """
+DQ-01,lb_payments,P3007688,"""C102880  """
+DQ-01,lb_payments,P3007805,"""C102797  """
+DQ-01,lb_payments,P3007822,"""C102512  """
+DQ-01,lb_payments,P3007864,"""C101999  """
+DQ-01,lb_payments,P3007952,"""C102063  """
+DQ-01,lb_payments,P3007976,"""C100048  """
+DQ-01,lb_payments,P3008027,"""C102377  """
+DQ-01,lb_payments,P3008054,"""C101296  """
+DQ-01,lb_payments,P3008158,"""C101684  """
+DQ-01,lb_payments,P3008285,"""C100577  """
+DQ-01,lb_payments,P3008304,"""C102522  """
+DQ-01,lb_payments,P3008314,"""C102475  """
+DQ-01,lb_payments,P3008316,"""C102603  """
+DQ-01,lb_payments,P3008317,"""C100869  """
+DQ-01,lb_payments,P3008333,"""C101169  """
+DQ-01,lb_payments,P3008431,"""C101264  """
+DQ-01,lb_payments,P3008515,"""C100811  """
+DQ-01,lb_payments,P3008520,"""C101459  """
+DQ-01,lb_payments,P3008523,"""C102063  """
+DQ-01,lb_payments,P3008525,"""C100832  """
+DQ-01,lb_payments,P3008540,"""C101666  """
+DQ-01,lb_payments,P3008553,"""C101745  """
+DQ-01,lb_payments,P3008596,"""C100785  """
+DQ-01,lb_payments,P3008711,"""C102587  """
+DQ-01,lb_payments,P3008758,"""C101680  """
+DQ-01,lb_payments,P3008805,"""C101133  """
+DQ-01,lb_payments,P3008846,"""C102146  """
+DQ-01,lb_payments,P3008879,"""C100148  """
+DQ-01,lb_payments,P3008888,"""C100804  """
+DQ-01,lb_payments,P3009023,"""C102045  """
+DQ-01,lb_payments,P3009109,"""C102679  """
+DQ-01,lb_payments,P3009111,"""C101531  """
+DQ-01,lb_payments,P3009166,"""C100955  """
+DQ-01,lb_payments,P3009305,"""C100833  """
+DQ-01,lb_payments,P3009495,"""C100130  """
+DQ-01,lb_payments,P3009500,"""C101699  """
+DQ-01,lb_payments,P3009508,"""C103009  """
+DQ-01,lb_payments,P3009534,"""C102354  """
+DQ-01,lb_payments,P3009576,"""C101781  """
+DQ-01,lb_payments,P3009624,"""C102098  """
+DQ-01,lb_payments,P3009646,"""C100177  """
+DQ-01,lb_payments,P3009672,"""C100723  """
+DQ-01,lb_payments,P3009748,"""C102977  """
+DQ-01,lb_payments,P3009785,"""C101684  """
+DQ-01,lb_payments,P3009822,"""C102943  """
+DQ-01,lb_payments,P3009956,"""C102778  """
+DQ-01,lb_payments,P3009979,"""C101020  """
+DQ-01,lb_payments,P3010038,"""C102658  """
+DQ-01,lb_payments,P3010052,"""C100506  """
+DQ-01,lb_payments,P3010085,"""C101497  """
+DQ-01,lb_payments,P3010112,"""C102790  """
+DQ-01,lb_payments,P3010119,"""C100371  """
+DQ-01,lb_payments,P3010152,"""C101323  """
+DQ-01,lb_payments,P3010194,"""C102401  """
+DQ-01,lb_payments,P3010310,"""C102500  """
+DQ-01,lb_payments,P3010400,"""C100090  """
+DQ-01,lb_payments,P3010469,"""C100901  """
+DQ-01,lb_payments,P3010479,"""C101756  """
+DQ-01,lb_payments,P3010490,"""C102045  """
+DQ-01,lb_payments,P3010542,"""C102157  """
+DQ-01,lb_payments,P3010598,"""C100809  """
+DQ-01,lb_payments,P3010655,"""C102847  """
+DQ-01,lb_payments,P3010659,"""C101147  """
+DQ-01,lb_payments,P3010664,"""C100804  """
+DQ-01,lb_payments,P3010696,"""C101781  """
+DQ-01,lb_payments,P3010763,"""C100467  """
+DQ-01,lb_payments,P3010784,"""C101470  """
+DQ-01,lb_payments,P3010814,"""C100130  """
+DQ-01,lb_payments,P3010815,"""C100955  """
+DQ-01,lb_payments,P3010845,"""C100389  """
+DQ-01,lb_payments,P3010992,"""C101591  """
+DQ-01,lb_payments,P3011003,"""C101603  """
+DQ-01,lb_payments,P3011079,"""C102750  """
+DQ-01,lb_payments,P3011093,"""C102618  """
+DQ-01,lb_payments,P3011113,"""C101257  """
+DQ-01,lb_payments,P3011121,"""C102607  """
+DQ-01,lb_payments,P3011128,"""C101952  """
+DQ-01,lb_payments,P3011157,"""C102317  """
+DQ-01,lb_payments,P3011167,"""C101360  """
+DQ-01,lb_payments,P3011179,"""C102018  """
+DQ-01,lb_payments,P3011217,"""C101781  """
+DQ-01,lb_payments,P3011231,"""C101441  """
+DQ-01,lb_payments,P3011237,"""C100985  """
+DQ-01,lb_payments,P3011391,"""C102702  """
+DQ-01,lb_payments,P3011450,"""C103058  """
+DQ-01,lb_payments,P3011474,"""C101464  """
+DQ-01,lb_payments,P3011531,"""C100035  """
+DQ-01,lb_payments,P3011600,"""C102644  """
+DQ-01,lb_payments,P3011627,"""C102858  """
+DQ-01,lb_payments,P3011687,"""C102314  """
+DQ-01,lb_payments,P3011689,"""C102259  """
+DQ-01,lb_payments,P3011771,"""C102091  """
+DQ-01,lb_payments,P3011810,"""C102013  """
+DQ-01,lb_payments,P3011823,"""C100704  """
+DQ-01,lb_payments,P3011864,"""C102805  """
+DQ-01,lb_payments,P3011868,"""C100318  """
+DQ-01,lb_payments,P3011926,"""C100141  """
+DQ-01,lb_payments,P3011961,"""C100089  """
+DQ-01,lb_payments,P3011990,"""C101052  """
+DQ-01,lb_payments,P3012005,"""C101706  """
+DQ-01,lb_payments,P3012015,"""C102615  """
+DQ-01,lb_payments,P3012060,"""C101360  """
+DQ-01,lb_payments,P3012061,"""C102708  """
+DQ-01,lb_payments,P3012066,"""C101125  """
+DQ-01,lb_payments,P3012142,"""C102284  """
+DQ-01,lb_payments,P3012196,"""C100388  """
+DQ-01,lb_payments,P3012290,"""C100523  """
+DQ-01,lb_payments,P3012324,"""C103049  """
+DQ-01,lb_payments,P3012356,"""C100118  """
+DQ-01,lb_payments,P3012369,"""C102216  """
+DQ-01,lb_payments,P3012376,"""C100655  """
+DQ-01,lb_payments,P3012444,"""C102649  """
+DQ-01,lb_payments,P3012454,"""C102797  """
+DQ-01,lb_payments,P3012468,"""C102565  """
+DQ-01,lb_payments,P3012499,"""C100869  """
+DQ-01,lb_payments,P3012610,"""C102880  """
+DQ-01,lb_payments,P3012613,"""C101825  """
+DQ-01,lb_payments,P3012701,"""C101147  """
+DQ-01,lb_payments,P3012716,"""C100060  """
+DQ-01,lb_payments,P3012732,"""C102056  """
+DQ-01,lb_payments,P3012807,"""C102724  """
+DQ-01,lb_payments,P3012842,"""C102847  """
+DQ-01,lb_payments,P3012986,"""C101864  """
+DQ-01,lb_payments,P3013013,"""C102212  """
+DQ-01,lb_payments,P3013018,"""C100927  """
+DQ-01,lb_payments,P3013033,"""C101984  """
+DQ-01,lb_payments,P3013040,"""C102217  """
+DQ-01,lb_payments,P3013042,"""C100888  """
+DQ-01,lb_payments,P3013115,"""C101577  """
+DQ-01,lb_payments,P3013121,"""C102529  """
+DQ-01,lb_payments,P3013163,"""C102679  """
+DQ-01,lb_payments,P3013174,"""C103058  """
+DQ-01,lb_payments,P3013253,"""C101591  """
+DQ-01,lb_payments,P3013313,"""C102908  """
+DQ-01,lb_payments,P3013349,"""C101810  """
+DQ-01,lb_payments,P3013438,"""C100577  """
+DQ-01,lb_payments,P3013450,"""C102538  """
+DQ-01,lb_payments,P3013461,"""C101718  """
+DQ-01,lb_payments,P3013554,"""C100205  """
+DQ-01,lb_payments,P3013617,"""C100711  """
+DQ-01,lb_payments,P3013656,"""C100939  """
+DQ-01,lb_payments,P3013679,"""C101028  """
+DQ-01,lb_payments,P3013741,"""C101680  """
+DQ-01,lb_payments,P3013754,"""C101213  """
+DQ-01,lb_payments,P3013899,"""C102133  """
+DQ-01,lb_payments,P3013909,"""C101000  """
+DQ-01,lb_payments,P3014016,"""C100453  """
+DQ-01,lb_payments,P3014031,"""C101536  """
+DQ-01,lb_payments,P3014065,"""C102529  """
+DQ-01,lb_payments,P3014169,"""C102233  """
+DQ-01,lb_payments,P3014236,"""C100414  """
+DQ-01,lb_payments,P3014241,"""C102196  """
+DQ-01,lb_payments,P3014318,"""C101937  """
+DQ-01,lb_payments,P3014340,"""C100300  """
+DQ-01,lb_payments,P3014422,"""C101028  """
+DQ-01,lb_payments,P3014430,"""C100833  """
+DQ-01,lb_payments,P3014471,"""C100602  """
+DQ-01,lb_payments,P3014531,"""C100072  """
+DQ-01,lb_payments,P3014533,"""C100256  """
+DQ-01,lb_payments,P3014573,"""C100946  """
+DQ-01,lb_payments,P3014622,"""C102724  """
+DQ-01,lb_payments,P3014632,"""C100787  """
+DQ-01,lb_payments,P3014637,"""C101781  """
+DQ-01,lb_payments,P3014662,"""C102043  """
+DQ-01,lb_payments,P3014711,"""C102715  """
+DQ-01,lb_payments,P3014769,"""C102657  """
+DQ-01,lb_payments,P3014837,"""C101415  """
+DQ-01,lb_payments,P3014866,"""C102805  """
+DQ-01,lb_payments,P3014920,"""C101308  """
+DQ-01,lb_payments,P3014927,"""C102219  """
+DQ-01,lb_payments,P3014990,"""C102555  """
+DQ-01,lb_payments,P3015037,"""C101988  """
+DQ-01,lb_payments,P3015092,"""C102753  """
+DQ-01,lb_payments,P3015112,"""C100333  """
+DQ-01,lb_payments,P3015122,"""C101607  """
+DQ-01,lb_payments,P3015166,"""C102203  """
+DQ-01,lb_payments,P3015231,"""C101043  """
+DQ-01,lb_payments,P3015249,"""C100340  """
+DQ-01,lb_payments,P3015264,"""C102522  """
+DQ-01,lb_payments,P3015288,"""C102067  """
+DQ-01,lb_payments,P3015359,"""C102821  """
+DQ-01,lb_payments,P3015425,"""C103035  """
+DQ-01,lb_payments,P3015435,"""C100973  """
+DQ-01,lb_payments,P3015453,"""C102465  """
+DQ-01,lb_payments,P3015617,"""C101430  """
+DQ-01,lb_payments,P3015619,"""C102284  """
+DQ-01,lb_payments,P3015641,"""C100562  """
+DQ-01,lb_payments,P3015648,"""C100971  """
+DQ-01,lb_payments,P3015668,"""C101257  """
+DQ-01,lb_payments,P3015675,"""C100101  """
+DQ-01,lb_payments,P3015708,"""C101849  """
+DQ-01,lb_payments,P3015728,"""C102296  """
+DQ-01,lb_payments,P3015729,"""C102744  """
+DQ-01,lb_payments,P3015744,"""C100109  """
+DQ-01,lb_payments,P3015760,"""C100888  """
+DQ-01,lb_payments,P3015807,"""C101680  """
+DQ-01,lb_payments,P3015810,"""C102477  """
+DQ-01,lb_payments,P3015864,"""C102487  """
+DQ-01,lb_payments,P3015894,"""C100268  """
+DQ-01,lb_payments,P3015896,"""C102416  """
+DQ-01,lb_payments,P3015923,"""C102200  """
+DQ-01,lb_payments,P3015971,"""C100726  """
+DQ-01,lb_payments,P3016265,"""C102958  """
+DQ-01,lb_payments,P3016280,"""C100336  """
+DQ-01,lb_payments,P3016288,"""C101424  """
+DQ-01,lb_payments,P3016391,"""C101012  """
+DQ-01,lb_payments,P3016394,"""C103045  """
+DQ-01,lb_payments,P3016418,"""C101779  """
+DQ-01,lb_payments,P3016438,"""C100834  """
+DQ-01,lb_payments,P3016464,"""C102962  """
+DQ-01,lb_payments,P3016483,"""C101354  """
+DQ-01,lb_payments,P3016532,"""C100534  """
+DQ-01,lb_payments,P3016572,"""C100380  """
+DQ-01,lb_payments,P3016614,"""C100232  """
+DQ-01,lb_payments,P3016635,"""C100041  """
+DQ-01,lb_payments,P3016637,"""C100985  """
+DQ-01,lb_payments,P3016761,"""C101387  """
+DQ-01,lb_payments,P3016795,"""C100723  """
+DQ-01,lb_payments,P3016806,"""C100611  """
+DQ-01,lb_payments,P3016835,"""C100477  """
+DQ-01,lb_payments,P3016838,"""C100736  """
+DQ-01,lb_payments,P3016860,"""C102219  """
+DQ-01,lb_payments,P3016879,"""C100467  """
+DQ-01,lb_payments,P3016894,"""C103027  """
+DQ-01,lb_payments,P3016913,"""C101128  """
+DQ-01,lb_payments,P3016972,"""C100755  """
+DQ-01,lb_payments,P3017009,"""C101664  """
+DQ-01,lb_payments,P3017036,"""C100570  """
+DQ-01,lb_payments,P3017070,"""C102191  """
+DQ-01,lb_payments,P3017112,"""C100452  """
+DQ-01,lb_payments,P3017114,"""C101376  """
+DQ-01,lb_payments,P3017233,"""C101905  """
+DQ-01,lb_payments,P3017238,"""C100125  """
+DQ-01,lb_payments,P3017298,"""C101393  """
+DQ-01,lb_payments,P3017337,"""C102880  """
+DQ-01,lb_payments,P3017418,"""C102449  """
+DQ-01,lb_payments,P3017432,"""C101340  """
+DQ-01,lb_payments,P3017448,"""C101253  """
+DQ-01,lb_payments,P3017453,"""C101781  """
+DQ-01,lb_payments,P3017469,"""C102688  """
+DQ-01,lb_payments,P3017529,"""C102271  """
+DQ-01,lb_payments,P3017577,"""C102128  """
+DQ-01,lb_payments,P3017646,"""C100340  """
+DQ-01,lb_payments,P3017668,"""C102632  """
+DQ-01,lb_payments,P3017719,"""C101023  """
+DQ-01,lb_payments,P3017725,"""C100944  """
+DQ-01,lb_payments,P3017731,"""C102199  """
+DQ-01,lb_payments,P3017753,"""C100759  """
+DQ-01,lb_payments,P3017771,"""C102383  """
+DQ-01,lb_payments,P3017778,"""C102918  """
+DQ-01,lb_payments,P3017862,"""C101664  """
+DQ-01,lb_payments,P3017873,"""C102580  """
+DQ-01,lb_payments,P3017874,"""C102977  """
+DQ-01,lb_payments,P3017905,"""C102872  """
+DQ-01,lb_payments,P3017933,"""C100439  """
+DQ-01,lb_payments,P3017943,"""C100333  """
+DQ-01,lb_payments,P3017949,"""C102553  """
+DQ-01,lb_payments,P3018062,"""C100452  """
+DQ-01,lb_payments,P3018115,"""C100052  """
+DQ-01,lb_payments,P3018201,"""C101112  """
+DQ-01,lb_payments,P3018222,"""C102461  """
+DQ-01,lb_payments,P3018330,"""C102457  """
+DQ-01,lb_payments,P3018338,"""C102784  """
+DQ-01,lb_payments,P3018346,"""C102249  """
+DQ-01,lb_payments,P3018355,"""C100371  """
+DQ-01,lb_payments,P3018375,"""C103058  """
+DQ-01,lb_payments,P3018434,"""C100842  """
+DQ-01,lb_payments,P3018445,"""C102784  """
+DQ-01,lb_payments,P3018597,"""C101698  """
+DQ-01,lb_payments,P3018608,"""C100798  """
+DQ-01,lb_payments,P3018628,"""C100888  """
+DQ-01,lb_payments,P3018648,"""C101718  """
+DQ-01,lb_payments,P3018659,"""C102227  """
+DQ-01,lb_payments,P3018681,"""C101491  """
+DQ-01,lb_payments,P3018702,"""C102119  """
+DQ-01,lb_payments,P3018706,"""C100766  """
+DQ-01,lb_payments,P3018783,"""C102706  """
+DQ-01,lb_payments,P3018881,"""C101570  """
+DQ-01,lb_payments,P3018891,"""C102276  """
+DQ-01,lb_payments,P3019035,"""C100581  """
+DQ-01,lb_payments,P3019078,"""C100860  """
+DQ-01,lb_payments,P3019080,"""C100201  """
+DQ-01,lb_payments,P3019117,"""C100025  """
+DQ-01,lb_payments,P3019186,"""C101666  """
+DQ-01,lb_payments,P3019191,"""C100878  """
+DQ-01,lb_payments,P3019200,"""C101349  """
+DQ-01,lb_payments,P3019243,"""C101930  """
+DQ-01,lb_payments,P3019272,"""C100551  """
+DQ-01,lb_payments,P3019303,"""C102883  """
+DQ-01,lb_payments,P3019322,"""C100964  """
+DQ-01,lb_payments,P3019344,"""C100921  """
+DQ-01,lb_payments,P3019383,"""C100183  """
+DQ-01,lb_payments,P3019429,"""C100670  """
+DQ-01,lb_payments,P3019631,"""C100232  """
+DQ-01,lb_payments,P3019667,"""C100416  """
+DQ-01,lb_payments,P3019728,"""C103026  """
+DQ-01,lb_payments,P3019785,"""C100140  """
+DQ-01,lb_payments,P3019807,"""C102665  """
+DQ-01,lb_payments,P3019825,"""C102254  """
+DQ-01,lb_payments,P3019884,"""C100944  """
+DQ-01,lb_payments,P3019911,"""C101250  """
+DQ-01,lb_payments,P3020076,"""C100955  """
+DQ-01,lb_payments,P3020080,"""C100798  """
+DQ-01,lb_payments,P3020121,"""C100657  """
+DQ-01,lb_payments,P3020162,"""C100453  """
+DQ-01,lb_payments,P3020301,"""C102619  """
+DQ-01,lb_payments,P3020308,"""C100465  """
+DQ-01,lb_payments,P3020349,"""C102328  """
+DQ-01,lb_payments,P3020355,"""C101202  """
+DQ-01,lb_payments,P3020369,"""C100105  """
+DQ-01,lb_payments,P3020450,"""C102370  """
+DQ-01,lb_payments,P3020460,"""C100453  """
+DQ-01,lb_payments,P3020507,"""C100985  """
+DQ-01,lb_payments,P3020518,"""C100340  """
+DQ-01,lb_payments,P3020545,"""C101153  """
+DQ-01,lb_payments,P3020607,"""C102764  """
+DQ-01,lb_payments,P3020792,"""C102958  """
+DQ-01,lb_payments,P3020861,"""C102024  """
+DQ-01,lb_payments,P3020908,"""C101211  """
+DQ-01,lb_payments,P3020910,"""C101170  """
+DQ-01,lb_payments,P3020949,"""C102773  """
+DQ-01,lb_payments,P3020997,"""C102310  """
+DQ-01,lb_payments,P3021013,"""C102221  """
+DQ-01,lb_payments,P3021059,"""C101635  """
+DQ-01,lb_payments,P3021175,"""C102508  """
+DQ-01,lb_payments,P3021202,"""C102179  """
+DQ-01,lb_payments,P3021404,"""C101975  """
+DQ-01,lb_payments,P3021450,"""C102880  """
+DQ-01,lb_payments,P3021451,"""C101024  """
+DQ-01,lb_payments,P3021453,"""C101574  """
+DQ-01,lb_payments,P3021459,"""C101213  """
+DQ-01,lb_payments,P3021467,"""C102203  """
+DQ-01,lb_payments,P3021512,"""C102522  """
+DQ-01,lb_payments,P3021566,"""C102276  """
+DQ-01,lb_payments,P3021582,"""C100090  """
+DQ-01,lb_payments,P3021639,"""C100567  """
+DQ-01,lb_payments,P3021644,"""C102599  """
+DQ-01,lb_payments,P3021670,"""C100837  """
+DQ-01,lb_payments,P3021683,"""C100901  """
+DQ-01,lb_payments,P3021774,"""C101134  """
+DQ-01,lb_payments,P3021780,"""C102589  """
+DQ-01,lb_payments,P3021785,"""C100888  """
+DQ-01,lb_payments,P3021808,"""C102150  """
+DQ-01,lb_payments,P3021822,"""C100741  """
+DQ-01,lb_payments,P3021837,"""C102150  """
+DQ-01,lb_payments,P3021840,"""C100657  """
+DQ-01,lb_payments,P3021852,"""C102692  """
+DQ-01,lb_payments,P3021949,"""C102418  """
+DQ-01,lb_payments,P3022020,"""C101162  """
+DQ-01,lb_payments,P3022062,"""C100453  """
+DQ-01,lb_payments,P3022073,"""C101016  """
+DQ-01,lb_payments,P3022079,"""C101864  """
+DQ-01,lb_payments,P3022105,"""C102295  """
+DQ-01,lb_payments,P3022139,"""C103014  """
+DQ-01,lb_payments,P3022183,"""C100502  """
+DQ-01,lb_payments,P3022218,"""C102018  """
+DQ-01,lb_payments,P3022247,"""C101779  """
+DQ-01,lb_payments,P3022270,"""C100318  """
+DQ-01,lb_payments,P3022303,"""C102999  """
+DQ-01,lb_payments,P3022306,"""C102983  """
+DQ-01,lb_payments,P3022363,"""C102137  """
+DQ-01,lb_payments,P3022459,"""C102753  """
+DQ-01,lb_payments,P3022462,"""C100634  """
+DQ-01,lb_payments,P3022473,"""C102505  """
+DQ-01,lb_payments,P3022477,"""C100109  """
+DQ-01,lb_payments,P3022481,"""C101146  """
+DQ-01,lb_payments,P3022483,"""C102056  """
+DQ-01,lb_payments,P3022541,"""C101869  """
+DQ-01,lb_payments,P3022561,"""C100477  """
+DQ-01,lb_payments,P3022575,"""C102373  """
+DQ-01,lb_payments,P3022589,"""C100852  """
+DQ-01,lb_payments,P3022592,"""C102284  """
+DQ-01,lb_payments,P3022608,"""C100991  """
+DQ-01,lb_payments,P3022643,"""C100336  """
+DQ-01,lb_payments,P3022684,"""C100785  """
+DQ-01,lb_payments,P3022698,"""C101897  """
+DQ-01,lb_payments,P3022737,"""C100416  """
+DQ-01,lb_payments,P3022807,"""C100944  """
+DQ-01,lb_payments,P3022826,"""C102597  """
+DQ-01,lb_payments,P3022852,"""C101048  """
+DQ-01,lb_payments,P3022853,"""C100647  """
+DQ-01,lb_payments,P3022894,"""C102715  """
+DQ-01,lb_payments,P3022920,"""C101336  """
+DQ-01,lb_payments,P3022923,"""C102111  """
+DQ-01,lb_payments,P3023062,"""C102227  """
+DQ-01,lb_payments,P3023133,"""C100715  """
+DQ-01,lb_payments,P3023154,"""C100369  """
+DQ-01,lb_payments,P3023195,"""C102890  """
+DQ-01,lb_payments,P3023222,"""C101599  """
+DQ-01,lb_payments,P3023226,"""C102657  """
+DQ-01,lb_payments,P3023233,"""C102671  """
+DQ-01,lb_payments,P3023270,"""C101636  """
+DQ-01,lb_payments,P3023271,"""C102111  """
+DQ-01,lb_payments,P3023294,"""C100798  """
+DQ-01,lb_payments,P3023328,"""C100921  """
+DQ-01,lb_payments,P3023347,"""C102377  """
+DQ-01,lb_payments,P3023384,"""C100502  """
+DQ-01,lb_payments,P3023447,"""C102876  """
+DQ-01,lb_payments,P3023491,"""C102449  """
+DQ-01,lb_payments,P3023523,"""C102102  """
+DQ-01,lb_payments,P3023553,"""C101718  """
+DQ-01,lb_payments,P3023622,"""C101306  """
+DQ-01,lb_payments,P3023629,"""C103057  """
+DQ-01,lb_payments,P3023669,"""C100874  """
+DQ-01,lb_payments,P3023674,"""C100737  """
+DQ-01,lb_payments,P3023708,"""C102908  """
+DQ-01,lb_payments,P3023783,"""C101988  """
+DQ-01,lb_payments,P3023810,"""C102943  """
+DQ-01,lb_payments,P3023859,"""C101905  """
+DQ-01,lb_payments,P3023861,"""C101101  """
+DQ-01,lb_payments,P3023945,"""C101584  """
+DQ-01,lb_payments,P3023968,"""C101486  """
+DQ-01,lb_payments,P3023977,"""C100581  """
+DQ-01,lb_payments,P3024042,"""C102067  """
+DQ-01,lb_payments,P3024079,"""C101096  """
+DQ-01,lb_payments,P3024170,"""C102355  """
+DQ-01,lb_payments,P3024201,"""C102160  """
+DQ-01,lb_payments,P3024207,"""C102641  """
+DQ-01,lb_payments,P3024264,"""C100860  """
+DQ-01,lb_payments,P3024366,"""C102929  """
+DQ-01,lb_payments,P3024432,"""C101528  """
+DQ-01,lb_payments,P3024498,"""C102688  """
+DQ-01,lb_payments,P3024667,"""C101846  """
+DQ-01,lb_payments,P3024742,"""C101464  """
+DQ-01,lb_payments,P3024768,"""C100562  """
+DQ-01,lb_payments,P3024773,"""C100945  """
+DQ-01,lb_payments,P3024855,"""C102908  """
+DQ-01,lb_payments,P3024924,"""C100276  """
+DQ-01,lb_payments,P3024936,"""C102707  """
+DQ-01,lb_payments,P3025134,"""C100388  """
+DQ-01,lb_payments,P3025174,"""C100500  """
+DQ-01,lb_payments,P3025176,"""C101028  """
+DQ-01,lb_payments,P3025222,"""C100557  """
+DQ-01,lb_payments,P3025241,"""C102883  """
+DQ-01,lb_payments,P3025378,"""C102764  """
+DQ-01,lb_payments,P3025397,"""C100784  """
+DQ-01,lb_payments,P3025415,"""C101187  """
+DQ-01,lb_payments,P3025426,"""C100473  """
+DQ-01,lb_payments,P3025470,"""C100995  """
+DQ-01,lb_payments,P3025495,"""C100351  """
+DQ-01,lb_payments,P3025499,"""C102784  """
+DQ-01,lb_payments,P3025500,"""C100502  """
+DQ-01,lb_payments,P3025551,"""C102487  """
+DQ-01,lb_payments,P3025588,"""C102524  """
+DQ-01,lb_payments,P3025627,"""C100995  """
+DQ-01,lb_payments,P3025676,"""C102072  """
+DQ-01,lb_payments,P3025723,"""C101983  """
+DQ-01,lb_payments,P3025761,"""C101521  """
+DQ-01,lb_payments,P3025788,"""C101654  """
+DQ-01,lb_payments,P3025806,"""C101150  """
+DQ-01,lb_payments,P3025822,"""C102943  """
+DQ-01,lb_payments,P3025835,"""C101745  """
+DQ-01,lb_payments,P3025867,"""C101400  """
+DQ-01,lb_payments,P3025899,"""C102619  """
+DQ-01,lb_payments,P3025915,"""C102918  """
+DQ-01,lb_payments,P3025977,"""C101709  """
+DQ-01,lb_payments,P3026009,"""C102718  """
+DQ-01,lb_payments,P3026011,"""C100787  """
+DQ-01,lb_payments,P3026012,"""C100145  """
+DQ-01,lb_payments,P3026027,"""C102354  """
+DQ-01,lb_payments,P3026028,"""C100832  """
+DQ-01,lb_payments,P3026074,"""C102918  """
+DQ-01,lb_payments,P3026162,"""C100711  """
+DQ-01,lb_payments,P3026224,"""C102425  """
+DQ-01,lb_payments,P3026236,"""C102445  """
+DQ-01,lb_payments,P3026248,"""C102376  """
+DQ-01,lb_payments,P3026280,"""C101112  """
+DQ-01,lb_payments,P3026358,"""C101764  """
+DQ-01,lb_payments,P3026395,"""C102569  """
+DQ-01,lb_payments,P3026486,"""C102221  """
+DQ-01,lb_payments,P3026587,"""C102846  """
+DQ-01,lb_payments,P3026592,"""C100164  """
+DQ-01,lb_payments,P3026635,"""C100227  """
+DQ-01,lb_payments,P3026715,"""C102115  """
+DQ-01,lb_payments,P3026789,"""C100833  """
+DQ-01,lb_payments,P3026904,"""C101599  """
+DQ-01,lb_payments,P3026934,"""C100187  """
+DQ-01,lb_payments,P3026959,"""C102127  """
+DQ-01,lb_payments,P3027010,"""C101479  """
+DQ-01,lb_payments,P3027057,"""C101579  """
+DQ-01,lb_payments,P3027075,"""C101927  """
+DQ-01,lb_payments,P3027077,"""C102537  """
+DQ-01,lb_payments,P3027090,"""C101043  """
+DQ-01,lb_payments,P3027096,"""C102505  """
+DQ-01,lb_payments,P3027131,"""C101505  """
+DQ-01,lb_payments,P3027163,"""C101486  """
+DQ-01,lb_payments,P3027165,"""C103035  """
+DQ-01,lb_payments,P3027287,"""C101574  """
+DQ-01,lb_payments,P3027333,"""C102880  """
+DQ-01,lb_payments,P3027335,"""C102918  """
+DQ-01,lb_payments,P3027379,"""C101091  """
+DQ-01,lb_payments,P3027391,"""C101579  """
+DQ-01,lb_payments,P3027441,"""C103001  """
+DQ-01,lb_payments,P3027478,"""C102500  """
+DQ-01,lb_payments,P3027614,"""C102200  """
+DQ-01,lb_payments,P3027620,"""C101743  """
+DQ-01,lb_payments,P3027651,"""C102929  """
+DQ-01,lb_payments,P3027678,"""C100821  """
+DQ-01,lb_payments,P3027697,"""C102880  """
+DQ-01,lb_payments,P3027699,"""C100506  """
+DQ-01,lb_payments,P3027706,"""C101555  """
+DQ-01,lb_payments,P3027724,"""C100927  """
+DQ-01,lb_payments,P3027770,"""C101599  """
+DQ-01,lb_payments,P3027800,"""C102382  """
+DQ-01,lb_payments,P3027851,"""C101453  """
+DQ-01,lb_payments,P3027958,"""C101869  """
+DQ-01,lb_payments,P3027975,"""C102310  """
+DQ-01,lb_payments,P3028047,"""C102531  """
+DQ-01,lb_payments,P3028104,"""C100817  """
+DQ-01,lb_payments,P3028205,"""C102324  """
+DQ-01,lb_payments,P3028206,"""C102732  """
+DQ-01,lb_payments,P3028226,"""C101241  """
+DQ-01,lb_payments,P3028227,"""C100945  """
+DQ-01,lb_payments,P3028282,"""C101703  """
+DQ-01,lb_payments,P3028284,"""C101940  """
+DQ-01,lb_payments,P3028292,"""C101531  """
+DQ-01,lb_payments,P3028392,"""C101190  """
+DQ-01,lb_payments,P3028405,"""C100919  """
+DQ-01,lb_payments,P3028412,"""C102458  """
+DQ-01,lb_payments,P3028431,"""C101689  """
+DQ-01,lb_payments,P3028438,"""C101202  """
+DQ-01,lb_payments,P3028439,"""C100232  """
+DQ-01,lb_payments,P3028461,"""C101431  """
+DQ-01,lb_payments,P3028465,"""C101883  """
+DQ-01,lb_payments,P3028598,"""C101146  """
+DQ-01,lb_payments,P3028605,"""C100009  """
+DQ-01,lb_payments,P3028645,"""C100833  """
+DQ-01,lb_payments,P3028668,"""C100363  """
+DQ-01,lb_payments,P3028704,"""C100481  """
+DQ-01,lb_payments,P3028705,"""C102063  """
+DQ-01,lb_payments,P3028721,"""C102873  """
+DQ-01,lb_payments,P3028818,"""C100755  """
+DQ-01,lb_payments,P3028825,"""C101424  """
+DQ-01,lb_payments,P3028882,"""C102505  """
+DQ-01,lb_payments,P3028926,"""C101709  """
+DQ-01,lb_payments,P3028976,"""C103058  """
+DQ-01,lb_payments,P3029000,"""C100481  """
+DQ-01,lb_payments,P3029082,"""C100101  """
+DQ-01,lb_payments,P3029112,"""C101023  """
+DQ-01,lb_payments,P3029129,"""C102067  """
+DQ-01,lb_payments,P3029149,"""C100009  """
+DQ-01,lb_payments,P3029212,"""C100556  """
+DQ-01,lb_payments,P3029242,"""C100019  """
+DQ-01,lb_payments,P3029247,"""C100674  """
+DQ-01,lb_payments,P3029257,"""C100969  """
+DQ-01,lb_payments,P3029338,"""C102846  """
+DQ-01,lb_payments,P3029372,"""C100023  """
+DQ-01,lb_payments,P3029375,"""C102525  """
+DQ-01,lb_payments,P3029385,"""C100766  """
+DQ-01,lb_payments,P3029413,"""C102225  """
+DQ-01,lb_payments,P3029435,"""C102350  """
+DQ-01,lb_payments,P3029458,"""C101264  """
+DQ-01,lb_payments,P3029519,"""C101999  """
+DQ-01,lb_payments,P3029548,"""C101187  """
+DQ-01,lb_payments,P3029589,"""C102607  """
+DQ-01,lb_payments,P3029619,"""C102274  """
+DQ-01,lb_payments,P3029632,"""C102821  """
+DQ-01,lb_payments,P3029639,"""C101801  """
+DQ-01,lb_payments,P3029711,"""C100707  """
+DQ-01,lb_payments,P3029713,"""C100784  """
+DQ-01,lb_payments,P3029820,"""C101429  """
+DQ-01,lb_payments,P3029836,"""C101846  """
+DQ-01,lb_payments,P3029853,"""C100260  """
+DQ-01,lb_payments,P3029896,"""C101218  """
+DQ-01,lb_payments,P3029904,"""C101876  """
+DQ-01,lb_payments,P3029999,"""C102133  """
+DQ-01,lb_payments,P3030016,"""C102870  """
+DQ-01,lb_payments,P3030023,"""C102962  """
+DQ-01,lb_payments,P3030067,"""C101479  """
+DQ-01,lb_payments,P3030078,"""C100912  """
+DQ-01,lb_payments,P3030220,"""C101849  """
+DQ-01,lb_payments,P3030236,"""C101419  """
+DQ-01,lb_payments,P3030309,"""C101798  """
+DQ-01,lb_payments,P3030311,"""C100937  """
+DQ-01,lb_payments,P3030338,"""C102897  """
+DQ-01,lb_payments,P3030442,"""C100333  """
+DQ-01,lb_payments,P3030458,"""C102512  """
+DQ-01,lb_payments,P3030472,"""C102638  """
+DQ-01,lb_payments,P3030494,"""C103001  """
+DQ-01,lb_payments,P3030526,"""C100567  """
+DQ-01,lb_payments,P3030537,"""C102929  """
+DQ-01,lb_payments,P3030581,"""C102328  """
+DQ-01,lb_payments,P3030595,"""C101706  """
+DQ-01,lb_payments,P3030626,"""C102929  """
+DQ-01,lb_payments,P3030627,"""C101094  """
+DQ-01,lb_payments,P3030852,"""C101849  """
+DQ-01,lb_payments,P3030859,"""C101316  """
+DQ-01,lb_payments,P3030870,"""C102814  """
+DQ-01,lb_payments,P3030879,"""C101704  """
+DQ-01,lb_payments,P3030938,"""C102477  """
+DQ-01,lb_payments,P3031032,"""C100878  """
+DQ-01,lb_payments,P3031062,"""C101470  """
+DQ-01,lb_payments,P3031161,"""C101721  """
+DQ-01,lb_payments,P3031251,"""C101172  """
+DQ-01,lb_payments,P3031263,"""C100260  """
+DQ-01,lb_payments,P3031279,"""C102573  """
+DQ-01,lb_payments,P3031367,"""C100351  """
+DQ-01,lb_payments,P3031379,"""C100224  """
+DQ-01,lb_payments,P3031407,"""C102067  """
+DQ-01,lb_payments,P3031520,"""C100197  """
+DQ-01,lb_payments,P3031536,"""C102013  """
+DQ-01,lb_payments,P3031556,"""C102313  """
+DQ-01,lb_payments,P3031568,"""C100346  """
+DQ-01,lb_payments,P3031584,"""C102146  """
+DQ-01,lb_payments,P3031642,"""C101437  """
+DQ-01,lb_payments,P3031813,"""C102692  """
+DQ-01,lb_payments,P3031858,"""C101566  """
+DQ-01,lb_payments,P3031872,"""C101876  """
+DQ-01,lb_payments,P3031875,"""C100925  """
+DQ-01,lb_payments,P3031977,"""C100799  """
+DQ-01,lb_payments,P3032018,"""C101198  """
+DQ-01,lb_payments,P3032148,"""C102858  """
+DQ-01,lb_payments,P3032179,"""C100804  """
+DQ-01,lb_payments,P3032183,"""C103021  """
+DQ-01,lb_payments,P3032205,"""C101213  """
+DQ-01,lb_payments,P3032263,"""C102207  """
+DQ-02,lb_customers,C100008,USA
+DQ-02,lb_customers,C100009,Canada
+DQ-02,lb_customers,C100011,United Kingdom
+DQ-02,lb_customers,C100017,United States
+DQ-02,lb_customers,C100018,Netherlands
+DQ-02,lb_customers,C100031,USA
+DQ-02,lb_customers,C100038,United States
+DQ-02,lb_customers,C100045,USA
+DQ-02,lb_customers,C100052,USA
+DQ-02,lb_customers,C100054,USA
+DQ-02,lb_customers,C100060,USA
+DQ-02,lb_customers,C100072,United States
+DQ-02,lb_customers,C100075,USA
+DQ-02,lb_customers,C100079,USA
+DQ-02,lb_customers,C100082,USA
+DQ-02,lb_customers,C100089,Canada
+DQ-02,lb_customers,C100090,USA
+DQ-02,lb_customers,C100097,USA
+DQ-02,lb_customers,C100101,USA
+DQ-02,lb_customers,C100105,USA
+DQ-02,lb_customers,C100109,Germany
+DQ-02,lb_customers,C100111,USA
+DQ-02,lb_customers,C100113,USA
+DQ-02,lb_customers,C100114,United States
+DQ-02,lb_customers,C100122,Netherlands
+DQ-02,lb_customers,C100125,USA
+DQ-02,lb_customers,C100135,United States
+DQ-02,lb_customers,C100139,UK
+DQ-02,lb_customers,C100141,USA
+DQ-02,lb_customers,C100145,Canada
+DQ-02,lb_customers,C100157,United States
+DQ-02,lb_customers,C100160,United States
+DQ-02,lb_customers,C100171,U.S.
+DQ-02,lb_customers,C100173,USA
+DQ-02,lb_customers,C100180,UK
+DQ-02,lb_customers,C100191,Canada
+DQ-02,lb_customers,C100194,Canada
+DQ-02,lb_customers,C100199,USA
+DQ-02,lb_customers,C100203,USA
+DQ-02,lb_customers,C100213,United States
+DQ-02,lb_customers,C100220,USA
+DQ-02,lb_customers,C100232,USA
+DQ-02,lb_customers,C100247,Canada
+DQ-02,lb_customers,C100254,UK
+DQ-02,lb_customers,C100256,Canada
+DQ-02,lb_customers,C100257,United States
+DQ-02,lb_customers,C100263,United States
+DQ-02,lb_customers,C100268,United States
+DQ-02,lb_customers,C100272,United Kingdom
+DQ-02,lb_customers,C100283,United States
+DQ-02,lb_customers,C100284,USA
+DQ-02,lb_customers,C100305,USA
+DQ-02,lb_customers,C100307,Canada
+DQ-02,lb_customers,C100312,USA
+DQ-02,lb_customers,C100318,USA
+DQ-02,lb_customers,C100325,USA
+DQ-02,lb_customers,C100340,United States
+DQ-02,lb_customers,C100346,USA
+DQ-02,lb_customers,C100351,USA
+DQ-02,lb_customers,C100363,United States
+DQ-02,lb_customers,C100371,USA
+DQ-02,lb_customers,C100380,UK
+DQ-02,lb_customers,C100385,Canada
+DQ-02,lb_customers,C100386,United States
+DQ-02,lb_customers,C100392,Canada
+DQ-02,lb_customers,C100394,USA
+DQ-02,lb_customers,C100397,USA
+DQ-02,lb_customers,C100399,United States
+DQ-02,lb_customers,C100402,USA
+DQ-02,lb_customers,C100405,USA
+DQ-02,lb_customers,C100409,United States
+DQ-02,lb_customers,C100426,United States
+DQ-02,lb_customers,C100431,USA
+DQ-02,lb_customers,C100433,UK
+DQ-02,lb_customers,C100438,United States
+DQ-02,lb_customers,C100439,Canada
+DQ-02,lb_customers,C100446,USA
+DQ-02,lb_customers,C100450,U.S.
+DQ-02,lb_customers,C100453,United States
+DQ-02,lb_customers,C100457,United States
+DQ-02,lb_customers,C100458,United States
+DQ-02,lb_customers,C100465,United States
+DQ-02,lb_customers,C100467,United States
+DQ-02,lb_customers,C100468,USA
+DQ-02,lb_customers,C100470,United States
+DQ-02,lb_customers,C100481,USA
+DQ-02,lb_customers,C100482,United States
+DQ-02,lb_customers,C100486,United States
+DQ-02,lb_customers,C100490,Canada
+DQ-02,lb_customers,C100493,USA
+DQ-02,lb_customers,C100500,United States
+DQ-02,lb_customers,C100509,Germany
+DQ-02,lb_customers,C100511,USA
+DQ-02,lb_customers,C100517,United Kingdom
+DQ-02,lb_customers,C100523,USA
+DQ-02,lb_customers,C100524,USA
+DQ-02,lb_customers,C100530,USA
+DQ-02,lb_customers,C100534,USA
+DQ-02,lb_customers,C100542,USA
+DQ-02,lb_customers,C100548,USA
+DQ-02,lb_customers,C100551,UK
+DQ-02,lb_customers,C100552,USA
+DQ-02,lb_customers,C100556,U.S.
+DQ-02,lb_customers,C100557,USA
+DQ-02,lb_customers,C100560,Canada
+DQ-02,lb_customers,C100570,U.S.
+DQ-02,lb_customers,C100573,USA
+DQ-02,lb_customers,C100581,Germany
+DQ-02,lb_customers,C100582,USA
+DQ-02,lb_customers,C100586,USA
+DQ-02,lb_customers,C100589,USA
+DQ-02,lb_customers,C100591,Canada
+DQ-02,lb_customers,C100597,UK
+DQ-02,lb_customers,C100599,United Kingdom
+DQ-02,lb_customers,C100611,USA
+DQ-02,lb_customers,C100614,USA
+DQ-02,lb_customers,C100617,UK
+DQ-02,lb_customers,C100621,Canada
+DQ-02,lb_customers,C100623,United States
+DQ-02,lb_customers,C100625,USA
+DQ-02,lb_customers,C100628,USA
+DQ-02,lb_customers,C100637,USA
+DQ-02,lb_customers,C100643,Germany
+DQ-02,lb_customers,C100646,United States
+DQ-02,lb_customers,C100648,U.S.
+DQ-02,lb_customers,C100655,UK
+DQ-02,lb_customers,C100664,United States
+DQ-02,lb_customers,C100674,United States
+DQ-02,lb_customers,C100676,USA
+DQ-02,lb_customers,C100679,United States
+DQ-02,lb_customers,C100682,USA
+DQ-02,lb_customers,C100690,U.S.
+DQ-02,lb_customers,C100705,Ireland
+DQ-02,lb_customers,C100706,USA
+DQ-02,lb_customers,C100707,United States
+DQ-02,lb_customers,C100711,Canada
+DQ-02,lb_customers,C100713,UK
+DQ-02,lb_customers,C100716,United Kingdom
+DQ-02,lb_customers,C100720,USA
+DQ-02,lb_customers,C100724,USA
+DQ-02,lb_customers,C100730,USA
+DQ-02,lb_customers,C100732,United States
+DQ-02,lb_customers,C100737,USA
+DQ-02,lb_customers,C100738,United States
+DQ-02,lb_customers,C100741,USA
+DQ-02,lb_customers,C100755,United States
+DQ-02,lb_customers,C100763,United States
+DQ-02,lb_customers,C100766,United States
+DQ-02,lb_customers,C100769,USA
+DQ-02,lb_customers,C100776,UK
+DQ-02,lb_customers,C100782,U.S.
+DQ-02,lb_customers,C100785,U.S.
+DQ-02,lb_customers,C100786,United States
+DQ-02,lb_customers,C100787,Canada
+DQ-02,lb_customers,C100794,USA
+DQ-02,lb_customers,C100798,U.S.
+DQ-02,lb_customers,C100799,USA
+DQ-02,lb_customers,C100803,USA
+DQ-02,lb_customers,C100804,Canada
+DQ-02,lb_customers,C100808,United States
+DQ-02,lb_customers,C100811,Germany
+DQ-02,lb_customers,C100814,USA
+DQ-02,lb_customers,C100821,USA
+DQ-02,lb_customers,C100829,UK
+DQ-02,lb_customers,C100834,United States
+DQ-02,lb_customers,C100837,United States
+DQ-02,lb_customers,C100839,United States
+DQ-02,lb_customers,C100842,USA
+DQ-02,lb_customers,C100848,UK
+DQ-02,lb_customers,C100856,USA
+DQ-02,lb_customers,C100871,USA
+DQ-02,lb_customers,C100882,USA
+DQ-02,lb_customers,C100885,USA
+DQ-02,lb_customers,C100891,USA
+DQ-02,lb_customers,C100907,Canada
+DQ-02,lb_customers,C100911,United States
+DQ-02,lb_customers,C100914,United States
+DQ-02,lb_customers,C100916,United States
+DQ-02,lb_customers,C100921,USA
+DQ-02,lb_customers,C100938,Ireland
+DQ-02,lb_customers,C100945,United Kingdom
+DQ-02,lb_customers,C100952,United States
+DQ-02,lb_customers,C100960,USA
+DQ-02,lb_customers,C100961,USA
+DQ-02,lb_customers,C100964,USA
+DQ-02,lb_customers,C100969,Canada
+DQ-02,lb_customers,C100970,UK
+DQ-02,lb_customers,C100971,United States
+DQ-02,lb_customers,C100973,Canada
+DQ-02,lb_customers,C100977,Canada
+DQ-02,lb_customers,C100979,USA
+DQ-02,lb_customers,C100983,USA
+DQ-02,lb_customers,C100989,USA
+DQ-02,lb_customers,C101000,USA
+DQ-02,lb_customers,C101004,United States
+DQ-02,lb_customers,C101024,USA
+DQ-02,lb_customers,C101028,USA
+DQ-02,lb_customers,C101036,France
+DQ-02,lb_customers,C101046,USA
+DQ-02,lb_customers,C101048,USA
+DQ-02,lb_customers,C101061,USA
+DQ-02,lb_customers,C101065,United States
+DQ-02,lb_customers,C101067,UK
+DQ-02,lb_customers,C101077,United States
+DQ-02,lb_customers,C101079,United States
+DQ-02,lb_customers,C101082,France
+DQ-02,lb_customers,C101087,United Kingdom
+DQ-02,lb_customers,C101089,USA
+DQ-02,lb_customers,C101094,UK
+DQ-02,lb_customers,C101097,United States
+DQ-02,lb_customers,C101101,UK
+DQ-02,lb_customers,C101115,USA
+DQ-02,lb_customers,C101119,France
+DQ-02,lb_customers,C101122,United States
+DQ-02,lb_customers,C101125,United States
+DQ-02,lb_customers,C101128,Canada
+DQ-02,lb_customers,C101132,USA
+DQ-02,lb_customers,C101134,USA
+DQ-02,lb_customers,C101146,USA
+DQ-02,lb_customers,C101155,UK
+DQ-02,lb_customers,C101157,USA
+DQ-02,lb_customers,C101160,Canada
+DQ-02,lb_customers,C101184,USA
+DQ-02,lb_customers,C101190,United States
+DQ-02,lb_customers,C101198,UK
+DQ-02,lb_customers,C101206,United States
+DQ-02,lb_customers,C101213,U.S.
+DQ-02,lb_customers,C101217,United States
+DQ-02,lb_customers,C101219,U.S.
+DQ-02,lb_customers,C101222,United States
+DQ-02,lb_customers,C101226,United States
+DQ-02,lb_customers,C101235,U.S.
+DQ-02,lb_customers,C101239,UK
+DQ-02,lb_customers,C101250,Germany
+DQ-02,lb_customers,C101253,UK
+DQ-02,lb_customers,C101259,USA
+DQ-02,lb_customers,C101260,USA
+DQ-02,lb_customers,C101261,U.S.
+DQ-02,lb_customers,C101264,USA
+DQ-02,lb_customers,C101266,UK
+DQ-02,lb_customers,C101273,United States
+DQ-02,lb_customers,C101287,USA
+DQ-02,lb_customers,C101290,UK
+DQ-02,lb_customers,C101300,U.S.
+DQ-02,lb_customers,C101306,USA
+DQ-02,lb_customers,C101330,UK
+DQ-02,lb_customers,C101334,Canada
+DQ-02,lb_customers,C101340,Netherlands
+DQ-02,lb_customers,C101349,United States
+DQ-02,lb_customers,C101352,United States
+DQ-02,lb_customers,C101354,United States
+DQ-02,lb_customers,C101358,U.S.
+DQ-02,lb_customers,C101363,UK
+DQ-02,lb_customers,C101365,USA
+DQ-02,lb_customers,C101367,USA
+DQ-02,lb_customers,C101378,U.S.
+DQ-02,lb_customers,C101382,USA
+DQ-02,lb_customers,C101400,United States
+DQ-02,lb_customers,C101404,United States
+DQ-02,lb_customers,C101413,Ireland
+DQ-02,lb_customers,C101417,United States
+DQ-02,lb_customers,C101429,UK
+DQ-02,lb_customers,C101431,U.S.
+DQ-02,lb_customers,C101437,USA
+DQ-02,lb_customers,C101443,Germany
+DQ-02,lb_customers,C101445,United States
+DQ-02,lb_customers,C101448,USA
+DQ-02,lb_customers,C101451,United States
+DQ-02,lb_customers,C101452,United States
+DQ-02,lb_customers,C101453,Germany
+DQ-02,lb_customers,C101458,USA
+DQ-02,lb_customers,C101466,UK
+DQ-02,lb_customers,C101470,USA
+DQ-02,lb_customers,C101486,United States
+DQ-02,lb_customers,C101490,USA
+DQ-02,lb_customers,C101493,UK
+DQ-02,lb_customers,C101497,Canada
+DQ-02,lb_customers,C101505,UK
+DQ-02,lb_customers,C101508,USA
+DQ-02,lb_customers,C101518,U.S.
+DQ-02,lb_customers,C101520,USA
+DQ-02,lb_customers,C101528,United States
+DQ-02,lb_customers,C101536,United States
+DQ-02,lb_customers,C101539,Germany
+DQ-02,lb_customers,C101548,U.S.
+DQ-02,lb_customers,C101552,United States
+DQ-02,lb_customers,C101570,United States
+DQ-02,lb_customers,C101574,USA
+DQ-02,lb_customers,C101584,Canada
+DQ-02,lb_customers,C101587,Canada
+DQ-02,lb_customers,C101593,Germany
+DQ-02,lb_customers,C101597,USA
+DQ-02,lb_customers,C101599,USA
+DQ-02,lb_customers,C101603,United States
+DQ-02,lb_customers,C101620,United States
+DQ-02,lb_customers,C101623,UK
+DQ-02,lb_customers,C101633,UK
+DQ-02,lb_customers,C101636,U.S.
+DQ-02,lb_customers,C101642,USA
+DQ-02,lb_customers,C101648,United States
+DQ-02,lb_customers,C101649,Canada
+DQ-02,lb_customers,C101654,USA
+DQ-02,lb_customers,C101660,Canada
+DQ-02,lb_customers,C101664,United Kingdom
+DQ-02,lb_customers,C101666,USA
+DQ-02,lb_customers,C101676,United States
+DQ-02,lb_customers,C101688,USA
+DQ-02,lb_customers,C101693,Canada
+DQ-02,lb_customers,C101697,USA
+DQ-02,lb_customers,C101698,United States
+DQ-02,lb_customers,C101703,Netherlands
+DQ-02,lb_customers,C101704,United States
+DQ-02,lb_customers,C101716,Ireland
+DQ-02,lb_customers,C101719,UK
+DQ-02,lb_customers,C101725,Netherlands
+DQ-02,lb_customers,C101731,USA
+DQ-02,lb_customers,C101733,UK
+DQ-02,lb_customers,C101741,United Kingdom
+DQ-02,lb_customers,C101747,Netherlands
+DQ-02,lb_customers,C101756,USA
+DQ-02,lb_customers,C101759,United States
+DQ-02,lb_customers,C101764,UK
+DQ-02,lb_customers,C101765,United States
+DQ-02,lb_customers,C101769,USA
+DQ-02,lb_customers,C101776,Germany
+DQ-02,lb_customers,C101779,UK
+DQ-02,lb_customers,C101790,United States
+DQ-02,lb_customers,C101798,United States
+DQ-02,lb_customers,C101804,Canada
+DQ-02,lb_customers,C101810,USA
+DQ-02,lb_customers,C101818,USA
+DQ-02,lb_customers,C101829,United States
+DQ-02,lb_customers,C101853,Canada
+DQ-02,lb_customers,C101860,Ireland
+DQ-02,lb_customers,C101867,USA
+DQ-02,lb_customers,C101874,Canada
+DQ-02,lb_customers,C101883,UK
+DQ-02,lb_customers,C101894,USA
+DQ-02,lb_customers,C101897,United States
+DQ-02,lb_customers,C101914,Canada
+DQ-02,lb_customers,C101931,United States
+DQ-02,lb_customers,C101940,USA
+DQ-02,lb_customers,C101945,UK
+DQ-02,lb_customers,C101955,U.S.
+DQ-02,lb_customers,C101956,USA
+DQ-02,lb_customers,C101959,United States
+DQ-02,lb_customers,C101962,United States
+DQ-02,lb_customers,C101965,USA
+DQ-02,lb_customers,C101971,USA
+DQ-02,lb_customers,C101984,United States
+DQ-02,lb_customers,C101988,USA
+DQ-02,lb_customers,C101999,United Kingdom
+DQ-02,lb_customers,C102006,United States
+DQ-02,lb_customers,C102019,Ireland
+DQ-02,lb_customers,C102028,United States
+DQ-02,lb_customers,C102032,UK
+DQ-02,lb_customers,C102042,United States
+DQ-02,lb_customers,C102043,United States
+DQ-02,lb_customers,C102045,UK
+DQ-02,lb_customers,C102049,United States
+DQ-02,lb_customers,C102057,United States
+DQ-02,lb_customers,C102067,United States
+DQ-02,lb_customers,C102072,U.S.
+DQ-02,lb_customers,C102076,United States
+DQ-02,lb_customers,C102093,United States
+DQ-02,lb_customers,C102095,UK
+DQ-02,lb_customers,C102103,USA
+DQ-02,lb_customers,C102104,USA
+DQ-02,lb_customers,C102108,U.S.
+DQ-02,lb_customers,C102115,UK
+DQ-02,lb_customers,C102116,United States
+DQ-02,lb_customers,C102119,UK
+DQ-02,lb_customers,C102126,UK
+DQ-02,lb_customers,C102128,USA
+DQ-02,lb_customers,C102144,United Kingdom
+DQ-02,lb_customers,C102150,USA
+DQ-02,lb_customers,C102153,USA
+DQ-02,lb_customers,C102157,United States
+DQ-02,lb_customers,C102167,UK
+DQ-02,lb_customers,C102169,United States
+DQ-02,lb_customers,C102185,United Kingdom
+DQ-02,lb_customers,C102188,UK
+DQ-02,lb_customers,C102193,USA
+DQ-02,lb_customers,C102195,U.S.
+DQ-02,lb_customers,C102196,USA
+DQ-02,lb_customers,C102202,USA
+DQ-02,lb_customers,C102216,USA
+DQ-02,lb_customers,C102217,UK
+DQ-02,lb_customers,C102224,Canada
+DQ-02,lb_customers,C102227,USA
+DQ-02,lb_customers,C102233,United States
+DQ-02,lb_customers,C102237,USA
+DQ-02,lb_customers,C102249,Canada
+DQ-02,lb_customers,C102270,UK
+DQ-02,lb_customers,C102271,USA
+DQ-02,lb_customers,C102293,United States
+DQ-02,lb_customers,C102295,UK
+DQ-02,lb_customers,C102310,U.S.
+DQ-02,lb_customers,C102314,USA
+DQ-02,lb_customers,C102322,United States
+DQ-02,lb_customers,C102341,United Kingdom
+DQ-02,lb_customers,C102346,UK
+DQ-02,lb_customers,C102350,United States
+DQ-02,lb_customers,C102354,Canada
+DQ-02,lb_customers,C102362,U.S.
+DQ-02,lb_customers,C102364,U.S.
+DQ-02,lb_customers,C102370,USA
+DQ-02,lb_customers,C102373,United States
+DQ-02,lb_customers,C102376,Germany
+DQ-02,lb_customers,C102377,USA
+DQ-02,lb_customers,C102383,United Kingdom
+DQ-02,lb_customers,C102391,United States
+DQ-02,lb_customers,C102398,USA
+DQ-02,lb_customers,C102399,USA
+DQ-02,lb_customers,C102401,USA
+DQ-02,lb_customers,C102402,United States
+DQ-02,lb_customers,C102409,United Kingdom
+DQ-02,lb_customers,C102412,USA
+DQ-02,lb_customers,C102419,Canada
+DQ-02,lb_customers,C102422,UK
+DQ-02,lb_customers,C102435,United States
+DQ-02,lb_customers,C102437,USA
+DQ-02,lb_customers,C102449,USA
+DQ-02,lb_customers,C102453,United States
+DQ-02,lb_customers,C102457,United Kingdom
+DQ-02,lb_customers,C102461,United Kingdom
+DQ-02,lb_customers,C102465,USA
+DQ-02,lb_customers,C102475,USA
+DQ-02,lb_customers,C102476,United States
+DQ-02,lb_customers,C102477,UK
+DQ-02,lb_customers,C102480,Canada
+DQ-02,lb_customers,C102483,USA
+DQ-02,lb_customers,C102490,Germany
+DQ-02,lb_customers,C102493,United States
+DQ-02,lb_customers,C102500,United Kingdom
+DQ-02,lb_customers,C102501,USA
+DQ-02,lb_customers,C102508,USA
+DQ-02,lb_customers,C102512,UK
+DQ-02,lb_customers,C102521,Canada
+DQ-02,lb_customers,C102522,U.S.
+DQ-02,lb_customers,C102529,USA
+DQ-02,lb_customers,C102531,United States
+DQ-02,lb_customers,C102535,United States
+DQ-02,lb_customers,C102537,USA
+DQ-02,lb_customers,C102540,USA
+DQ-02,lb_customers,C102543,USA
+DQ-02,lb_customers,C102553,USA
+DQ-02,lb_customers,C102565,United States
+DQ-02,lb_customers,C102580,United States
+DQ-02,lb_customers,C102584,United States
+DQ-02,lb_customers,C102599,USA
+DQ-02,lb_customers,C102603,United States
+DQ-02,lb_customers,C102607,USA
+DQ-02,lb_customers,C102619,UK
+DQ-02,lb_customers,C102627,United States
+DQ-02,lb_customers,C102628,USA
+DQ-02,lb_customers,C102633,USA
+DQ-02,lb_customers,C102644,Canada
+DQ-02,lb_customers,C102645,USA
+DQ-02,lb_customers,C102658,USA
+DQ-02,lb_customers,C102659,USA
+DQ-02,lb_customers,C102665,USA
+DQ-02,lb_customers,C102679,USA
+DQ-02,lb_customers,C102681,United States
+DQ-02,lb_customers,C102691,United States
+DQ-02,lb_customers,C102693,United States
+DQ-02,lb_customers,C102694,United States
+DQ-02,lb_customers,C102697,Germany
+DQ-02,lb_customers,C102707,Ireland
+DQ-02,lb_customers,C102710,United States
+DQ-02,lb_customers,C102715,USA
+DQ-02,lb_customers,C102718,USA
+DQ-02,lb_customers,C102722,USA
+DQ-02,lb_customers,C102724,USA
+DQ-02,lb_customers,C102726,USA
+DQ-02,lb_customers,C102736,USA
+DQ-02,lb_customers,C102742,United Kingdom
+DQ-02,lb_customers,C102744,United Kingdom
+DQ-02,lb_customers,C102747,U.S.
+DQ-02,lb_customers,C102767,United States
+DQ-02,lb_customers,C102773,United Kingdom
+DQ-02,lb_customers,C102778,United States
+DQ-02,lb_customers,C102781,USA
+DQ-02,lb_customers,C102784,UK
+DQ-02,lb_customers,C102790,United States
+DQ-02,lb_customers,C102803,USA
+DQ-02,lb_customers,C102805,USA
+DQ-02,lb_customers,C102821,USA
+DQ-02,lb_customers,C102832,USA
+DQ-02,lb_customers,C102837,USA
+DQ-02,lb_customers,C102844,United States
+DQ-02,lb_customers,C102852,United States
+DQ-02,lb_customers,C102857,USA
+DQ-02,lb_customers,C102858,USA
+DQ-02,lb_customers,C102859,USA
+DQ-02,lb_customers,C102862,U.S.
+DQ-02,lb_customers,C102864,United States
+DQ-02,lb_customers,C102876,UK
+DQ-02,lb_customers,C102887,Ireland
+DQ-02,lb_customers,C102890,United States
+DQ-02,lb_customers,C102908,United States
+DQ-02,lb_customers,C102911,USA
+DQ-02,lb_customers,C102914,Canada
+DQ-02,lb_customers,C102922,USA
+DQ-02,lb_customers,C102929,United States
+DQ-02,lb_customers,C102932,USA
+DQ-02,lb_customers,C102935,Canada
+DQ-02,lb_customers,C102938,France
+DQ-02,lb_customers,C102943,United States
+DQ-02,lb_customers,C102947,United States
+DQ-02,lb_customers,C102951,United States
+DQ-02,lb_customers,C102952,USA
+DQ-02,lb_customers,C102957,USA
+DQ-02,lb_customers,C102958,United States
+DQ-02,lb_customers,C102963,Canada
+DQ-02,lb_customers,C102964,United Kingdom
+DQ-02,lb_customers,C102983,USA
+DQ-02,lb_customers,C102994,U.S.
+DQ-02,lb_customers,C102995,United Kingdom
+DQ-02,lb_customers,C102996,Canada
+DQ-02,lb_customers,C103001,U.S.
+DQ-02,lb_customers,C103010,United States
+DQ-02,lb_customers,C103012,United States
+DQ-02,lb_customers,C103026,USA
+DQ-02,lb_customers,C103027,United States
+DQ-02,lb_customers,C103031,United States
+DQ-02,lb_customers,C103035,USA
+DQ-02,lb_customers,C103040,USA
+DQ-02,lb_customers,C103045,UK
+DQ-02,lb_customers,C103046,USA
+DQ-02,lb_customers,C103058,United Kingdom
+DQ-02,lb_customers,C103067,United States
+DQ-04,lb_customers,C100004,07/28/2025
+DQ-04,lb_customers,C100011,04/07/2021
+DQ-04,lb_customers,C100014,12/03/2021
+DQ-04,lb_customers,C100019,05/24/2023
+DQ-04,lb_customers,C100035,06/19/2024
+DQ-04,lb_customers,C100062,04/08/2023
+DQ-04,lb_customers,C100068,12/21/2023
+DQ-04,lb_customers,C100086,04/26/2019
+DQ-04,lb_customers,C100132,12/10/2024
+DQ-04,lb_customers,C100139,09/06/2019
+DQ-04,lb_customers,C100141,12/06/2018
+DQ-04,lb_customers,C100145,05/02/2025
+DQ-04,lb_customers,C100199,05/03/2026
+DQ-04,lb_customers,C100203,01/26/2021
+DQ-04,lb_customers,C100216,06/24/2022
+DQ-04,lb_customers,C100224,08/14/2018
+DQ-04,lb_customers,C100242,08/14/2026
+DQ-04,lb_customers,C100244,12/11/2018
+DQ-04,lb_customers,C100257,12/16/2023
+DQ-04,lb_customers,C100279,04/10/2025
+DQ-04,lb_customers,C100296,05/01/2025
+DQ-04,lb_customers,C100306,07/29/2024
+DQ-04,lb_customers,C100307,12/18/2024
+DQ-04,lb_customers,C100322,04/16/2023
+DQ-04,lb_customers,C100325,05/11/2024
+DQ-04,lb_customers,C100342,05/24/2026
+DQ-04,lb_customers,C100346,11/10/2018
+DQ-04,lb_customers,C100365,11/18/2024
+DQ-04,lb_customers,C100383,03/20/2023
+DQ-04,lb_customers,C100457,04/23/2016
+DQ-04,lb_customers,C100490,04/02/2018
+DQ-04,lb_customers,C100493,02/17/2025
+DQ-04,lb_customers,C100497,07/14/2026
+DQ-04,lb_customers,C100523,03/24/2022
+DQ-04,lb_customers,C100538,07/23/2022
+DQ-04,lb_customers,C100542,03/28/2021
+DQ-04,lb_customers,C100556,02/17/2025
+DQ-04,lb_customers,C100557,04/18/2022
+DQ-04,lb_customers,C100563,02/24/2026
+DQ-04,lb_customers,C100581,07/02/2020
+DQ-04,lb_customers,C100586,07/19/2019
+DQ-04,lb_customers,C100591,05/18/2024
+DQ-04,lb_customers,C100599,01/07/2024
+DQ-04,lb_customers,C100611,10/13/2020
+DQ-04,lb_customers,C100617,07/29/2026
+DQ-04,lb_customers,C100646,04/11/2025
+DQ-04,lb_customers,C100654,10/02/2021
+DQ-04,lb_customers,C100670,07/25/2022
+DQ-04,lb_customers,C100700,06/01/2020
+DQ-04,lb_customers,C100704,02/20/2023
+DQ-04,lb_customers,C100720,01/22/2026
+DQ-04,lb_customers,C100732,08/12/2026
+DQ-04,lb_customers,C100755,12/26/2021
+DQ-04,lb_customers,C100766,01/07/2024
+DQ-04,lb_customers,C100769,08/22/2026
+DQ-04,lb_customers,C100803,11/04/2020
+DQ-04,lb_customers,C100809,04/19/2019
+DQ-04,lb_customers,C100811,08/18/2022
+DQ-04,lb_customers,C100832,12/09/2018
+DQ-04,lb_customers,C100833,05/18/2022
+DQ-04,lb_customers,C100851,10/11/2022
+DQ-04,lb_customers,C100856,12/16/2024
+DQ-04,lb_customers,C100875,05/25/2021
+DQ-04,lb_customers,C100878,06/18/2023
+DQ-04,lb_customers,C100882,06/14/2023
+DQ-04,lb_customers,C100896,08/12/2025
+DQ-04,lb_customers,C100900,09/13/2024
+DQ-04,lb_customers,C100902,08/22/2022
+DQ-04,lb_customers,C100911,10/23/2022
+DQ-04,lb_customers,C100912,08/21/2025
+DQ-04,lb_customers,C100916,07/22/2026
+DQ-04,lb_customers,C100927,05/25/2023
+DQ-04,lb_customers,C100938,01/19/2026
+DQ-04,lb_customers,C100939,07/16/2024
+DQ-04,lb_customers,C100944,07/03/2016
+DQ-04,lb_customers,C100946,11/03/2022
+DQ-04,lb_customers,C100971,11/06/2020
+DQ-04,lb_customers,C100973,09/21/2020
+DQ-04,lb_customers,C100977,06/21/2023
+DQ-04,lb_customers,C100979,12/06/2019
+DQ-04,lb_customers,C101020,08/16/2021
+DQ-04,lb_customers,C101028,11/10/2024
+DQ-04,lb_customers,C101048,07/28/2020
+DQ-04,lb_customers,C101061,08/22/2019
+DQ-04,lb_customers,C101067,02/29/2024
+DQ-04,lb_customers,C101086,10/21/2024
+DQ-04,lb_customers,C101094,08/06/2025
+DQ-04,lb_customers,C101106,10/10/2023
+DQ-04,lb_customers,C101108,03/28/2022
+DQ-04,lb_customers,C101112,06/18/2023
+DQ-04,lb_customers,C101133,12/27/2023
+DQ-04,lb_customers,C101137,07/07/2019
+DQ-04,lb_customers,C101153,06/02/2022
+DQ-04,lb_customers,C101175,07/23/2025
+DQ-04,lb_customers,C101190,09/27/2020
+DQ-04,lb_customers,C101212,05/14/2024
+DQ-04,lb_customers,C101218,06/15/2024
+DQ-04,lb_customers,C101219,09/14/2019
+DQ-04,lb_customers,C101241,09/26/2022
+DQ-04,lb_customers,C101248,01/29/2026
+DQ-04,lb_customers,C101257,09/09/2024
+DQ-04,lb_customers,C101299,03/20/2025
+DQ-04,lb_customers,C101310,01/11/2022
+DQ-04,lb_customers,C101313,10/23/2025
+DQ-04,lb_customers,C101326,12/21/2024
+DQ-04,lb_customers,C101356,09/22/2023
+DQ-04,lb_customers,C101388,05/15/2024
+DQ-04,lb_customers,C101395,02/12/2021
+DQ-04,lb_customers,C101409,03/28/2022
+DQ-04,lb_customers,C101419,04/21/2025
+DQ-04,lb_customers,C101423,02/23/2025
+DQ-04,lb_customers,C101426,07/17/2018
+DQ-04,lb_customers,C101441,04/28/2017
+DQ-04,lb_customers,C101482,02/02/2024
+DQ-04,lb_customers,C101521,04/02/2024
+DQ-04,lb_customers,C101541,04/09/2026
+DQ-04,lb_customers,C101545,05/20/2018
+DQ-04,lb_customers,C101579,11/06/2022
+DQ-04,lb_customers,C101589,08/14/2021
+DQ-04,lb_customers,C101593,11/10/2025
+DQ-04,lb_customers,C101630,01/24/2017
+DQ-04,lb_customers,C101660,07/12/2022
+DQ-04,lb_customers,C101689,09/10/2023
+DQ-04,lb_customers,C101703,10/30/2021
+DQ-04,lb_customers,C101706,03/12/2021
+DQ-04,lb_customers,C101721,03/18/2025
+DQ-04,lb_customers,C101733,11/19/2020
+DQ-04,lb_customers,C101738,02/12/2020
+DQ-04,lb_customers,C101743,01/09/2026
+DQ-04,lb_customers,C101772,10/21/2025
+DQ-04,lb_customers,C101776,10/09/2023
+DQ-04,lb_customers,C101796,03/04/2018
+DQ-04,lb_customers,C101818,11/12/2022
+DQ-04,lb_customers,C101822,05/25/2021
+DQ-04,lb_customers,C101830,05/14/2022
+DQ-04,lb_customers,C101841,08/04/2026
+DQ-04,lb_customers,C101846,07/17/2023
+DQ-04,lb_customers,C101890,01/11/2026
+DQ-04,lb_customers,C101904,05/18/2025
+DQ-04,lb_customers,C101905,08/30/2022
+DQ-04,lb_customers,C101914,08/15/2025
+DQ-04,lb_customers,C101915,06/29/2022
+DQ-04,lb_customers,C101919,05/27/2019
+DQ-04,lb_customers,C101930,04/02/2020
+DQ-04,lb_customers,C101953,04/27/2019
+DQ-04,lb_customers,C101985,11/27/2025
+DQ-04,lb_customers,C102003,07/22/2026
+DQ-04,lb_customers,C102024,09/27/2021
+DQ-04,lb_customers,C102043,10/22/2024
+DQ-04,lb_customers,C102049,10/04/2021
+DQ-04,lb_customers,C102063,02/24/2023
+DQ-04,lb_customers,C102072,10/06/2025
+DQ-04,lb_customers,C102098,09/06/2022
+DQ-04,lb_customers,C102119,07/28/2024
+DQ-04,lb_customers,C102123,08/05/2026
+DQ-04,lb_customers,C102160,01/08/2024
+DQ-04,lb_customers,C102185,03/13/2017
+DQ-04,lb_customers,C102191,12/01/2022
+DQ-04,lb_customers,C102200,06/06/2023
+DQ-04,lb_customers,C102211,09/20/2024
+DQ-04,lb_customers,C102212,06/02/2024
+DQ-04,lb_customers,C102216,10/20/2017
+DQ-04,lb_customers,C102233,01/05/2023
+DQ-04,lb_customers,C102240,03/31/2024
+DQ-04,lb_customers,C102251,07/08/2024
+DQ-04,lb_customers,C102259,06/04/2024
+DQ-04,lb_customers,C102288,12/27/2024
+DQ-04,lb_customers,C102293,07/31/2026
+DQ-04,lb_customers,C102295,07/16/2022
+DQ-04,lb_customers,C102298,11/04/2018
+DQ-04,lb_customers,C102328,02/21/2025
+DQ-04,lb_customers,C102340,05/11/2023
+DQ-04,lb_customers,C102341,05/08/2023
+DQ-04,lb_customers,C102370,08/05/2022
+DQ-04,lb_customers,C102380,11/06/2020
+DQ-04,lb_customers,C102398,11/24/2018
+DQ-04,lb_customers,C102409,03/03/2026
+DQ-04,lb_customers,C102449,01/23/2024
+DQ-04,lb_customers,C102461,08/27/2017
+DQ-04,lb_customers,C102477,10/14/2023
+DQ-04,lb_customers,C102500,08/02/2023
+DQ-04,lb_customers,C102505,06/08/2024
+DQ-04,lb_customers,C102529,10/14/2023
+DQ-04,lb_customers,C102532,08/20/2023
+DQ-04,lb_customers,C102540,01/21/2026
+DQ-04,lb_customers,C102573,08/03/2025
+DQ-04,lb_customers,C102595,10/12/2025
+DQ-04,lb_customers,C102599,03/26/2025
+DQ-04,lb_customers,C102615,11/08/2022
+DQ-04,lb_customers,C102618,04/11/2018
+DQ-04,lb_customers,C102627,06/25/2025
+DQ-04,lb_customers,C102632,08/09/2022
+DQ-04,lb_customers,C102654,07/24/2018
+DQ-04,lb_customers,C102658,01/13/2023
+DQ-04,lb_customers,C102666,11/07/2023
+DQ-04,lb_customers,C102667,07/08/2022
+DQ-04,lb_customers,C102694,05/12/2022
+DQ-04,lb_customers,C102707,12/11/2021
+DQ-04,lb_customers,C102732,08/30/2023
+DQ-04,lb_customers,C102761,11/14/2024
+DQ-04,lb_customers,C102764,04/05/2025
+DQ-04,lb_customers,C102777,06/04/2022
+DQ-04,lb_customers,C102784,08/16/2022
+DQ-04,lb_customers,C102799,09/25/2022
+DQ-04,lb_customers,C102811,08/23/2022
+DQ-04,lb_customers,C102849,12/18/2024
+DQ-04,lb_customers,C102862,12/04/2021
+DQ-04,lb_customers,C102864,02/11/2024
+DQ-04,lb_customers,C102880,08/11/2018
+DQ-04,lb_customers,C102902,03/22/2024
+DQ-04,lb_customers,C102908,04/19/2021
+DQ-04,lb_customers,C102927,11/02/2025
+DQ-04,lb_customers,C102938,03/06/2023
+DQ-04,lb_customers,C102941,04/02/2023
+DQ-04,lb_customers,C102962,07/05/2024
+DQ-04,lb_customers,C102975,07/09/2020
+DQ-04,lb_customers,C102987,12/20/2025
+DQ-04,lb_customers,C102994,12/19/2024
+DQ-04,lb_customers,C103010,06/16/2022
+DQ-04,lb_customers,C103019,02/09/2019
+DQ-04,lb_customers,C103031,05/01/2018
+DQ-04,lb_customers,C103035,02/25/2022
+DQ-04,lb_customers,C103045,01/20/2024
+DQ-04,lb_customers,C103049,12/06/2020
+DQ-04,lb_customers,C103053,09/04/2022
+DQ-05,lb_customers,C103009,duplicate of C102897
+DQ-05,lb_customers,C103010,duplicate of C102715
+DQ-05,lb_customers,C103011,duplicate of C102257
+DQ-05,lb_customers,C103012,duplicate of C102943
+DQ-05,lb_customers,C103014,duplicate of C102902
+DQ-05,lb_customers,C103018,duplicate of C102185
+DQ-05,lb_customers,C103019,duplicate of C100346
+DQ-05,lb_customers,C103021,duplicate of C102298
+DQ-05,lb_customers,C103022,duplicate of C101545
+DQ-05,lb_customers,C103026,duplicate of C102469
+DQ-05,lb_customers,C103027,duplicate of C101065
+DQ-05,lb_customers,C103030,duplicate of C100205
+DQ-05,lb_customers,C103031,duplicate of C102700
+DQ-05,lb_customers,C103035,duplicate of C101975
+DQ-05,lb_customers,C103039,duplicate of C102725
+DQ-05,lb_customers,C103040,duplicate of C102127
+DQ-05,lb_customers,C103043,duplicate of C102741
+DQ-05,lb_customers,C103045,duplicate of C102341
+DQ-05,lb_customers,C103046,duplicate of C102529
+DQ-05,lb_customers,C103049,duplicate of C102249
+DQ-05,lb_customers,C103053,duplicate of C101558
+DQ-05,lb_customers,C103057,duplicate of C102173
+DQ-05,lb_customers,C103058,duplicate of C101831
+DQ-05,lb_customers,C103059,duplicate of C100802
+DQ-05,lb_customers,C103061,duplicate of C102977
+DQ-05,lb_customers,C103064,duplicate of C100651
+DQ-05,lb_customers,C103067,duplicate of C100667
+DQ-06,lb_customers,C100101,(blank)
+DQ-06,lb_customers,C100160,n/a
+DQ-06,lb_customers,C100307,billing@clearbuilders
+DQ-06,lb_customers,C100357,n/a
+DQ-06,lb_customers,C100388,finance@bluffoutfitters
+DQ-06,lb_customers,C100394,invoices@
+DQ-06,lb_customers,C100494,n/a
+DQ-06,lb_customers,C100517,accounts.payable@
+DQ-06,lb_customers,C100623,(blank)
+DQ-06,lb_customers,C100674,n/a
+DQ-06,lb_customers,C100834,invoices@vistamedia
+DQ-06,lb_customers,C100906,(blank)
+DQ-06,lb_customers,C100977,n/a
+DQ-06,lb_customers,C101230,(blank)
+DQ-06,lb_customers,C101349,(blank)
+DQ-06,lb_customers,C101479,finance@unionstaffing
+DQ-06,lb_customers,C101830,ap@driftwoodstudios
+DQ-06,lb_customers,C101835,(blank)
+DQ-06,lb_customers,C101995,(blank)
+DQ-06,lb_customers,C102021,n/a
+DQ-06,lb_customers,C102272,n/a
+DQ-06,lb_customers,C102346,accounts.payable@
+DQ-06,lb_customers,C102515,n/a
+DQ-06,lb_customers,C102603,accounts.payable@
+DQ-06,lb_customers,C102611,billing@
+DQ-06,lb_customers,C102628,ap@wrenenergy
+DQ-06,lb_customers,C102779,n/a
+DQ-07,lb_invoices,CRN8000047,"-1,290.00 / -61.28 / -1351.28"
+DQ-07,lb_invoices,CRN8000340,"-1,155.00 / -102.51 / -1257.51"
+DQ-07,lb_invoices,CRN8000560,"-1,566.25 / -74.40 / -1640.65"
+DQ-07,lb_invoices,CRN8000564,"-33915.00 / -2,204.48 / -36119.48"
+DQ-07,lb_invoices,INV7000129,"1293.60 / 258.72 / 1,552.32"
+DQ-07,lb_invoices,INV7000150,"1200.00 / 57.00 / 1,257.00"
+DQ-07,lb_invoices,INV7000210,"1,559.25 / 202.70 / 1761.95"
+DQ-07,lb_invoices,INV7000259,"2,815.81 / 175.99 / 2991.80"
+DQ-07,lb_invoices,INV7000296,"1440.00 / 127.80 / 1,567.80"
+DQ-07,lb_invoices,INV7000440,"17,442.00 / 1090.13 / 18532.13"
+DQ-07,lb_invoices,INV7000492,"16779.00 / 0.00 / 16,779.00"
+DQ-07,lb_invoices,INV7000498,"1120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7000500,"1,836.00 / 0.00 / 1836.00"
+DQ-07,lb_invoices,INV7000549,"2460.00 / 147.60 / 2,607.60"
+DQ-07,lb_invoices,INV7000607,"1,701.00 / 204.12 / 1905.12"
+DQ-07,lb_invoices,INV7000672,"1071.00 / 64.26 / 1,135.26"
+DQ-07,lb_invoices,INV7000675,"19430.42 / 2525.95 / 21,956.37"
+DQ-07,lb_invoices,INV7000750,"1,308.15 / 156.98 / 1465.13"
+DQ-07,lb_invoices,INV7000753,"1,440.00 / 0.00 / 1440.00"
+DQ-07,lb_invoices,INV7000926,"9780.75 / 1464.67 / 11,245.42"
+DQ-07,lb_invoices,INV7000952,"1320.00 / 82.50 / 1,402.50"
+DQ-07,lb_invoices,INV7001149,"1,610.00 / 100.63 / 1710.63"
+DQ-07,lb_invoices,INV7001201,"1,290.00 / 61.28 / 1351.28"
+DQ-07,lb_invoices,INV7001220,"1,053.00 / 136.89 / 1189.89"
+DQ-07,lb_invoices,INV7001290,"13,437.57 / 0.00 / 13437.57"
+DQ-07,lb_invoices,INV7001294,"1,512.00 / 302.40 / 1814.40"
+DQ-07,lb_invoices,INV7001333,"14535.00 / 944.78 / 15,479.78"
+DQ-07,lb_invoices,INV7001345,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7001359,"2,340.00 / 152.10 / 2492.10"
+DQ-07,lb_invoices,INV7001380,"23045.61 / 1497.96 / 24,543.57"
+DQ-07,lb_invoices,INV7001483,"1,750.00 / 113.75 / 1863.75"
+DQ-07,lb_invoices,INV7001560,"13389.69 / 1188.33 / 14,578.02"
+DQ-07,lb_invoices,INV7001576,"7,245.00 / 642.99 / 7887.99"
+DQ-07,lb_invoices,INV7001582,"7,589.74 / 360.51 / 7,950.25"
+DQ-07,lb_invoices,INV7001646,"2,907.00 / 258.00 / 3165.00"
+DQ-07,lb_invoices,INV7001731,"1,380.00 / 86.25 / 1466.25"
+DQ-07,lb_invoices,INV7001735,"2,940.00 / 183.75 / 3123.75"
+DQ-07,lb_invoices,INV7001853,"1610.00 / 100.63 / 1,710.63"
+DQ-07,lb_invoices,INV7001910,"11064.18 / 691.51 / 11,755.69"
+DQ-07,lb_invoices,INV7001970,"37,944.00 / 2466.36 / 40410.36"
+DQ-07,lb_invoices,INV7001980,"19411.04 / 2,523.44 / 21,934.48"
+DQ-07,lb_invoices,INV7001998,"1113.60 / 222.72 / 1,336.32"
+DQ-07,lb_invoices,INV7002002,"13,979.48 / 0.00 / 13979.48"
+DQ-07,lb_invoices,INV7002055,"960.00 / 62.40 / 1,022.40"
+DQ-07,lb_invoices,INV7002094,"1182.57 / 70.95 / 1,253.52"
+DQ-07,lb_invoices,INV7002245,"1,293.60 / 258.72 / 1552.32"
+DQ-07,lb_invoices,INV7002277,"2,240.00 / 198.80 / 2438.80"
+DQ-07,lb_invoices,INV7002355,"1,015.00 / 0.00 / 1015.00"
+DQ-07,lb_invoices,INV7002361,"15,481.51 / 1373.98 / 16855.49"
+DQ-07,lb_invoices,INV7002404,"1,320.00 / 82.50 / 1402.50"
+DQ-07,lb_invoices,INV7002578,"972.00 / 116.64 / 1,088.64"
+DQ-07,lb_invoices,INV7002581,"3519.00 / 228.74 / 3,747.74"
+DQ-07,lb_invoices,INV7002659,"2,460.00 / 147.60 / 2607.60"
+DQ-07,lb_invoices,INV7002708,"1113.60 / 222.72 / 1,336.32"
+DQ-07,lb_invoices,INV7002782,"14,688.00 / 2937.60 / 17625.60"
+DQ-07,lb_invoices,INV7002809,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7002822,"14397.93 / 2879.59 / 17,277.52"
+DQ-07,lb_invoices,INV7002923,"1080.00 / 67.50 / 1,147.50"
+DQ-07,lb_invoices,INV7002936,"23256.00 / 4651.20 / 27,907.20"
+DQ-07,lb_invoices,INV7002962,"1,293.60 / 258.72 / 1,552.32"
+DQ-07,lb_invoices,INV7002985,"14,535.00 / 1289.98 / 15824.98"
+DQ-07,lb_invoices,INV7003071,"14,076.00 / 1249.25 / 15325.25"
+DQ-07,lb_invoices,INV7003245,"1323.00 / 171.99 / 1,494.99"
+DQ-07,lb_invoices,INV7003407,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7003424,"2460.00 / 147.60 / 2,607.60"
+DQ-07,lb_invoices,INV7003491,"1,820.00 / 161.53 / 1981.53"
+DQ-07,lb_invoices,INV7003613,"3876.00 / 242.25 / 4,118.25"
+DQ-07,lb_invoices,INV7003621,"1440.00 / 0.00 / 1,440.00"
+DQ-07,lb_invoices,INV7003639,"2520.00 / 151.20 / 2,671.20"
+DQ-07,lb_invoices,INV7003650,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7003679,"1920.00 / 120.00 / 2,040.00"
+DQ-07,lb_invoices,INV7003700,"21,687.75 / 2819.41 / 24507.16"
+DQ-07,lb_invoices,INV7003727,"1200.00 / 57.00 / 1,257.00"
+DQ-07,lb_invoices,INV7003757,"1,260.00 / 111.83 / 1371.83"
+DQ-07,lb_invoices,INV7003802,"18020.28 / 1,599.30 / 19619.58"
+DQ-07,lb_invoices,INV7003811,"1015.00 / 0.00 / 1,015.00"
+DQ-07,lb_invoices,INV7003829,"2,220.00 / 144.30 / 2364.30"
+DQ-07,lb_invoices,INV7003874,"11471.32 / 745.64 / 12,216.96"
+DQ-07,lb_invoices,INV7004026,"24,768.54 / 1609.96 / 26378.50"
+DQ-07,lb_invoices,INV7004086,"1,999.20 / 399.84 / 2399.04"
+DQ-07,lb_invoices,INV7004094,"3,840.00 / 0.00 / 3840.00"
+DQ-07,lb_invoices,INV7004137,"24405.49 / 3172.71 / 27,578.20"
+DQ-07,lb_invoices,INV7004242,"1,296.00 / 259.20 / 1555.20"
+DQ-07,lb_invoices,INV7004307,"21610.71 / 1350.67 / 22,961.38"
+DQ-07,lb_invoices,INV7004310,"23,404.56 / 1521.30 / 24925.86"
+DQ-07,lb_invoices,INV7004381,"2592.00 / 311.04 / 2,903.04"
+DQ-07,lb_invoices,INV7004459,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7004571,"1890.00 / 0.00 / 1,890.00"
+DQ-07,lb_invoices,INV7004580,"9780.75 / 1,464.67 / 11245.42"
+DQ-07,lb_invoices,INV7004588,"2,220.00 / 144.30 / 2364.30"
+DQ-07,lb_invoices,INV7004715,"23954.03 / 1497.13 / 25,451.16"
+DQ-07,lb_invoices,INV7004884,"1071.00 / 69.62 / 1,140.62"
+DQ-07,lb_invoices,INV7004901,"3,255.00 / 203.44 / 3458.44"
+DQ-07,lb_invoices,INV7005059,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7005077,"10,530.12 / 500.18 / 11030.30"
+DQ-07,lb_invoices,INV7005078,"21,615.32 / 1918.36 / 23533.68"
+DQ-07,lb_invoices,INV7005080,"21497.45 / 0.00 / 21,497.45"
+DQ-07,lb_invoices,INV7005133,"2,173.50 / 260.82 / 2434.32"
+DQ-07,lb_invoices,INV7005141,"2,592.00 / 311.04 / 2903.04"
+DQ-07,lb_invoices,INV7005156,"1,380.00 / 65.55 / 1445.55"
+DQ-07,lb_invoices,INV7005179,"1,750.00 / 113.75 / 1863.75"
+DQ-07,lb_invoices,INV7005191,"4284.00 / 0.00 / 4,284.00"
+DQ-07,lb_invoices,INV7005214,"33915.00 / 2,204.48 / 36119.48"
+DQ-07,lb_invoices,INV7005312,"5622.75 / 842.01 / 6,464.76"
+DQ-07,lb_invoices,INV7005430,"2754.00 / 130.82 / 2,884.82"
+DQ-07,lb_invoices,INV7005480,"992.25 / 128.99 / 1,121.24"
+DQ-07,lb_invoices,INV7005490,"20,475.89 / 972.60 / 21448.49"
+DQ-07,lb_invoices,INV7005563,"19924.92 / 1,245.31 / 21170.23"
+DQ-07,lb_invoices,INV7005585,"13609.60 / 2,721.92 / 16331.52"
+DQ-07,lb_invoices,INV7005587,"980.00 / 61.25 / 1,041.25"
+DQ-07,lb_invoices,INV7005619,"1695.00 / 105.94 / 1,800.94"
+DQ-07,lb_invoices,INV7005716,"1,575.00 / 102.38 / 1677.38"
+DQ-07,lb_invoices,INV7005746,"1820.00 / 0.00 / 1,820.00"
+DQ-07,lb_invoices,INV7005875,"891.00 / 115.83 / 1,006.83"
+DQ-07,lb_invoices,INV7005896,"2,173.50 / 260.82 / 2434.32"
+DQ-07,lb_invoices,INV7005985,"22643.65 / 1,415.23 / 24058.88"
+DQ-07,lb_invoices,INV7006066,"5622.75 / 842.01 / 6,464.76"
+DQ-07,lb_invoices,INV7006119,"9780.75 / 1,464.67 / 11245.42"
+DQ-07,lb_invoices,INV7006123,"1,890.00 / 0.00 / 1890.00"
+DQ-07,lb_invoices,INV7006160,"4140.00 / 367.43 / 4,507.43"
+DQ-07,lb_invoices,INV7006223,"2940.00 / 183.75 / 3,123.75"
+DQ-07,lb_invoices,INV7006269,"18,375.71 / 2,751.76 / 21127.47"
+DQ-07,lb_invoices,INV7006433,"4,845.00 / 314.93 / 5159.93"
+DQ-07,lb_invoices,INV7006458,"22,485.67 / 1995.60 / 24481.27"
+DQ-07,lb_invoices,INV7006515,"12,586.52 / 2517.30 / 15103.82"
+DQ-07,lb_invoices,INV7006526,"1519.00 / 72.15 / 1,591.15"
+DQ-07,lb_invoices,INV7006568,"1,820.00 / 161.53 / 1981.53"
+DQ-07,lb_invoices,INV7006613,"2240.00 / 145.60 / 2,385.60"
+DQ-07,lb_invoices,INV7006642,"22,779.56 / 2961.34 / 25740.90"
+DQ-07,lb_invoices,INV7006649,"15106.72 / 1340.72 / 16,447.44"
+DQ-07,lb_invoices,INV7006673,"1,785.00 / 0.00 / 1785.00"
+DQ-07,lb_invoices,INV7006699,"2173.50 / 260.82 / 2,434.32"
+DQ-07,lb_invoices,INV7006726,"7711.20 / 925.34 / 8,636.54"
+DQ-07,lb_invoices,INV7006730,"2730.00 / 0.00 / 2,730.00"
+DQ-07,lb_invoices,INV7006808,"1224.00 / 244.80 / 1,468.80"
+DQ-07,lb_invoices,INV7006822,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7006846,"1,260.00 / 111.83 / 1371.83"
+DQ-07,lb_invoices,INV7006871,"5622.75 / 842.01 / 6,464.76"
+DQ-07,lb_invoices,INV7006920,"1890.00 / 0.00 / 1,890.00"
+DQ-07,lb_invoices,INV7007066,"2499.00 / 221.79 / 2,720.79"
+DQ-07,lb_invoices,INV7007135,"1,380.00 / 86.25 / 1466.25"
+DQ-07,lb_invoices,INV7007189,"980.00 / 61.25 / 1,041.25"
+DQ-07,lb_invoices,INV7007254,"1575.00 / 0.00 / 1,575.00"
+DQ-07,lb_invoices,INV7007255,"1214.40 / 0.00 / 1,214.40"
+DQ-07,lb_invoices,INV7007259,"22548.45 / 1409.28 / 23,957.73"
+DQ-07,lb_invoices,INV7007296,"1053.00 / 136.89 / 1,189.89"
+DQ-07,lb_invoices,INV7007332,"1519.00 / 72.15 / 1,591.15"
+DQ-07,lb_invoices,INV7007366,"1,155.00 / 102.51 / 1257.51"
+DQ-07,lb_invoices,INV7007424,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7007454,"15528.11 / 0.00 / 15,528.11"
+DQ-07,lb_invoices,INV7007509,"2173.50 / 260.82 / 2,434.32"
+DQ-07,lb_invoices,INV7007528,"29631.00 / 1777.86 / 31,408.86"
+DQ-07,lb_invoices,INV7007540,"1,380.00 / 65.55 / 1445.55"
+DQ-07,lb_invoices,INV7007549,"924.00 / 184.80 / 1,108.80"
+DQ-07,lb_invoices,INV7007638,"1071.00 / 95.05 / 1,166.05"
+DQ-07,lb_invoices,INV7007760,"1,416.80 / 0.00 / 1416.80"
+DQ-07,lb_invoices,INV7008026,"10740.60 / 1,396.28 / 12136.88"
+DQ-07,lb_invoices,INV7008038,"14037.85 / 0.00 / 14,037.85"
+DQ-07,lb_invoices,INV7008040,"1,120.00 / 224.00 / 1344.00"
+DQ-07,lb_invoices,INV7008065,"1680.00 / 105.00 / 1,785.00"
+DQ-07,lb_invoices,INV7008171,"1,701.00 / 204.12 / 1905.12"
+DQ-07,lb_invoices,INV7008205,"1,820.00 / 161.53 / 1981.53"
+DQ-07,lb_invoices,INV7008212,"2,240.00 / 145.60 / 2385.60"
+DQ-07,lb_invoices,INV7008235,"12048.75 / 1566.34 / 13,615.09"
+DQ-07,lb_invoices,INV7008304,"2173.50 / 260.82 / 2,434.32"
+DQ-07,lb_invoices,INV7008315,"15,697.80 / 1883.74 / 17581.54"
+DQ-07,lb_invoices,INV7008377,"1,080.00 / 67.50 / 1147.50"
+DQ-07,lb_invoices,INV7008390,"1,012.50 / 131.63 / 1144.13"
+DQ-07,lb_invoices,INV7008421,"6265.00 / 297.59 / 6,562.59"
+DQ-07,lb_invoices,INV7008423,"1,104.00 / 209.76 / 1313.76"
+DQ-07,lb_invoices,INV7008458,"2,240.00 / 198.80 / 2438.80"
+DQ-07,lb_invoices,INV7008464,"3876.00 / 344.00 / 4,220.00"
+DQ-07,lb_invoices,INV7008638,"2,940.00 / 183.75 / 3123.75"
+DQ-07,lb_invoices,INV7008778,"10390.52 / 2,078.10 / 12468.62"
+DQ-07,lb_invoices,INV7008807,"21,380.72 / 1336.30 / 22717.02"
+DQ-07,lb_invoices,INV7008834,"13,673.42 / 854.59 / 14528.01"
+DQ-07,lb_invoices,INV7008836,"3840.00 / 0.00 / 3,840.00"
+DQ-07,lb_invoices,INV7008867,"1120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7008874,"12240.00 / 1,086.30 / 13326.30"
+DQ-07,lb_invoices,INV7008894,"1,575.00 / 0.00 / 1575.00"
+DQ-07,lb_invoices,INV7008901,"2,460.00 / 147.60 / 2607.60"
+DQ-07,lb_invoices,INV7009001,"9639.00 / 855.46 / 10,494.46"
+DQ-07,lb_invoices,INV7009101,"8,675.17 / 412.07 / 9087.24"
+DQ-07,lb_invoices,INV7009106,"11254.80 / 0.00 / 11,254.80"
+DQ-07,lb_invoices,INV7009132,"1860.00 / 116.25 / 1,976.25"
+DQ-07,lb_invoices,INV7009198,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7009232,"1,012.50 / 131.63 / 1144.13"
+DQ-07,lb_invoices,INV7009252,"1293.60 / 258.72 / 1,552.32"
+DQ-07,lb_invoices,INV7009259,"1,104.00 / 209.76 / 1313.76"
+DQ-07,lb_invoices,INV7009304,"7,854.00 / 0.00 / 7854.00"
+DQ-07,lb_invoices,INV7009330,"2660.00 / 0.00 / 2,660.00"
+DQ-07,lb_invoices,INV7009386,"24181.86 / 1511.37 / 25,693.23"
+DQ-07,lb_invoices,INV7009507,"19,511.27 / 1219.45 / 20730.72"
+DQ-07,lb_invoices,INV7009618,"17442.00 / 1090.13 / 18,532.13"
+DQ-07,lb_invoices,INV7009686,"3,840.00 / 0.00 / 3840.00"
+DQ-07,lb_invoices,INV7009707,"1,120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7009721,"1,214.40 / 0.00 / 1214.40"
+DQ-07,lb_invoices,INV7009797,"4572.40 / 0.00 / 4,572.40"
+DQ-07,lb_invoices,INV7009844,"1181.25 / 141.75 / 1,323.00"
+DQ-07,lb_invoices,INV7009896,"960.00 / 45.60 / 1,005.60"
+DQ-07,lb_invoices,INV7009921,"1296.00 / 259.20 / 1,555.20"
+DQ-07,lb_invoices,INV7009940,"2,629.40 / 0.00 / 2629.40"
+DQ-07,lb_invoices,INV7009941,"9,827.74 / 1179.33 / 11007.07"
+DQ-07,lb_invoices,INV7009955,"1860.00 / 116.25 / 1,976.25"
+DQ-07,lb_invoices,INV7009958,"891.00 / 115.83 / 1,006.83"
+DQ-07,lb_invoices,INV7009986,"2,173.50 / 260.82 / 2434.32"
+DQ-07,lb_invoices,INV7010127,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7010133,"1200.00 / 57.00 / 1,257.00"
+DQ-07,lb_invoices,INV7010156,"1260.00 / 111.83 / 1,371.83"
+DQ-07,lb_invoices,INV7010160,"2100.00 / 131.25 / 2,231.25"
+DQ-07,lb_invoices,INV7010187,"5622.75 / 842.01 / 6,464.76"
+DQ-07,lb_invoices,INV7010262,"1015.00 / 63.44 / 1,078.44"
+DQ-07,lb_invoices,INV7010266,"1,320.00 / 82.50 / 1402.50"
+DQ-07,lb_invoices,INV7010303,"1365.00 / 0.00 / 1,365.00"
+DQ-07,lb_invoices,INV7010322,"2940.00 / 183.75 / 3,123.75"
+DQ-07,lb_invoices,INV7010571,"1,290.00 / 61.28 / 1351.28"
+DQ-07,lb_invoices,INV7010581,"1,536.00 / 307.20 / 1843.20"
+DQ-07,lb_invoices,INV7010695,"19315.05 / 1,207.19 / 20522.24"
+DQ-07,lb_invoices,INV7010755,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7010781,"6,877.25 / 0.00 / 6877.25"
+DQ-07,lb_invoices,INV7010782,"23024.34 / 1496.58 / 24,520.92"
+DQ-07,lb_invoices,INV7010785,"8185.90 / 1637.18 / 9,823.08"
+DQ-07,lb_invoices,INV7010788,"9,205.23 / 0.00 / 9205.23"
+DQ-07,lb_invoices,INV7010791,"22898.92 / 1,431.18 / 24330.10"
+DQ-07,lb_invoices,INV7010794,"4535.55 / 0.00 / 4,535.55"
+DQ-07,lb_invoices,INV7010812,"891.00 / 115.83 / 1,006.83"
+DQ-07,lb_invoices,INV7010859,"2592.00 / 311.04 / 2,903.04"
+DQ-07,lb_invoices,INV7010873,"1440.00 / 0.00 / 1,440.00"
+DQ-07,lb_invoices,INV7010963,"1104.00 / 209.76 / 1,313.76"
+DQ-07,lb_invoices,INV7010979,"1,200.00 / 57.00 / 1257.00"
+DQ-07,lb_invoices,INV7010999,"1,260.00 / 111.83 / 1371.83"
+DQ-07,lb_invoices,INV7011121,"4140.00 / 367.43 / 4,507.43"
+DQ-07,lb_invoices,INV7011130,"23466.71 / 1,466.67 / 24933.38"
+DQ-07,lb_invoices,INV7011172,"1,428.00 / 89.25 / 1517.25"
+DQ-07,lb_invoices,INV7011200,"1380.00 / 86.25 / 1,466.25"
+DQ-07,lb_invoices,INV7011439,"1224.00 / 0.00 / 1,224.00"
+DQ-07,lb_invoices,INV7011453,"2,460.00 / 147.60 / 2607.60"
+DQ-07,lb_invoices,INV7011524,"1,820.00 / 0.00 / 1820.00"
+DQ-07,lb_invoices,INV7011541,"1,155.00 / 102.51 / 1257.51"
+DQ-07,lb_invoices,INV7011666,"891.00 / 115.83 / 1,006.83"
+DQ-07,lb_invoices,INV7011742,"1470.00 / 0.00 / 1,470.00"
+DQ-07,lb_invoices,INV7011755,"2730.00 / 0.00 / 2,730.00"
+DQ-07,lb_invoices,INV7011792,"1,920.00 / 120.00 / 2,040.00"
+DQ-07,lb_invoices,INV7011860,"14,535.00 / 0.00 / 14535.00"
+DQ-07,lb_invoices,INV7011866,"2,100.00 / 131.25 / 2231.25"
+DQ-07,lb_invoices,INV7011906,"14,637.00 / 914.81 / 15551.81"
+DQ-07,lb_invoices,INV7011913,"2660.00 / 0.00 / 2,660.00"
+DQ-07,lb_invoices,INV7011924,"7099.20 / 1,419.84 / 8,519.04"
+DQ-07,lb_invoices,INV7012160,"16,369.51 / 777.55 / 17147.06"
+DQ-07,lb_invoices,INV7012220,"16156.09 / 0.00 / 16,156.09"
+DQ-07,lb_invoices,INV7012250,"3,519.00 / 228.74 / 3747.74"
+DQ-07,lb_invoices,INV7012258,"3840.00 / 0.00 / 3,840.00"
+DQ-07,lb_invoices,INV7012367,"1,575.00 / 102.38 / 1677.38"
+DQ-07,lb_invoices,INV7012428,"1,701.00 / 204.12 / 1905.12"
+DQ-07,lb_invoices,INV7012439,"12,957.69 / 0.00 / 12957.69"
+DQ-07,lb_invoices,INV7012466,"1200.00 / 78.00 / 1,278.00"
+DQ-07,lb_invoices,INV7012525,"1,530.00 / 0.00 / 1530.00"
+DQ-07,lb_invoices,INV7012529,"5,149.85 / 334.74 / 5484.59"
+DQ-07,lb_invoices,INV7012657,"23256.00 / 4,651.20 / 27907.20"
+DQ-07,lb_invoices,INV7012682,"1,080.00 / 67.50 / 1147.50"
+DQ-07,lb_invoices,INV7012725,"5,274.10 / 685.63 / 5959.73"
+DQ-07,lb_invoices,INV7012749,"15,912.00 / 994.50 / 16906.50"
+DQ-07,lb_invoices,INV7012808,"7,501.79 / 900.21 / 8402.00"
+DQ-07,lb_invoices,INV7012827,"9780.75 / 1464.67 / 11,245.42"
+DQ-07,lb_invoices,INV7012933,"1380.00 / 86.25 / 1,466.25"
+DQ-07,lb_invoices,INV7012992,"6242.40 / 1248.48 / 7,490.88"
+DQ-07,lb_invoices,INV7013058,"2914.02 / 582.80 / 3,496.82"
+DQ-07,lb_invoices,INV7013176,"6995.07 / 1329.06 / 8,324.13"
+DQ-07,lb_invoices,INV7013192,"1120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7013260,"4,998.00 / 443.57 / 5441.57"
+DQ-07,lb_invoices,INV7013289,"1820.00 / 0.00 / 1,820.00"
+DQ-07,lb_invoices,INV7013318,"2,142.00 / 133.88 / 2275.88"
+DQ-07,lb_invoices,INV7013345,"1,155.00 / 102.51 / 1257.51"
+DQ-07,lb_invoices,INV7013360,"5,580.00 / 495.23 / 6,075.23"
+DQ-07,lb_invoices,INV7013402,"960.00 / 62.40 / 1,022.40"
+DQ-07,lb_invoices,INV7013432,"4,289.56 / 0.00 / 4289.56"
+DQ-07,lb_invoices,INV7013438,"2892.97 / 0.00 / 2,892.97"
+DQ-07,lb_invoices,INV7013488,"1071.00 / 95.05 / 1,166.05"
+DQ-07,lb_invoices,INV7013505,"17200.08 / 1075.01 / 18,275.09"
+DQ-07,lb_invoices,INV7013529,"4,787.80 / 287.27 / 5,075.07"
+DQ-07,lb_invoices,INV7013561,"3,034.19 / 0.00 / 3034.19"
+DQ-07,lb_invoices,INV7013568,"1,920.00 / 120.00 / 2040.00"
+DQ-07,lb_invoices,INV7013570,"1275.75 / 165.85 / 1,441.60"
+DQ-07,lb_invoices,INV7013606,"21687.75 / 2,819.41 / 24507.16"
+DQ-07,lb_invoices,INV7013648,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7013657,"6,120.00 / 382.50 / 6502.50"
+DQ-07,lb_invoices,INV7013659,"9792.00 / 612.00 / 10,404.00"
+DQ-07,lb_invoices,INV7013660,"1260.00 / 111.83 / 1,371.83"
+DQ-07,lb_invoices,INV7013662,"7245.00 / 642.99 / 7,887.99"
+DQ-07,lb_invoices,INV7013677,"10,503.90 / 498.94 / 11002.84"
+DQ-07,lb_invoices,INV7013839,"7934.54 / 1,586.91 / 9521.45"
+DQ-07,lb_invoices,INV7014053,"2,754.00 / 358.02 / 3112.02"
+DQ-07,lb_invoices,INV7014133,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7014151,"1836.00 / 114.75 / 1,950.75"
+DQ-07,lb_invoices,INV7014193,"9564.78 / 597.80 / 10,162.58"
+DQ-07,lb_invoices,INV7014227,"1,181.25 / 141.75 / 1323.00"
+DQ-07,lb_invoices,INV7014232,"1,155.00 / 102.51 / 1257.51"
+DQ-07,lb_invoices,INV7014248,"897.75 / 134.44 / 1,032.19"
+DQ-07,lb_invoices,INV7014252,"24,079.21 / 3605.86 / 27685.07"
+DQ-07,lb_invoices,INV7014278,"1296.00 / 168.48 / 1,464.48"
+DQ-07,lb_invoices,INV7014342,"4,852.65 / 303.29 / 5155.94"
+DQ-07,lb_invoices,INV7014350,"6,573.06 / 0.00 / 6573.06"
+DQ-07,lb_invoices,INV7014397,"2,173.50 / 260.82 / 2434.32"
+DQ-07,lb_invoices,INV7014448,"4590.00 / 0.00 / 4,590.00"
+DQ-07,lb_invoices,INV7014450,"1380.00 / 65.55 / 1,445.55"
+DQ-07,lb_invoices,INV7014462,"924.00 / 184.80 / 1,108.80"
+DQ-07,lb_invoices,INV7014629,"1890.00 / 0.00 / 1,890.00"
+DQ-07,lb_invoices,INV7014994,"1120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7015013,"1214.40 / 0.00 / 1,214.40"
+DQ-07,lb_invoices,INV7015014,"1,071.00 / 69.62 / 1140.62"
+DQ-07,lb_invoices,INV7015032,"33583.45 / 5029.12 / 38,612.57"
+DQ-07,lb_invoices,INV7015111,"1,113.60 / 222.72 / 1336.32"
+DQ-07,lb_invoices,INV7015173,"2240.00 / 145.60 / 2,385.60"
+DQ-07,lb_invoices,INV7015220,"2,340.00 / 152.10 / 2492.10"
+DQ-07,lb_invoices,INV7015253,"1,296.00 / 168.48 / 1464.48"
+DQ-07,lb_invoices,INV7015258,"21,612.56 / 2,809.63 / 24422.19"
+DQ-07,lb_invoices,INV7015263,"14,931.33 / 709.24 / 15640.57"
+DQ-07,lb_invoices,INV7015301,"2,601.00 / 0.00 / 2601.00"
+DQ-07,lb_invoices,INV7015351,"25,977.39 / 3890.11 / 29867.50"
+DQ-07,lb_invoices,INV7015365,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7015381,"11430.99 / 743.01 / 12,174.00"
+DQ-07,lb_invoices,INV7015398,"1080.00 / 67.50 / 1,147.50"
+DQ-07,lb_invoices,INV7015409,"3373.65 / 438.57 / 3,812.22"
+DQ-07,lb_invoices,INV7015416,"23,621.09 / 3070.74 / 26691.83"
+DQ-07,lb_invoices,INV7015456,"9,022.87 / 0.00 / 9022.87"
+DQ-07,lb_invoices,INV7015467,"1,200.00 / 57.00 / 1257.00"
+DQ-07,lb_invoices,INV7015534,"5,622.75 / 842.01 / 6464.76"
+DQ-07,lb_invoices,INV7015645,"1365.00 / 0.00 / 1,365.00"
+DQ-07,lb_invoices,INV7015681,"2,754.00 / 130.82 / 2884.82"
+DQ-07,lb_invoices,INV7015835,"13606.44 / 850.40 / 14,456.84"
+DQ-07,lb_invoices,INV7016006,"7807.30 / 692.90 / 8,500.20"
+DQ-07,lb_invoices,INV7016007,"3256.47 / 487.66 / 3,744.13"
+DQ-07,lb_invoices,INV7016009,"1,575.00 / 102.38 / 1677.38"
+DQ-07,lb_invoices,INV7016058,"1113.60 / 222.72 / 1,336.32"
+DQ-07,lb_invoices,INV7016065,"1,701.00 / 204.12 / 1905.12"
+DQ-07,lb_invoices,INV7016191,"8,635.90 / 561.33 / 9197.23"
+DQ-07,lb_invoices,INV7016195,"9,560.71 / 621.45 / 10182.16"
+DQ-07,lb_invoices,INV7016383,"3,841.24 / 768.25 / 4609.49"
+DQ-07,lb_invoices,INV7016387,"1,200.00 / 57.00 / 1257.00"
+DQ-07,lb_invoices,INV7016489,"9780.75 / 1464.67 / 11,245.42"
+DQ-07,lb_invoices,INV7016560,"1,440.00 / 127.80 / 1567.80"
+DQ-07,lb_invoices,INV7016562,"1,224.00 / 0.00 / 1224.00"
+DQ-07,lb_invoices,INV7016610,"22,287.00 / 0.00 / 22287.00"
+DQ-07,lb_invoices,INV7016627,"3,197.61 / 199.85 / 3397.46"
+DQ-07,lb_invoices,INV7016849,"23,081.86 / 0.00 / 23081.86"
+DQ-07,lb_invoices,INV7016897,"1053.00 / 136.89 / 1,189.89"
+DQ-07,lb_invoices,INV7016971,"1,519.00 / 72.15 / 1591.15"
+DQ-07,lb_invoices,INV7016988,"1,820.00 / 0.00 / 1820.00"
+DQ-07,lb_invoices,INV7017052,"66861.00 / 0.00 / 66,861.00"
+DQ-07,lb_invoices,INV7017070,"1200.00 / 78.00 / 1,278.00"
+DQ-07,lb_invoices,INV7017083,"1296.00 / 168.48 / 1,464.48"
+DQ-07,lb_invoices,INV7017114,"2340.00 / 152.10 / 2,492.10"
+DQ-07,lb_invoices,INV7017116,"8625.38 / 1,811.33 / 10436.71"
+DQ-07,lb_invoices,INV7017118,"23177.30 / 2056.99 / 25,234.29"
+DQ-07,lb_invoices,INV7017122,"7041.93 / 440.12 / 7,482.05"
+DQ-07,lb_invoices,INV7017214,"21416.75 / 0.00 / 21,416.75"
+DQ-07,lb_invoices,INV7017222,"4284.00 / 267.75 / 4,551.75"
+DQ-07,lb_invoices,INV7017237,"2,520.00 / 151.20 / 2671.20"
+DQ-07,lb_invoices,INV7017255,"8211.00 / 390.02 / 8,601.02"
+DQ-07,lb_invoices,INV7017308,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7017325,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7017354,"1,190.00 / 77.35 / 1267.35"
+DQ-07,lb_invoices,INV7017364,"1260.00 / 111.83 / 1,371.83"
+DQ-07,lb_invoices,INV7017433,"6854.40 / 1370.88 / 8,225.28"
+DQ-07,lb_invoices,INV7017456,"2,220.00 / 144.30 / 2364.30"
+DQ-07,lb_invoices,INV7017535,"1,440.00 / 127.80 / 1567.80"
+DQ-07,lb_invoices,INV7017555,"1,380.00 / 86.25 / 1466.25"
+DQ-07,lb_invoices,INV7017610,"5609.04 / 350.57 / 5,959.61"
+DQ-07,lb_invoices,INV7017778,"1,695.00 / 105.94 / 1800.94"
+DQ-07,lb_invoices,INV7017783,"1,785.00 / 111.56 / 1896.56"
+DQ-07,lb_invoices,INV7017801,"1120.00 / 224.00 / 1,344.00"
+DQ-07,lb_invoices,INV7017885,"23562.64 / 1,472.67 / 25035.31"
+DQ-07,lb_invoices,INV7017912,"12,262.66 / 735.76 / 12998.42"
+DQ-07,lb_invoices,INV7017925,"1519.00 / 72.15 / 1,591.15"
+DQ-07,lb_invoices,INV7017945,"15986.25 / 1418.78 / 17,405.03"
+DQ-07,lb_invoices,INV7018011,"2,240.00 / 145.60 / 2385.60"
+DQ-07,lb_invoices,INV7018013,"7,225.68 / 1517.39 / 8743.07"
+DQ-07,lb_invoices,INV7018101,"1,435.00 / 89.69 / 1524.69"
+DQ-07,lb_invoices,INV7018174,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7018225,"1080.00 / 67.50 / 1,147.50"
+DQ-07,lb_invoices,INV7018232,"13,376.18 / 836.01 / 14212.19"
+DQ-07,lb_invoices,INV7018239,"1104.00 / 209.76 / 1,313.75"
+DQ-07,lb_invoices,INV7018290,"2,240.00 / 198.80 / 2438.80"
+DQ-07,lb_invoices,INV7018439,"1320.00 / 82.50 / 1,402.50"
+DQ-07,lb_invoices,INV7018451,"15,771.04 / 2996.50 / 18767.54"
+DQ-07,lb_invoices,INV7018566,"3480.00 / 217.50 / 3,697.50"
+DQ-07,lb_invoices,INV7018572,"12852.00 / 1140.62 / 13,992.62"
+DQ-07,lb_invoices,INV7018603,"1500.00 / 97.50 / 1,597.50"
+DQ-07,lb_invoices,INV7018871,"1,113.60 / 222.72 / 1336.32"
+DQ-07,lb_invoices,INV7018890,"1519.00 / 72.15 / 1,591.15"
+DQ-07,lb_invoices,INV7019017,"4557.24 / 957.02 / 5,514.26"
+DQ-07,lb_invoices,INV7019019,"19732.24 / 1751.24 / 21,483.48"
+DQ-07,lb_invoices,INV7019025,"4,634.78 / 301.26 / 4936.04"
+DQ-07,lb_invoices,INV7019062,"20613.18 / 1,288.32 / 21,901.50"
+DQ-07,lb_invoices,INV7019071,"15697.80 / 1883.74 / 17,581.54"
+DQ-07,lb_invoices,INV7019078,"1,470.00 / 88.20 / 1558.20"
+DQ-07,lb_invoices,INV7019121,"1440.00 / 0.00 / 1,440.00"
+DQ-07,lb_invoices,INV7019164,"1,012.50 / 131.63 / 1144.13"
+DQ-07,lb_invoices,INV7019174,"1,080.00 / 67.50 / 1147.50"
+DQ-07,lb_invoices,INV7019184,"1,920.00 / 120.00 / 2040.00"
+DQ-07,lb_invoices,INV7019188,"1,750.00 / 113.75 / 1863.75"
+DQ-07,lb_invoices,INV7019191,"23973.52 / 0.00 / 23,973.52"
+DQ-07,lb_invoices,INV7019221,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7019234,"17813.76 / 1,157.89 / 18971.65"
+DQ-07,lb_invoices,INV7019375,"8,721.00 / 545.06 / 9266.06"
+DQ-07,lb_invoices,INV7019385,"2220.00 / 144.30 / 2,364.30"
+DQ-07,lb_invoices,INV7019431,"1,920.00 / 91.20 / 2011.20"
+DQ-07,lb_invoices,INV7019438,"10697.76 / 0.00 / 10,697.76"
+DQ-07,lb_invoices,INV7019530,"12935.74 / 2,587.15 / 15522.89"
+DQ-07,lb_invoices,INV7019544,"3480.00 / 217.50 / 3,697.50"
+DQ-07,lb_invoices,INV7019551,"6480.00 / 842.40 / 7,322.40"
+DQ-07,lb_invoices,INV7019558,"12144.88 / 2428.98 / 14,573.86"
+DQ-07,lb_invoices,INV7019589,"1323.00 / 171.99 / 1,494.99"
+DQ-07,lb_invoices,INV7019645,"26316.00 / 0.00 / 26,316.00"
+DQ-07,lb_invoices,INV7019677,"980.00 / 61.25 / 1,041.25"
+DQ-07,lb_invoices,INV7019723,"2,516.54 / 0.00 / 2516.54"
+DQ-07,lb_invoices,INV7019772,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7019816,"20,775.43 / 4362.84 / 25138.27"
+DQ-07,lb_invoices,INV7019897,"1181.25 / 141.75 / 1,323.00"
+DQ-07,lb_invoices,INV7019918,"1820.00 / 161.53 / 1,981.53"
+DQ-07,lb_invoices,INV7019954,"2240.00 / 145.60 / 2,385.60"
+DQ-07,lb_invoices,INV7020002,"19,665.65 / 1278.27 / 20943.92"
+DQ-07,lb_invoices,INV7020005,"18355.26 / 2386.18 / 20,741.44"
+DQ-07,lb_invoices,INV7020033,"1,435.00 / 89.69 / 1524.69"
+DQ-07,lb_invoices,INV7020045,"18808.65 / 2257.04 / 21,065.69"
+DQ-07,lb_invoices,INV7020096,"3876.00 / 242.25 / 4,118.25"
+DQ-07,lb_invoices,INV7020126,"2,520.00 / 151.20 / 2671.20"
+DQ-07,lb_invoices,INV7020130,"2,730.00 / 0.00 / 2730.00"
+DQ-07,lb_invoices,INV7020155,"1,080.00 / 67.50 / 1147.50"
+DQ-07,lb_invoices,INV7020168,"5515.00 / 0.00 / 5,515.00"
+DQ-07,lb_invoices,INV7020177,"1,104.00 / 209.76 / 1313.76"
+DQ-07,lb_invoices,INV7020274,"3395.00 / 0.00 / 3,395.00"
+DQ-07,lb_invoices,INV7020303,"11,781.00 / 736.31 / 12,517.31"
+DQ-07,lb_invoices,INV7020357,"7702.29 / 1463.44 / 9,165.73"
+DQ-07,lb_invoices,INV7020446,"1380.00 / 86.25 / 1,466.25"
+DQ-07,lb_invoices,INV7020565,"19972.87 / 1248.30 / 21,221.17"
+DQ-07,lb_invoices,INV7020678,"3,840.00 / 0.00 / 3840.00"
+DQ-07,lb_invoices,INV7020725,"1214.40 / 0.00 / 1,214.40"
+DQ-07,lb_invoices,INV7020733,"11725.80 / 1,040.66 / 12766.46"
+DQ-07,lb_invoices,INV7020853,"897.75 / 134.44 / 1,032.19"
+DQ-07,lb_invoices,INV7020884,"2,240.00 / 145.60 / 2385.60"
+DQ-07,lb_invoices,INV7020914,"1,200.00 / 78.00 / 1278.00"
+DQ-07,lb_invoices,INV7020928,"1,296.00 / 168.48 / 1464.48"
+DQ-07,lb_invoices,INV7020959,"15281.03 / 725.85 / 16,006.88"
+DQ-07,lb_invoices,INV7020962,"2672.33 / 167.02 / 2,839.35"
+DQ-07,lb_invoices,INV7021079,"2,730.00 / 0.00 / 2730.00"
+DQ-07,lb_invoices,INV7021110,"1,012.50 / 131.63 / 1144.13"
+DQ-07,lb_invoices,INV7021189,"11,025.70 / 0.00 / 11025.70"
+DQ-07,lb_invoices,INV7021218,"2,100.00 / 131.25 / 2231.25"
+DQ-07,lb_invoices,INV7021233,"2,660.00 / 0.00 / 2,660.00"
+DQ-07,lb_invoices,INV7021257,"11139.16 / 0.00 / 11,139.16"
+DQ-07,lb_invoices,INV7021339,"1,015.00 / 63.44 / 1078.44"
+DQ-07,lb_invoices,INV7021341,"1,320.00 / 82.50 / 1402.50"
+DQ-07,lb_invoices,INV7021385,"1,440.00 / 127.80 / 1567.80"
+DQ-07,lb_invoices,INV7021534,"1,683.00 / 105.19 / 1788.19"
+DQ-07,lb_invoices,INV7021608,"1680.00 / 109.20 / 1,789.20"
+DQ-07,lb_invoices,INV7021629,"3840.00 / 0.00 / 3,840.00"
+DQ-07,lb_invoices,INV7021659,"1120.00 / 99.40 / 1,219.40"
+DQ-07,lb_invoices,INV7021773,"1820.00 / 0.00 / 1,820.00"
+DQ-07,lb_invoices,INV7021808,"1,181.25 / 141.75 / 1323.00"
+DQ-07,lb_invoices,INV7021841,"6,732.00 / 437.58 / 7169.58"
+DQ-07,lb_invoices,INV7021876,"1,296.00 / 168.48 / 1464.48"
+DQ-07,lb_invoices,INV7021930,"20,003.47 / 1300.23 / 21303.70"
+DQ-07,lb_invoices,INV7021931,"10073.34 / 2014.67 / 12,088.01"
+DQ-07,lb_invoices,INV7021935,"15,407.88 / 0.00 / 15,407.88"
+DQ-07,lb_invoices,INV7021944,"6,527.00 / 310.03 / 6837.03"
+DQ-07,lb_invoices,INV7022055,"1989.00 / 94.48 / 2,083.48"
+DQ-07,lb_invoices,INV7022074,"2,520.00 / 151.20 / 2671.20"
+DQ-07,lb_invoices,INV7022173,"1200.00 / 57.00 / 1,257.00"
+DQ-07,lb_invoices,INV7022179,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7022186,"1260.00 / 111.83 / 1,371.83"
+DQ-07,lb_invoices,INV7022202,"1190.00 / 77.35 / 1,267.35"
+DQ-07,lb_invoices,INV7022226,"5622.75 / 842.01 / 6,464.76"
+DQ-07,lb_invoices,INV7022239,"3395.00 / 0.00 / 3,395.00"
+DQ-07,lb_invoices,INV7022345,"11498.65 / 1,020.51 / 12519.16"
+DQ-07,lb_invoices,INV7022371,"1,920.00 / 91.20 / 2011.20"
+DQ-07,lb_invoices,INV7022621,"2,754.00 / 358.02 / 3112.02"
+DQ-07,lb_invoices,INV7022714,"34884.00 / 2093.04 / 36,977.04"
+DQ-07,lb_invoices,INV7022773,"2,685.00 / 238.29 / 2923.29"
+DQ-07,lb_invoices,INV7022804,"1062.60 / 201.89 / 1,264.49"
+DQ-07,lb_invoices,INV7022805,"897.75 / 134.44 / 1,032.19"
+DQ-07,lb_invoices,INV7022933,"14,888.26 / 893.30 / 15,781.56"
+DQ-07,lb_invoices,INV7022936,"2838.22 / 184.48 / 3,022.70"
+DQ-07,lb_invoices,INV7023014,"1440.00 / 0.00 / 1,440.00"
+DQ-07,lb_invoices,INV7023100,"945.00 / 83.87 / 1,028.87"
+DQ-07,lb_invoices,INV7023130,"16524.00 / 1032.75 / 17,556.75"
+DQ-07,lb_invoices,INV7023145,"7968.59 / 498.04 / 8,466.63"
+DQ-07,lb_invoices,INV7023154,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7023155,"1,200.00 / 57.00 / 1257.00"
+DQ-07,lb_invoices,INV7023229,"2,660.00 / 0.00 / 2660.00"
+DQ-07,lb_invoices,INV7023274,"24920.28 / 3239.64 / 28,159.92"
+DQ-07,lb_invoices,INV7023317,"1,015.00 / 63.44 / 1078.44"
+DQ-07,lb_invoices,INV7023731,"21971.01 / 2,856.23 / 24827.24"
+DQ-07,lb_invoices,INV7023806,"1512.00 / 302.40 / 1,814.40"
+DQ-07,lb_invoices,INV7023849,"5580.00 / 495.23 / 6,075.23"
+DQ-07,lb_invoices,INV7023929,"2159.55 / 134.97 / 2,294.52"
+DQ-07,lb_invoices,INV7023930,"5244.10 / 1048.82 / 6,292.92"
+DQ-07,lb_invoices,INV7024031,"19921.01 / 1245.06 / 21,166.07"
+DQ-07,lb_invoices,INV7024061,"924.00 / 184.80 / 1,108.80"
+DQ-07,lb_invoices,INV7024066,"9,188.95 / 1,929.68 / 11118.63"
+DQ-07,lb_invoices,INV7024081,"23,256.00 / 4651.20 / 27907.20"
+DQ-07,lb_invoices,INV7024117,"945.00 / 83.87 / 1,028.87"
+DQ-07,lb_invoices,INV7024329,"1416.80 / 0.00 / 1,416.80"
+DQ-07,lb_invoices,INV7024330,"1,015.00 / 63.44 / 1,078.44"
+DQ-07,lb_invoices,INV7024470,"3480.00 / 217.50 / 3,697.50"
+DQ-07,lb_invoices,INV7024522,"19787.96 / 1756.18 / 21,544.14"
+DQ-07,lb_invoices,INV7024599,"1,610.00 / 100.63 / 1710.63"
+DQ-07,lb_invoices,INV7024632,"3,840.00 / 0.00 / 3,840.00"
+DQ-07,lb_invoices,INV7024667,"1,120.00 / 99.40 / 1219.40"
+DQ-07,lb_invoices,INV7024743,"6,528.58 / 1305.72 / 7834.30"
+DQ-07,lb_invoices,INV7024754,"4,572.40 / 0.00 / 4572.40"
+DQ-07,lb_invoices,INV7024768,"14,677.79 / 2935.56 / 17613.35"
+DQ-07,lb_invoices,INV7024780,"2685.00 / 238.29 / 2,923.29"
+DQ-07,lb_invoices,INV7024798,"1,113.60 / 222.72 / 1336.32"
+DQ-07,lb_invoices,INV7024812,"1,062.60 / 201.89 / 1264.49"
+DQ-07,lb_invoices,INV7024935,"5374.36 / 0.00 / 5,374.36"
+DQ-07,lb_invoices,INV7024943,"1941.42 / 121.34 / 2,062.76"
+DQ-07,lb_invoices,INV7024948,"1435.00 / 89.69 / 1,524.69"
+DQ-07,lb_invoices,INV7024961,"1,860.00 / 116.25 / 1976.25"
+DQ-07,lb_invoices,INV7025048,"11449.46 / 2,289.89 / 13739.35"
+DQ-07,lb_invoices,INV7025063,"2,520.00 / 151.20 / 2671.20"
+DQ-07,lb_invoices,INV7025180,"1,855.00 / 164.63 / 2019.63"
+DQ-07,lb_invoices,INV7025208,"1,260.00 / 111.83 / 1371.83"
+DQ-07,lb_invoices,INV7025209,"1,190.00 / 77.35 / 1267.35"
+DQ-07,lb_invoices,INV7025230,"2660.00 / 0.00 / 2,660.00"
+DQ-07,lb_invoices,INV7025255,"1890.00 / 0.00 / 1,890.00"
+DQ-07,lb_invoices,INV7025313,"2640.29 / 165.02 / 2,805.31"
+DQ-07,lb_invoices,INV7025348,"19321.61 / 0.00 / 19,321.61"
+DQ-07,lb_invoices,INV7025423,"1,380.00 / 86.25 / 1466.25"
+DQ-07,lb_invoices,INV7025469,"1,155.00 / 0.00 / 1,155.00"
+DQ-07,lb_invoices,INV7025648,"9690.00 / 581.40 / 10,271.40"
+DQ-07,lb_invoices,INV7025653,"1999.20 / 399.84 / 2,399.04"
+DQ-07,lb_invoices,INV7025700,"4,771.59 / 298.22 / 5069.81"
+DQ-07,lb_invoices,INV7025748,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7025775,"3000.00 / 187.50 / 3,187.50"
+DQ-07,lb_invoices,INV7025796,"5,524.78 / 0.00 / 5524.78"
+DQ-07,lb_invoices,INV7025832,"5061.74 / 658.03 / 5,719.77"
+DQ-07,lb_invoices,INV7025968,"4,338.75 / 271.17 / 4609.92"
+DQ-07,lb_invoices,INV7025976,"7650.46 / 994.56 / 8,645.02"
+DQ-07,lb_invoices,INV7025984,"1,435.00 / 89.69 / 1524.69"
+DQ-07,lb_invoices,INV7026050,"1470.00 / 88.20 / 1,558.20"
+DQ-07,lb_invoices,INV7026057,"7120.61 / 445.04 / 7,565.65"
+DQ-07,lb_invoices,INV7026109,"1470.00 / 0.00 / 1,470.00"
+DQ-07,lb_invoices,INV7026120,"1,120.00 / 99.40 / 1219.40"
+DQ-07,lb_invoices,INV7026126,"13524.22 / 3,110.57 / 16634.79"
+DQ-07,lb_invoices,INV7026185,"945.00 / 83.87 / 1,028.87"
+DQ-07,lb_invoices,INV7026234,"3,475.60 / 0.00 / 3475.60"
+DQ-07,lb_invoices,INV7026243,"2100.00 / 131.25 / 2,231.25"
+DQ-07,lb_invoices,INV7026266,"5,622.75 / 842.01 / 6464.76"
+DQ-07,lb_invoices,INV7026341,"24,681.19 / 2190.46 / 26871.65"
+DQ-07,lb_invoices,INV7026358,"25061.40 / 3752.94 / 28,814.34"
+DQ-07,lb_invoices,INV7026396,"3449.25 / 448.40 / 3,897.65"
+DQ-07,lb_invoices,INV7026401,"6657.40 / 432.73 / 7,090.13"
+DQ-07,lb_invoices,INV7026439,"1440.00 / 127.80 / 1,567.80"
+DQ-07,lb_invoices,INV7026488,"1,995.00 / 0.00 / 1995.00"
+DQ-07,lb_invoices,INV7026550,"1050.00 / 49.88 / 1,099.88"
+DQ-07,lb_invoices,INV7026555,"6480.00 / 842.40 / 7,322.40"
+DQ-07,lb_invoices,INV7026582,"1980.00 / 175.73 / 2,155.73"
+DQ-07,lb_invoices,INV7026597,"1500.00 / 97.50 / 1,597.50"
+DQ-07,lb_invoices,INV7026668,"7,956.00 / 497.25 / 8453.25"
+DQ-07,lb_invoices,INV7026700,"1,610.00 / 100.63 / 1710.63"
+DQ-07,lb_invoices,INV7026706,"14944.47 / 1,326.32 / 16270.79"
+DQ-07,lb_invoices,INV7026763,"1,120.00 / 224.00 / 1344.00"
+DQ-07,lb_invoices,INV7026818,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7026880,"2685.00 / 238.29 / 2,923.29"
+DQ-07,lb_invoices,INV7026908,"23449.74 / 1465.61 / 24,915.35"
+DQ-07,lb_invoices,INV7026996,"1296.00 / 168.48 / 1,464.48"
+DQ-07,lb_invoices,INV7027044,"3,772.48 / 452.70 / 4225.18"
+DQ-07,lb_invoices,INV7027046,"23729.85 / 2106.02 / 25,835.87"
+DQ-07,lb_invoices,INV7027050,"1,435.00 / 89.69 / 1524.69"
+DQ-07,lb_invoices,INV7027136,"1,560.00 / 97.50 / 1657.50"
+DQ-07,lb_invoices,INV7027191,"3,373.65 / 438.57 / 3812.22"
+DQ-07,lb_invoices,INV7027263,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7027268,"1,104.00 / 209.76 / 1313.76"
+DQ-07,lb_invoices,INV7027307,"2,100.00 / 131.25 / 2231.25"
+DQ-07,lb_invoices,INV7027319,"1,260.00 / 111.83 / 1371.83"
+DQ-07,lb_invoices,INV7027320,"1,190.00 / 77.35 / 1267.35"
+DQ-07,lb_invoices,INV7027379,"9,780.75 / 1464.67 / 11245.42"
+DQ-07,lb_invoices,INV7027449,"4,140.00 / 367.43 / 4507.43"
+DQ-07,lb_invoices,INV7027462,"1320.00 / 82.50 / 1,402.50"
+DQ-07,lb_invoices,INV7027700,"1,380.00 / 86.25 / 1466.25"
+DQ-07,lb_invoices,INV7027781,"3060.00 / 191.25 / 3,251.25"
+DQ-07,lb_invoices,INV7027783,"3840.00 / 0.00 / 3,840.00"
+DQ-07,lb_invoices,INV7027791,"1,695.00 / 105.94 / 1800.94"
+DQ-07,lb_invoices,INV7027907,"5355.00 / 321.30 / 5,676.30"
+DQ-07,lb_invoices,INV7027916,"3000.00 / 187.50 / 3,187.50"
+DQ-07,lb_invoices,INV7027967,"2,685.00 / 238.29 / 2923.29"
+DQ-07,lb_invoices,INV7028082,"30232.80 / 6,046.56 / 36279.36"
+DQ-07,lb_invoices,INV7028124,"16885.36 / 1097.55 / 17,982.91"
+DQ-07,lb_invoices,INV7028125,"7842.98 / 490.19 / 8,333.17"
+DQ-07,lb_invoices,INV7028127,"18640.97 / 3728.19 / 22,369.16"
+DQ-07,lb_invoices,INV7028142,"980.00 / 86.98 / 1,066.98"
+DQ-07,lb_invoices,INV7028145,"891.00 / 115.83 / 1,006.83"
+DQ-07,lb_invoices,INV7028164,"1860.00 / 116.25 / 1,976.25"
+DQ-07,lb_invoices,INV7028241,"23955.56 / 2126.06 / 26,081.62"
+DQ-07,lb_invoices,INV7028265,"2520.00 / 151.20 / 2,671.20"
+DQ-07,lb_invoices,INV7028277,"3,863.58 / 251.13 / 4114.71"
+DQ-07,lb_invoices,INV7028298,"1012.50 / 131.63 / 1,144.13"
+DQ-07,lb_invoices,INV7028330,"945.00 / 83.87 / 1,028.87"
+DQ-07,lb_invoices,INV7028349,"1293.60 / 258.72 / 1,552.32"
+DQ-07,lb_invoices,INV7028357,"14614.20 / 2,188.48 / 16802.68"
+DQ-07,lb_invoices,INV7028609,"2940.00 / 183.75 / 3,123.75"
+DQ-07,lb_invoices,INV7028645,"1995.00 / 0.00 / 1,995.00"
+DQ-07,lb_invoices,INV7028725,"1,323.00 / 171.99 / 1494.99"
+DQ-07,lb_invoices,INV7028762,"1,740.00 / 0.00 / 1740.00"
+DQ-07,lb_invoices,INV7028930,"9879.83 / 0.00 / 9,879.83"
+DQ-07,lb_invoices,INV7028965,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7029032,"3,672.00 / 0.00 / 3672.00"
+DQ-07,lb_invoices,INV7029188,"1296.00 / 259.20 / 1,555.20"
+DQ-07,lb_invoices,INV7029205,"10040.23 / 2008.05 / 12,048.28"
+DQ-07,lb_invoices,INV7029212,"22529.87 / 1,408.12 / 23937.99"
+DQ-07,lb_invoices,INV7029214,"1880.49 / 0.00 / 1,880.49"
+DQ-07,lb_invoices,INV7029294,"3,855.60 / 577.38 / 4432.98"
+DQ-07,lb_invoices,INV7029334,"2,520.00 / 151.20 / 2671.20"
+DQ-07,lb_invoices,INV7029381,"1920.00 / 120.00 / 2,040.00"
+DQ-07,lb_invoices,INV7029384,"1,080.00 / 67.50 / 1,147.50"
+DQ-07,lb_invoices,INV7029463,"1,008.00 / 201.60 / 1209.60"
+DQ-07,lb_invoices,INV7029649,"1,015.00 / 63.44 / 1078.44"
+DQ-07,lb_invoices,INV7029661,"7344.00 / 651.78 / 7,995.78"
+DQ-07,lb_invoices,INV7029692,"1,440.00 / 127.80 / 1567.80"
+DQ-07,lb_invoices,INV7029706,"20984.41 / 1311.53 / 22,295.94"
+DQ-07,lb_invoices,INV7029735,"2940.00 / 183.75 / 3,123.75"
+DQ-07,lb_invoices,INV7029781,"2,392.92 / 0.00 / 2392.92"
+DQ-07,lb_invoices,INV7029856,"1,500.00 / 97.50 / 1597.50"
+DQ-07,lb_invoices,INV7029973,"2754.00 / 358.02 / 3,112.02"
+DQ-07,lb_invoices,INV7029986,"1,680.00 / 109.20 / 1789.20"
+DQ-07,lb_invoices,INV7030048,"1120.00 / 99.40 / 1,219.40"
+DQ-07,lb_invoices,INV7030056,"7741.94 / 1548.39 / 9,290.33"
+DQ-07,lb_invoices,INV7030089,"3255.00 / 203.44 / 3,458.44"
+DQ-07,lb_invoices,INV7030097,"1,053.00 / 136.89 / 1189.89"
+DQ-07,lb_invoices,INV7030162,"6069.00 / 538.62 / 6,607.62"
+DQ-07,lb_invoices,INV7030180,"1113.60 / 222.72 / 1,336.32"
+DQ-07,lb_invoices,INV7030249,"4651.20 / 930.24 / 5,581.44"
+DQ-07,lb_invoices,INV7030311,"3,927.00 / 235.62 / 4162.62"
+DQ-07,lb_invoices,INV7030333,"1200.00 / 78.00 / 1,278.00"
+DQ-07,lb_invoices,INV7030346,"10600.09 / 940.76 / 11,540.85"
+DQ-07,lb_invoices,INV7030352,"23701.93 / 0.00 / 23,701.93"
+DQ-07,lb_invoices,INV7030354,"19,568.14 / 0.00 / 19568.14"
+DQ-07,lb_invoices,INV7030356,"16,137.17 / 0.00 / 16137.17"
+DQ-07,lb_invoices,INV7030379,"980.00 / 86.98 / 1,066.98"
+DQ-07,lb_invoices,INV7030477,"924.00 / 184.80 / 1,108.80"
+DQ-07,lb_invoices,INV7030513,"1080.00 / 67.50 / 1,147.50"
+DQ-07,lb_invoices,INV7030543,"1750.00 / 113.75 / 1,863.75"
+DQ-07,lb_invoices,INV7030590,"1104.00 / 209.76 / 1,313.76"
+DQ-07,lb_invoices,INV7030603,"4,957.20 / 644.44 / 5601.64"
+DQ-07,lb_invoices,INV7030629,"22194.85 / 1,442.67 / 23637.52"
+DQ-07,lb_invoices,INV7030664,"13,420.68 / 0.00 / 13420.68"
+DQ-07,lb_invoices,INV7030665,"10178.49 / 2,035.70 / 12214.19"
+DQ-07,lb_invoices,INV7030683,"3395.00 / 0.00 / 3,395.00"
+DQ-07,lb_invoices,INV7030972,"2,325.60 / 465.12 / 2790.72"
+DQ-07,lb_invoices,INV7030991,"1323.00 / 171.99 / 1,494.99"
+DQ-07,lb_invoices,INV7031004,"5,508.00 / 0.00 / 5508.00"
+DQ-07,lb_invoices,INV7031088,"13,464.00 / 875.16 / 14339.16"
+DQ-07,lb_invoices,INV7031157,"1,695.00 / 105.94 / 1800.94"
+DQ-07,lb_invoices,INV7031322,"1,113.60 / 222.72 / 1336.32"
+DQ-07,lb_invoices,INV7031344,"1,820.00 / 0.00 / 1820.00"
+DQ-07,lb_invoices,INV7031354,"897.75 / 134.44 / 1,032.19"
+DQ-07,lb_invoices,INV7031380,"17,257.70 / 0.00 / 17257.70"
+DQ-07,lb_invoices,INV7031415,"12048.75 / 1566.34 / 13,615.09"
+DQ-07,lb_invoices,INV7031434,"1,296.00 / 259.20 / 1555.20"
+DQ-07,lb_invoices,INV7031479,"2,340.00 / 152.10 / 2492.10"
+DQ-07,lb_invoices,INV7031491,"12530.21 / 0.00 / 12,530.21"
+DQ-07,lb_invoices,INV7031492,"1359.98 / 272.00 / 1,631.98"
+DQ-07,lb_invoices,INV7031499,"22422.90 / 1,401.43 / 23824.33"
+DQ-07,lb_invoices,INV7031619,"2520.00 / 151.20 / 2,671.20"
+DQ-07,lb_invoices,INV7031628,"912.00 / 182.40 / 1,094.40"
+DQ-07,lb_invoices,INV7031629,"3,960.00 / 247.50 / 4207.50"
+DQ-07,lb_invoices,INV7031687,"1750.00 / 113.75 / 1,863.75"
+DQ-07,lb_invoices,INV7031710,"6,265.00 / 297.59 / 6562.59"
+DQ-07,lb_invoices,INV7031772,"1,970.28 / 93.59 / 2063.87"
+DQ-07,lb_invoices,INV7031778,"1190.00 / 77.35 / 1,267.35"
+DQ-07,lb_invoices,INV7031826,"2660.00 / 0.00 / 2,660.00"
+DQ-07,lb_invoices,INV7031834,"3,395.00 / 0.00 / 3395.00"
+DQ-07,lb_invoices,INV7031884,"1,890.00 / 0.00 / 1890.00"
+DQ-07,lb_invoices,INV7031909,"8721.00 / 545.06 / 9,266.06"
+DQ-07,lb_invoices,INV7031939,"1,015.00 / 63.44 / 1078.44"
+DQ-07,lb_invoices,INV7032022,"2940.00 / 183.75 / 3,123.75"
+DQ-07,lb_invoices,INV7032096,"3480.00 / 217.50 / 3,697.50"
+DQ-07,lb_invoices,INV7032161,"4384.25 / 389.10 / 4,773.36"
+DQ-07,lb_invoices,INV7032266,"3,840.00 / 0.00 / 3840.00"
+DQ-07,lb_invoices,INV7032378,"3,255.00 / 203.44 / 3458.44"
+DQ-07,lb_invoices,INV7032411,"3,000.00 / 187.50 / 3187.50"
+DQ-07,lb_invoices,INV7032477,"18961.30 / 1185.08 / 20,146.38"
+DQ-07,lb_invoices,INV7032502,"1512.00 / 302.40 / 1,814.40"
+DQ-07,lb_invoices,INV7032570,"5,355.00 / 321.30 / 5676.30"
+DQ-07,lb_invoices,INV7032579,"1,820.00 / 161.53 / 1981.53"
+DQ-07,lb_invoices,INV7032582,"1,296.00 / 168.48 / 1464.48"
+DQ-07,lb_invoices,INV7032586,"5,580.00 / 495.23 / 6075.23"
+DQ-07,lb_invoices,INV7032623,"15804.50 / 3160.90 / 18,965.40"
+DQ-07,lb_invoices,INV7032624,"21,067.01 / 1316.69 / 22383.70"
+DQ-07,lb_invoices,INV7032629,"12066.70 / 573.17 / 12,639.87"
+DQ-07,lb_payments,P3000126,"11,245.42"
+DQ-07,lb_payments,P3000319,"2,607.60"
+DQ-07,lb_payments,P3000355,"1,820.00"
+DQ-07,lb_payments,P3000622,"1,015.00"
+DQ-07,lb_payments,P3000798,"5,757.32"
+DQ-07,lb_payments,P3000883,"5,185.96"
+DQ-07,lb_payments,P3000913,"1,189.89"
+DQ-07,lb_payments,P3001007,"16,624.60"
+DQ-07,lb_payments,P3001025,"15,479.78"
+DQ-07,lb_payments,P3001111,"1,575.00"
+DQ-07,lb_payments,P3001120,"2,063.97"
+DQ-07,lb_payments,P3001153,"1,710.63"
+DQ-07,lb_payments,P3001310,"1,015.00"
+DQ-07,lb_payments,P3001321,"11,245.42"
+DQ-07,lb_payments,P3001553,"1,140.62"
+DQ-07,lb_payments,P3001659,"16,524.00"
+DQ-07,lb_payments,P3001688,"1,336.32"
+DQ-07,lb_payments,P3001876,"7,169.58"
+DQ-07,lb_payments,P3001943,"1,552.32"
+DQ-07,lb_payments,P3002028,"2,492.10"
+DQ-07,lb_payments,P3002160,"39,412.80"
+DQ-07,lb_payments,P3002264,"5,202.00"
+DQ-07,lb_payments,P3002267,"2,779.30"
+DQ-07,lb_payments,P3002274,"1,445.55"
+DQ-07,lb_payments,P3002301,"1,710.63"
+DQ-07,lb_payments,P3002697,"2,438.80"
+DQ-07,lb_payments,P3002743,"14,990.94"
+DQ-07,lb_payments,P3002755,"1,761.95"
+DQ-07,lb_payments,P3003497,"1,015.00"
+DQ-07,lb_payments,P3003585,"6,464.76"
+DQ-07,lb_payments,P3003670,"1,106.10"
+DQ-07,lb_payments,P3003941,"1,032.19"
+DQ-07,lb_payments,P3004029,"10,271.40"
+DQ-07,lb_payments,P3004043,"1,166.05"
+DQ-07,lb_payments,P3004084,"1,517.55"
+DQ-07,lb_payments,P3004126,"2,492.10"
+DQ-07,lb_payments,P3004322,"2,231.25"
+DQ-07,lb_payments,P3004369,"1,761.95"
+DQ-07,lb_payments,P3004519,"1,041.25"
+DQ-07,lb_payments,P3004556,"1,344.00"
+DQ-07,lb_payments,P3004802,"4,572.40"
+DQ-07,lb_payments,P3004890,"21,096.61"
+DQ-07,lb_payments,P3005129,"1,466.25"
+DQ-07,lb_payments,P3005226,"10,801.68"
+DQ-07,lb_payments,P3005228,"3,170.55"
+DQ-07,lb_payments,P3005488,"1,981.53"
+DQ-07,lb_payments,P3005545,"7,979.79"
+DQ-07,lb_payments,P3005550,"1,022.40"
+DQ-07,lb_payments,P3005578,"1,006.83"
+DQ-07,lb_payments,P3005731,"1,209.60"
+DQ-07,lb_payments,P3005741,"1,567.80"
+DQ-07,lb_payments,P3005943,"1,189.89"
+DQ-07,lb_payments,P3006385,"1,440.00"
+DQ-07,lb_payments,P3006388,"1,800.94"
+DQ-07,lb_payments,P3006399,"2,730.00"
+DQ-07,lb_payments,P3006429,"2,040.00"
+DQ-07,lb_payments,P3006598,"1,658.50"
+DQ-07,lb_payments,P3006661,"1,365.00"
+DQ-07,lb_payments,P3006924,"1,344.00"
+DQ-07,lb_payments,P3006953,"1,976.25"
+DQ-07,lb_payments,P3006954,"21,099.98"
+DQ-07,lb_payments,P3006964,"2,607.60"
+DQ-07,lb_payments,P3006997,"1,677.38"
+DQ-07,lb_payments,P3007034,"15,103.82"
+DQ-07,lb_payments,P3007047,"1,814.40"
+DQ-07,lb_payments,P3007121,"1,214.40"
+DQ-07,lb_payments,P3007242,"2,671.20"
+DQ-07,lb_payments,P3007264,"1,863.75"
+DQ-07,lb_payments,P3007340,"2,438.80"
+DQ-07,lb_payments,P3007352,"2,364.30"
+DQ-07,lb_payments,P3007522,"1,466.25"
+DQ-07,lb_payments,P3007588,"1,548.66"
+DQ-07,lb_payments,P3007727,"14,535.00"
+DQ-07,lb_payments,P3007745,"1,344.00"
+DQ-07,lb_payments,P3007782,"1,022.40"
+DQ-07,lb_payments,P3007879,"1,905.12"
+DQ-07,lb_payments,P3008099,"1,591.15"
+DQ-07,lb_payments,P3008199,"1,371.83"
+DQ-07,lb_payments,P3008358,"1,022.40"
+DQ-07,lb_payments,P3008384,"1,108.80"
+DQ-07,lb_payments,P3008628,"3,799.69"
+DQ-07,lb_payments,P3008639,"1,336.32"
+DQ-07,lb_payments,P3008808,"22,018.02"
+DQ-07,lb_payments,P3008868,"36,151.21"
+DQ-07,lb_payments,P3009068,"1,344.00"
+DQ-07,lb_payments,P3009590,"1,677.38"
+DQ-07,lb_payments,P3009625,"1,464.48"
+DQ-07,lb_payments,P3009741,"2,671.20"
+DQ-07,lb_payments,P3009988,"1,863.75"
+DQ-07,lb_payments,P3010026,"7,887.99"
+DQ-07,lb_payments,P3010031,"2,040.00"
+DQ-07,lb_payments,P3010061,"1,814.40"
+DQ-07,lb_payments,P3010263,"7,606.35"
+DQ-07,lb_payments,P3010336,"2,923.29"
+DQ-07,lb_payments,P3010376,"6,117.20"
+DQ-07,lb_payments,P3010414,"15,479.78"
+DQ-07,lb_payments,P3010444,"2,607.60"
+DQ-07,lb_payments,P3010562,"1,094.40"
+DQ-07,lb_payments,P3010564,"2,671.20"
+DQ-07,lb_payments,P3010568,"1,843.20"
+DQ-07,lb_payments,P3010676,"1,209.60"
+DQ-07,lb_payments,P3010839,"1,820.00"
+DQ-07,lb_payments,P3011021,"1,445.55"
+DQ-07,lb_payments,P3011127,"1,189.89"
+DQ-07,lb_payments,P3011249,"14,312.25"
+DQ-07,lb_payments,P3011375,"1,677.38"
+DQ-07,lb_payments,P3011407,"2,296.39"
+DQ-07,lb_payments,P3011414,"1,440.00"
+DQ-07,lb_payments,P3011466,"1,144.13"
+DQ-07,lb_payments,P3011497,"6,562.59"
+DQ-07,lb_payments,P3011785,"2,660.00"
+DQ-07,lb_payments,P3011906,"1,710.63"
+DQ-07,lb_payments,P3011974,"1,344.00"
+DQ-07,lb_payments,P3012247,"16,482.82"
+DQ-07,lb_payments,P3012295,"6,254.23"
+DQ-07,lb_payments,P3012360,"1,863.75"
+DQ-07,lb_payments,P3012362,"1,441.60"
+DQ-07,lb_payments,P3012642,"1,981.53"
+DQ-07,lb_payments,P3012662,"1,121.24"
+DQ-07,lb_payments,P3012677,"1,189.89"
+DQ-07,lb_payments,P3012734,"1,224.00"
+DQ-07,lb_payments,P3012818,"3,112.02"
+DQ-07,lb_payments,P3012911,"2,607.60"
+DQ-07,lb_payments,P3012937,"1,005.60"
+DQ-07,lb_payments,P3013176,"1,108.80"
+DQ-07,lb_payments,P3013225,"14,990.94"
+DQ-07,lb_payments,P3013373,"2,434.32"
+DQ-07,lb_payments,P3013404,"11,054.58"
+DQ-07,lb_payments,P3013407,"4,572.40"
+DQ-07,lb_payments,P3013657,"24,920.76"
+DQ-07,lb_payments,P3014142,"1,365.00"
+DQ-07,lb_payments,P3014269,"1,371.83"
+DQ-07,lb_payments,P3014429,"1,567.80"
+DQ-07,lb_payments,P3014608,"1,257.00"
+DQ-07,lb_payments,P3014615,"1,710.63"
+DQ-07,lb_payments,P3014793,"1,336.32"
+DQ-07,lb_payments,P3014808,"1,843.20"
+DQ-07,lb_payments,P3015158,"1,028.87"
+DQ-07,lb_payments,P3015161,"9,663.18"
+DQ-07,lb_payments,P3015170,"1,267.35"
+DQ-07,lb_payments,P3015224,"2,448.00"
+DQ-07,lb_payments,P3015241,"1,785.00"
+DQ-07,lb_payments,P3015554,"2,660.00"
+DQ-07,lb_payments,P3015596,"1,542.06"
+DQ-07,lb_payments,P3015602,"1,890.00"
+DQ-07,lb_payments,P3015608,"1,785.00"
+DQ-07,lb_payments,P3015685,"11,733.60"
+DQ-07,lb_payments,P3015817,"8,712.97"
+DQ-07,lb_payments,P3015830,"16,161.98"
+DQ-07,lb_payments,P3015861,"8,453.25"
+DQ-07,lb_payments,P3015881,"12,010.82"
+DQ-07,lb_payments,P3016113,"9,022.87"
+DQ-07,lb_payments,P3016145,"1,214.40"
+DQ-07,lb_payments,P3016177,"17,594.30"
+DQ-07,lb_payments,P3016179,"1,078.44"
+DQ-07,lb_payments,P3016261,"14,004.09"
+DQ-07,lb_payments,P3016350,"1,121.24"
+DQ-07,lb_payments,P3016492,"1,863.75"
+DQ-07,lb_payments,P3016558,"5,159.93"
+DQ-07,lb_payments,P3016635,"3,652.95"
+DQ-07,lb_payments,P3016651,"3,112.02"
+DQ-07,lb_payments,P3016726,"1,843.20"
+DQ-07,lb_payments,P3016881,"1,677.38"
+DQ-07,lb_payments,P3016995,"7,887.99"
+DQ-07,lb_payments,P3017098,"1,785.00"
+DQ-07,lb_payments,P3017100,"1,022.40"
+DQ-07,lb_payments,P3017116,"2,612.29"
+DQ-07,lb_payments,P3017131,"31,384.88"
+DQ-07,lb_payments,P3017185,"3,697.50"
+DQ-07,lb_payments,P3017228,"16,231.54"
+DQ-07,lb_payments,P3017246,"1,466.25"
+DQ-07,lb_payments,P3017361,"1,466.25"
+DQ-07,lb_payments,P3017449,"2,660.00"
+DQ-07,lb_payments,P3017482,"1,219.40"
+DQ-07,lb_payments,P3017545,"1,189.89"
+DQ-07,lb_payments,P3017561,"1,445.55"
+DQ-07,lb_payments,P3017716,"12,998.42"
+DQ-07,lb_payments,P3017753,"14,308.65"
+DQ-07,lb_payments,P3017807,"1,555.20"
+DQ-07,lb_payments,P3017840,"16,192.97"
+DQ-07,lb_payments,P3018145,"1,365.00"
+DQ-07,lb_payments,P3018235,"1,155.00"
+DQ-07,lb_payments,P3018766,"23,497.62"
+DQ-07,lb_payments,P3018884,"1,397.70"
+DQ-07,lb_payments,P3019013,"3,395.00"
+DQ-07,lb_payments,P3019049,"1,022.40"
+DQ-07,lb_payments,P3019329,"1,257.00"
+DQ-07,lb_payments,P3019369,"1,108.80"
+DQ-07,lb_payments,P3019416,"13,326.30"
+DQ-07,lb_payments,P3019478,"1,843.20"
+DQ-07,lb_payments,P3019503,"1,147.50"
+DQ-07,lb_payments,P3019565,"1,555.20"
+DQ-07,lb_payments,P3019577,"8,729.73"
+DQ-07,lb_payments,P3019683,"24,074.78"
+DQ-07,lb_payments,P3019701,"1,006.83"
+DQ-07,lb_payments,P3019714,"1,147.50"
+DQ-07,lb_payments,P3019796,"2,730.00"
+DQ-07,lb_payments,P3020036,"1,267.35"
+DQ-07,lb_payments,P3020061,"3,680.09"
+DQ-07,lb_payments,P3020190,"6,890.08"
+DQ-07,lb_payments,P3020259,"3,897.65"
+DQ-07,lb_payments,P3020319,"13,449.86"
+DQ-07,lb_payments,P3020424,"2,607.60"
+DQ-07,lb_payments,P3020546,"1,785.00"
+DQ-07,lb_payments,P3020602,"1,466.25"
+DQ-07,lb_payments,P3020781,"13,135.94"
+DQ-07,lb_payments,P3020952,"6,075.23"
+DQ-07,lb_payments,P3021105,"12,950.18"
+DQ-07,lb_payments,P3021164,"1,155.00"
+DQ-07,lb_payments,P3021316,"13,415.81"
+DQ-07,lb_payments,P3021359,"3,652.95"
+DQ-07,lb_payments,P3021405,"11,139.16"
+DQ-07,lb_payments,P3021684,"16,779.00"
+DQ-07,lb_payments,P3021687,"1,328.64"
+DQ-07,lb_payments,P3021746,"1,440.00"
+DQ-07,lb_payments,P3021823,"1,094.40"
+DQ-07,lb_payments,P3021935,"2,660.00"
+DQ-07,lb_payments,P3022035,"1,416.80"
+DQ-07,lb_payments,P3022066,"3,298.77"
+DQ-07,lb_payments,P3022102,"6,402.11"
+DQ-07,lb_payments,P3022110,"2,040.00"
+DQ-07,lb_payments,P3022189,"20,718.56"
+DQ-07,lb_payments,P3022227,"1,677.38"
+DQ-07,lb_payments,P3022487,"2,923.29"
+DQ-07,lb_payments,P3022608,"2,730.00"
+DQ-07,lb_payments,P3022640,"1,211.94"
+DQ-07,lb_payments,P3022673,"20,232.75"
+DQ-07,lb_payments,P3022678,"1,524.69"
+DQ-07,lb_payments,P3022701,"24,800.91"
+DQ-07,lb_payments,P3022832,"22,604.16"
+DQ-07,lb_payments,P3022889,"1,209.60"
+DQ-07,lb_payments,P3023000,"4,044.28"
+DQ-07,lb_payments,P3023348,"4,378.57"
+DQ-07,lb_payments,P3023423,"17,461.38"
+DQ-07,lb_payments,P3023511,"3,843.71"
+DQ-07,lb_payments,P3023588,"14,990.94"
+DQ-07,lb_payments,P3023618,"26,526.11"
+DQ-07,lb_payments,P3023929,"1,094.40"
+DQ-07,lb_payments,P3023983,"15,217.74"
+DQ-07,lb_payments,P3024009,"2,364.30"
+DQ-07,lb_payments,P3024165,"1,800.94"
+DQ-07,lb_payments,P3024292,"1,323.00"
+DQ-07,lb_payments,P3024322,"4,664.21"
+DQ-07,lb_payments,P3024466,"1,313.76"
+DQ-07,lb_payments,P3024495,"1,976.25"
+DQ-07,lb_payments,P3024557,"6,075.23"
+DQ-07,lb_payments,P3024881,"1,351.28"
+DQ-07,lb_payments,P3025143,"3,697.50"
+DQ-07,lb_payments,P3025195,"4,507.43"
+DQ-07,lb_payments,P3025267,"1,155.00"
+DQ-07,lb_payments,P3025498,"5,719.77"
+DQ-07,lb_payments,P3025560,"2,492.10"
+DQ-07,lb_payments,P3025851,"17,731.46"
+DQ-07,lb_payments,P3025928,"4,020.96"
+DQ-07,lb_payments,P3026011,"11,245.42"
+DQ-07,lb_payments,P3026039,"1,209.60"
+DQ-07,lb_payments,P3026164,"10,626.62"
+DQ-07,lb_payments,P3026595,"3,897.65"
+DQ-07,lb_payments,P3026722,"1,524.69"
+DQ-07,lb_payments,P3026976,"13,708.80"
+DQ-07,lb_payments,P3027039,"1,524.69"
+DQ-07,lb_payments,P3027281,"1,710.63"
+DQ-07,lb_payments,P3027295,"3,697.50"
+DQ-07,lb_payments,P3027315,"1,214.40"
+DQ-07,lb_payments,P3027445,"1,028.87"
+DQ-07,lb_payments,P3027510,"3,999.25"
+DQ-07,lb_payments,P3027710,"1,032.19"
+DQ-07,lb_payments,P3027817,"1,440.00"
+DQ-07,lb_payments,P3027882,"22,497.58"
+DQ-07,lb_payments,P3027883,"22,369.16"
+DQ-07,lb_payments,P3027916,"1,981.53"
+DQ-07,lb_payments,P3027963,"2,903.04"
+DQ-07,lb_payments,P3028075,"1,028.87"
+DQ-07,lb_payments,P3028159,"1,789.20"
+DQ-07,lb_payments,P3028253,"6,460.91"
+DQ-07,lb_payments,P3028418,"7,322.40"
+DQ-07,lb_payments,P3028506,"3,818.88"
+DQ-07,lb_payments,P3028564,"1,088.64"
+DQ-07,lb_payments,P3028618,"1,494.99"
+DQ-07,lb_payments,P3028771,"2,923.29"
+DQ-07,lb_payments,P3028786,"1,351.28"
+DQ-07,lb_payments,P3029055,"1,445.55"
+DQ-07,lb_payments,P3029077,"1,402.50"
+DQ-07,lb_payments,P3029169,"20,436.65"
+DQ-07,lb_payments,P3029245,"1,370.88"
+DQ-07,lb_payments,P3029442,"1,441.60"
+DQ-07,lb_payments,P3029704,"9,290.33"
+DQ-07,lb_payments,P3029720,"1,500.00"
+DQ-07,lb_payments,P3029850,"133,161.00"
+DQ-07,lb_payments,P3029858,"1,677.38"
+DQ-07,lb_payments,P3029876,"3,213.00"
+DQ-07,lb_payments,P3030089,"12,605.89"
+DQ-07,lb_payments,P3030194,"1,785.00"
+DQ-07,lb_payments,P3030335,"5,041.91"
+DQ-07,lb_payments,P3030439,"1,610.75"
+DQ-07,lb_payments,P3030471,"13,894.55"
+DQ-07,lb_payments,P3030874,"1,820.00"
+DQ-07,lb_payments,P3031014,"1,295.00"
+DQ-07,lb_payments,P3031349,"1,890.00"
+DQ-07,lb_payments,P3031383,"1,240.89"
+DQ-07,lb_payments,P3031441,"1,094.40"
+DQ-07,lb_payments,P3031522,"13,992.62"
+DQ-07,lb_payments,P3031625,"1,041.25"
+DQ-07,lb_payments,P3031791,"19,841.78"
+DQ-07,lb_payments,P3031848,"1,032.19"
+DQ-07,lb_payments,P3031856,"2,470.11"
+DQ-07,lb_payments,P3031864,"6,951.22"
+DQ-07,lb_payments,P3031970,"1,335.39"
+DQ-07,lb_payments,P3032010,"17,377.65"
+DQ-07,lb_payments,P3032265,"1,820.00"
+DQ-08,lb_invoices,INV7000083,"net 912.00 + tax 182.40, gross 1094.39"
+DQ-08,lb_invoices,INV7000274,"net 1015.00 + tax 63.44, gross 1078.43"
+DQ-08,lb_invoices,INV7000423,"net 720.00 + tax 0.00, gross 719.99"
+DQ-08,lb_invoices,INV7000477,"net 115.20 + tax 23.04, gross 138.25"
+DQ-08,lb_invoices,INV7000770,"net 140.00 + tax 6.65, gross 146.64"
+DQ-08,lb_invoices,INV7000820,"net 222.00 + tax 14.43, gross 236.44"
+DQ-08,lb_invoices,INV7001429,"net 58.00 + tax 0.00, gross 57.99"
+DQ-08,lb_invoices,INV7001647,"net 510.00 + tax 0.00, gross 510.01"
+DQ-08,lb_invoices,INV7002225,"net 60.00 + tax 3.75, gross 63.74"
+DQ-08,lb_invoices,INV7002840,"net 153.90 + tax 18.47, gross 172.36"
+DQ-08,lb_invoices,INV7002897,"net 70.00 + tax 4.38, gross 74.39"
+DQ-08,lb_invoices,INV7002994,"net 360.00 + tax 22.50, gross 382.49"
+DQ-08,lb_invoices,INV7003124,"net 49.00 + tax 3.06, gross 52.07"
+DQ-08,lb_invoices,INV7003188,"net 121.44 + tax 0.00, gross 121.43"
+DQ-08,lb_invoices,INV7003512,"net 300.00 + tax 0.00, gross 300.01"
+DQ-08,lb_invoices,INV7003546,"net 12.00 + tax 2.40, gross 14.41"
+DQ-08,lb_invoices,INV7003933,"net 36.00 + tax 0.00, gross 35.99"
+DQ-08,lb_invoices,INV7004287,"net 102.12 + tax 0.00, gross 102.11"
+DQ-08,lb_invoices,INV7004510,"net 108.00 + tax 5.13, gross 113.12"
+DQ-08,lb_invoices,INV7004511,"net 12.00 + tax 2.40, gross 14.39"
+DQ-08,lb_invoices,INV7004779,"net 222.00 + tax 13.88, gross 235.87"
+DQ-08,lb_invoices,INV7004902,"net 132.48 + tax 0.00, gross 132.47"
+DQ-08,lb_invoices,INV7005076,"net 19762.50 + tax 1235.16, gross 20997.67"
+DQ-08,lb_invoices,INV7005090,"net 891.00 + tax 115.83, gross 1006.84"
+DQ-08,lb_invoices,INV7005278,"net 48.00 + tax 9.60, gross 57.61"
+DQ-08,lb_invoices,INV7005634,"net 37.80 + tax 5.66, gross 43.45"
+DQ-08,lb_invoices,INV7005768,"net 1181.25 + tax 141.75, gross 1323.01"
+DQ-08,lb_invoices,INV7005792,"net 96.60 + tax 0.00, gross 96.59"
+DQ-08,lb_invoices,INV7005820,"net 105.00 + tax 6.83, gross 111.82"
+DQ-08,lb_invoices,INV7006138,"net 20.25 + tax 2.63, gross 22.87"
+DQ-08,lb_invoices,INV7006165,"net 1416.80 + tax 0.00, gross 1416.79"
+DQ-08,lb_invoices,INV7006187,"net 175.00 + tax 0.00, gross 174.99"
+DQ-08,lb_invoices,INV7006256,"net 588.00 + tax 117.60, gross 705.59"
+DQ-08,lb_invoices,INV7006588,"net 52.00 + tax 3.12, gross 55.11"
+DQ-08,lb_invoices,INV7006651,"net 8461.69 + tax 1692.34, gross 10154.04"
+DQ-08,lb_invoices,INV7006682,"net 84.00 + tax 16.80, gross 100.79"
+DQ-08,lb_invoices,INV7006935,"net 136.00 + tax 6.46, gross 142.47"
+DQ-08,lb_invoices,INV7007291,"net 280.00 + tax 0.00, gross 280.01"
+DQ-08,lb_invoices,INV7007800,"net 245.00 + tax 0.00, gross 244.99"
+DQ-08,lb_invoices,INV7008218,"net 156.00 + tax 9.75, gross 165.76"
+DQ-08,lb_invoices,INV7008417,"net 222.00 + tax 14.43, gross 236.42"
+DQ-08,lb_invoices,INV7008478,"net 2100.00 + tax 131.25, gross 2231.24"
+DQ-08,lb_invoices,INV7008517,"net 35.00 + tax 2.19, gross 37.20"
+DQ-08,lb_invoices,INV7008780,"net 720.00 + tax 0.00, gross 719.99"
+DQ-08,lb_invoices,INV7009492,"net 900.00 + tax 56.25, gross 956.26"
+DQ-08,lb_invoices,INV7009817,"net 1820.00 + tax 0.00, gross 1820.01"
+DQ-08,lb_invoices,INV7010052,"net 225.00 + tax 14.06, gross 239.07"
+DQ-08,lb_invoices,INV7010200,"net 210.00 + tax 0.00, gross 209.99"
+DQ-08,lb_invoices,INV7010420,"net 48.00 + tax 9.60, gross 57.61"
+DQ-08,lb_invoices,INV7010533,"net 47.25 + tax 6.14, gross 53.38"
+DQ-08,lb_invoices,INV7010632,"net 360.00 + tax 21.60, gross 381.61"
+DQ-08,lb_invoices,INV7010754,"net 51.00 + tax 3.19, gross 54.18"
+DQ-08,lb_invoices,INV7011099,"net 18493.73 + tax 1202.09, gross 19695.83"
+DQ-08,lb_invoices,INV7012091,"net 38.64 + tax 0.00, gross 38.65"
+DQ-08,lb_invoices,INV7012267,"net 115.20 + tax 23.04, gross 138.25"
+DQ-08,lb_invoices,INV7012553,"net 350.00 + tax 21.88, gross 371.89"
+DQ-08,lb_invoices,INV7012733,"net 1200.00 + tax 57.00, gross 1257.01"
+DQ-08,lb_invoices,INV7012770,"net 7245.00 + tax 642.99, gross 7888.00"
+DQ-08,lb_invoices,INV7012859,"net 28101.00 + tax 0.00, gross 28100.99"
+DQ-08,lb_invoices,INV7013063,"net 660.00 + tax 39.60, gross 699.61"
+DQ-08,lb_invoices,INV7013330,"net 672.00 + tax 134.40, gross 806.41"
+DQ-08,lb_invoices,INV7013357,"net 255.00 + tax 12.11, gross 267.10"
+DQ-08,lb_invoices,INV7013459,"net 385.00 + tax 24.06, gross 409.07"
+DQ-08,lb_invoices,INV7013502,"net 116.00 + tax 7.54, gross 123.53"
+DQ-08,lb_invoices,INV7013624,"net 420.00 + tax 26.25, gross 446.26"
+DQ-08,lb_invoices,INV7013920,"net 68.00 + tax 3.23, gross 71.22"
+DQ-08,lb_invoices,INV7014119,"net 1290.00 + tax 61.28, gross 1351.27"
+DQ-08,lb_invoices,INV7014651,"net 178.20 + tax 23.17, gross 201.36"
+DQ-08,lb_invoices,INV7014954,"net 300.00 + tax 14.25, gross 314.26"
+DQ-08,lb_invoices,INV7014973,"net 375.00 + tax 0.00, gross 375.01"
+DQ-08,lb_invoices,INV7014996,"net 51.00 + tax 4.53, gross 55.52"
+DQ-08,lb_invoices,INV7015029,"net 70.00 + tax 4.55, gross 74.56"
+DQ-08,lb_invoices,INV7015490,"net 744.00 + tax 148.80, gross 892.79"
+DQ-08,lb_invoices,INV7016171,"net 60.75 + tax 7.90, gross 68.64"
+DQ-08,lb_invoices,INV7016287,"net 40.80 + tax 8.16, gross 48.95"
+DQ-08,lb_invoices,INV7016505,"net 455.00 + tax 29.58, gross 484.57"
+DQ-08,lb_invoices,INV7016687,"net 75.00 + tax 4.69, gross 79.70"
+DQ-08,lb_invoices,INV7016987,"net 168.00 + tax 14.91, gross 182.90"
+DQ-08,lb_invoices,INV7018175,"net 30.00 + tax 1.88, gross 31.89"
+DQ-08,lb_invoices,INV7018239,"net 1104.00 + tax 209.76, gross 1313.75"
+DQ-08,lb_invoices,INV7018375,"net 307.80 + tax 40.01, gross 347.82"
+DQ-08,lb_invoices,INV7018548,"net 129.60 + tax 16.85, gross 146.44"
+DQ-08,lb_invoices,INV7019508,"net 222.00 + tax 0.00, gross 221.99"
+DQ-08,lb_invoices,INV7020617,"net 140.00 + tax 8.75, gross 148.76"
+DQ-08,lb_invoices,INV7020810,"net 55.20 + tax 0.00, gross 55.21"
+DQ-08,lb_invoices,INV7022002,"net 547.40 + tax 114.95, gross 662.36"
+DQ-08,lb_invoices,INV7022326,"net 240.00 + tax 0.00, gross 239.99"
+DQ-08,lb_invoices,INV7022529,"net 186.00 + tax 0.00, gross 185.99"
+DQ-08,lb_invoices,INV7022699,"net 60.00 + tax 0.00, gross 59.99"
+DQ-08,lb_invoices,INV7023074,"net 47.25 + tax 6.14, gross 53.38"
+DQ-08,lb_invoices,INV7023312,"net 240.00 + tax 0.00, gross 240.01"
+DQ-08,lb_invoices,INV7023341,"net 194.40 + tax 23.33, gross 217.72"
+DQ-08,lb_invoices,INV7023789,"net 768.00 + tax 153.60, gross 921.61"
+DQ-08,lb_invoices,INV7024457,"net 78.00 + tax 4.88, gross 82.89"
+DQ-08,lb_invoices,INV7025284,"net 136.16 + tax 25.87, gross 162.02"
+DQ-08,lb_invoices,INV7025465,"net 18.00 + tax 0.00, gross 17.99"
+DQ-08,lb_invoices,INV7025594,"net 86.40 + tax 10.37, gross 96.78"
+DQ-08,lb_invoices,INV7025703,"net 45.00 + tax 2.81, gross 47.80"
+DQ-08,lb_invoices,INV7026699,"net 972.00 + tax 116.64, gross 1088.65"
+DQ-08,lb_invoices,INV7027089,"net 120.00 + tax 24.00, gross 144.01"
+DQ-08,lb_invoices,INV7027381,"net 16.00 + tax 1.04, gross 17.03"
+DQ-08,lb_invoices,INV7027492,"net 385.00 + tax 0.00, gross 384.99"
+DQ-08,lb_invoices,INV7028076,"net 406.00 + tax 25.38, gross 431.39"
+DQ-08,lb_invoices,INV7028398,"net 60.80 + tax 12.16, gross 72.97"
+DQ-08,lb_invoices,INV7028472,"net 84.00 + tax 16.80, gross 100.79"
+DQ-08,lb_invoices,INV7028576,"net 140.00 + tax 0.00, gross 140.01"
+DQ-08,lb_invoices,INV7028665,"net 128.00 + tax 0.00, gross 127.99"
+DQ-08,lb_invoices,INV7028764,"net 24.00 + tax 0.00, gross 24.01"
+DQ-08,lb_invoices,INV7028769,"net 78.00 + tax 4.88, gross 82.87"
+DQ-08,lb_invoices,INV7028955,"net 60.00 + tax 3.90, gross 63.89"
+DQ-08,lb_invoices,INV7028958,"net 124.00 + tax 7.75, gross 131.76"
+DQ-08,lb_invoices,INV7029448,"net 96.00 + tax 0.00, gross 96.01"
+DQ-08,lb_invoices,INV7029820,"net 385.00 + tax 0.00, gross 384.99"
+DQ-08,lb_invoices,INV7029884,"net 6.00 + tax 0.29, gross 6.28"
+DQ-08,lb_invoices,INV7030078,"net 30.00 + tax 1.80, gross 31.79"
+DQ-08,lb_invoices,INV7030643,"net 174.00 + tax 11.31, gross 185.32"
+DQ-08,lb_invoices,INV7031255,"net 178.20 + tax 21.38, gross 199.57"
+DQ-08,lb_invoices,INV7031269,"net 210.00 + tax 13.13, gross 223.14"
+DQ-08,lb_invoices,INV7031332,"net 105.00 + tax 6.56, gross 111.57"
+DQ-08,lb_invoices,INV7031359,"net 768.00 + tax 153.60, gross 921.59"
+DQ-08,lb_invoices,INV7031366,"net 15.00 + tax 1.33, gross 16.34"
+DQ-08,lb_invoices,INV7031585,"net 105.30 + tax 15.77, gross 121.06"
+DQ-08,lb_invoices,INV7031664,"net 234.60 + tax 44.57, gross 279.16"
+DQ-08,lb_invoices,INV7032161,"net 4384.25 + tax 389.10, gross 4773.36"
+DQ-09,lb_subscriptions,S500030,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500043,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500045,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500047,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500111,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500213,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500227,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500252,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500266,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500285,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500343,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500349,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500350,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500371,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500389,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500430,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500463,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500467,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500471,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500511,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500530,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500628,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500632,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500684,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500690,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500747,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500772,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500821,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500844,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500871,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500901,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500906,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S500979,LEG-PRO-2019
+DQ-09,lb_subscriptions,S500991,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501081,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501147,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501168,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501224,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501250,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501255,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501300,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501345,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501359,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501373,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501405,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501410,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501474,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501506,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501536,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501564,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501580,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501632,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501658,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501686,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501714,LEG-PRO-2019
+DQ-09,lb_subscriptions,S501788,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501809,LEG-TEAM-2020
+DQ-09,lb_subscriptions,S501818,LEG-PRO-2019
+DQ-11,lb_payments,P3021387,INV7117162 not found
+DQ-11,lb_payments,P3021407,(no invoice number)
+DQ-11,lb_payments,P3021779,INV7051619 not found
+DQ-11,lb_payments,P3022305,(no invoice number)
+DQ-11,lb_payments,P3022657,INV7057078 not found
+DQ-11,lb_payments,P3022778,INV7075089 not found
+DQ-11,lb_payments,P3022978,INV7093221 not found
+DQ-11,lb_payments,P3023186,(no invoice number)
+DQ-11,lb_payments,P3024382,INV7107016 not found
+DQ-11,lb_payments,P3025010,(no invoice number)
+DQ-11,lb_payments,P3025092,(no invoice number)
+DQ-11,lb_payments,P3025273,(no invoice number)
+DQ-11,lb_payments,P3025304,(no invoice number)
+DQ-11,lb_payments,P3025339,(no invoice number)
+DQ-11,lb_payments,P3025780,INV7087390 not found
+DQ-11,lb_payments,P3026134,(no invoice number)
+DQ-11,lb_payments,P3027510,INV7085555 not found
+DQ-11,lb_payments,P3028683,INV7041090 not found
+DQ-11,lb_payments,P3028888,INV7037034 not found
+DQ-11,lb_payments,P3029476,INV7045120 not found
+DQ-11,lb_payments,P3030077,INV7059652 not found
+DQ-11,lb_payments,P3030352,INV7041237 not found
+DQ-11,lb_payments,P3031561,INV7042317 not found
+DQ-12,lb_invoices,CRN8000001,credit for INV7000219
+DQ-12,lb_invoices,CRN8000002,credit for INV7000116
+DQ-12,lb_invoices,CRN8000003,credit for INV7000144
+DQ-12,lb_invoices,CRN8000004,credit for INV7000058
+DQ-12,lb_invoices,CRN8000005,credit for INV7000445
+DQ-12,lb_invoices,CRN8000006,credit for INV7000591
+DQ-12,lb_invoices,CRN8000007,credit for INV7000498
+DQ-12,lb_invoices,CRN8000008,credit for INV7000585
+DQ-12,lb_invoices,CRN8000009,credit for INV7000073
+DQ-12,lb_invoices,CRN8000010,credit for INV7000158
+DQ-12,lb_invoices,CRN8000011,credit for INV7000175
+DQ-12,lb_invoices,CRN8000012,credit for INV7000072
+DQ-12,lb_invoices,CRN8000013,credit for INV7000730
+DQ-12,lb_invoices,CRN8000014,credit for INV7000827
+DQ-12,lb_invoices,CRN8000015,credit for INV7000479
+DQ-12,lb_invoices,CRN8000016,credit for INV7000599
+DQ-12,lb_invoices,CRN8000017,credit for INV7000992
+DQ-12,lb_invoices,CRN8000018,credit for INV7000500
+DQ-12,lb_invoices,CRN8000019,credit for INV7001028
+DQ-12,lb_invoices,CRN8000020,credit for INV7000898
+DQ-12,lb_invoices,CRN8000021,credit for INV7000797
+DQ-12,lb_invoices,CRN8000022,credit for INV7000893
+DQ-12,lb_invoices,CRN8000023,credit for INV7001268
+DQ-12,lb_invoices,CRN8000024,credit for INV7000773
+DQ-12,lb_invoices,CRN8000025,credit for INV7000904
+DQ-12,lb_invoices,CRN8000026,credit for INV7001491
+DQ-12,lb_invoices,CRN8000027,credit for INV7001549
+DQ-12,lb_invoices,CRN8000028,credit for INV7001111
+DQ-12,lb_invoices,CRN8000029,credit for INV7001756
+DQ-12,lb_invoices,CRN8000030,credit for INV7001573
+DQ-12,lb_invoices,CRN8000031,credit for INV7001819
+DQ-12,lb_invoices,CRN8000032,credit for INV7002045
+DQ-12,lb_invoices,CRN8000033,credit for INV7001396
+DQ-12,lb_invoices,CRN8000034,credit for INV7001541
+DQ-12,lb_invoices,CRN8000035,credit for INV7001885
+DQ-12,lb_invoices,CRN8000036,credit for INV7002004
+DQ-12,lb_invoices,CRN8000037,credit for INV7001826
+DQ-12,lb_invoices,CRN8000038,credit for INV7002313
+DQ-12,lb_invoices,CRN8000039,credit for INV7001751
+DQ-12,lb_invoices,CRN8000040,credit for INV7002243
+DQ-12,lb_invoices,CRN8000041,credit for INV7002312
+DQ-12,lb_invoices,CRN8000042,credit for INV7002144
+DQ-12,lb_invoices,CRN8000043,credit for INV7002248
+DQ-12,lb_invoices,CRN8000044,credit for INV7001813
+DQ-12,lb_invoices,CRN8000045,credit for INV7001943
+DQ-12,lb_invoices,CRN8000046,credit for INV7002085
+DQ-12,lb_invoices,CRN8000047,credit for INV7001917
+DQ-12,lb_invoices,CRN8000048,credit for INV7001865
+DQ-12,lb_invoices,CRN8000049,credit for INV7002049
+DQ-12,lb_invoices,CRN8000050,credit for INV7002163
+DQ-12,lb_invoices,CRN8000051,credit for INV7002652
+DQ-12,lb_invoices,CRN8000052,credit for INV7002066
+DQ-12,lb_invoices,CRN8000053,credit for INV7002447
+DQ-12,lb_invoices,CRN8000054,credit for INV7002552
+DQ-12,lb_invoices,CRN8000055,credit for INV7002048
+DQ-12,lb_invoices,CRN8000056,credit for INV7002374
+DQ-12,lb_invoices,CRN8000057,credit for INV7002603
+DQ-12,lb_invoices,CRN8000058,credit for INV7002627
+DQ-12,lb_invoices,CRN8000059,credit for INV7002599
+DQ-12,lb_invoices,CRN8000060,credit for INV7002980
+DQ-12,lb_invoices,CRN8000061,credit for INV7003170
+DQ-12,lb_invoices,CRN8000062,credit for INV7002653
+DQ-12,lb_invoices,CRN8000063,credit for INV7003294
+DQ-12,lb_invoices,CRN8000064,credit for INV7003402
+DQ-12,lb_invoices,CRN8000065,credit for INV7003279
+DQ-12,lb_invoices,CRN8000066,credit for INV7003039
+DQ-12,lb_invoices,CRN8000067,credit for INV7003137
+DQ-12,lb_invoices,CRN8000068,credit for INV7003110
+DQ-12,lb_invoices,CRN8000069,credit for INV7003032
+DQ-12,lb_invoices,CRN8000070,credit for INV7003475
+DQ-12,lb_invoices,CRN8000071,credit for INV7003715
+DQ-12,lb_invoices,CRN8000072,credit for INV7003091
+DQ-12,lb_invoices,CRN8000073,credit for INV7003249
+DQ-12,lb_invoices,CRN8000074,credit for INV7003897
+DQ-12,lb_invoices,CRN8000075,credit for INV7003630
+DQ-12,lb_invoices,CRN8000076,credit for INV7004163
+DQ-12,lb_invoices,CRN8000077,credit for INV7003585
+DQ-12,lb_invoices,CRN8000078,credit for INV7003767
+DQ-12,lb_invoices,CRN8000079,credit for INV7003785
+DQ-12,lb_invoices,CRN8000080,credit for INV7004474
+DQ-12,lb_invoices,CRN8000081,credit for INV7003709
+DQ-12,lb_invoices,CRN8000082,credit for INV7004549
+DQ-12,lb_invoices,CRN8000083,credit for INV7004160
+DQ-12,lb_invoices,CRN8000084,credit for INV7004219
+DQ-12,lb_invoices,CRN8000085,credit for INV7003892
+DQ-12,lb_invoices,CRN8000086,credit for INV7004199
+DQ-12,lb_invoices,CRN8000087,credit for INV7003994
+DQ-12,lb_invoices,CRN8000088,credit for INV7004511
+DQ-12,lb_invoices,CRN8000089,credit for INV7004231
+DQ-12,lb_invoices,CRN8000090,credit for INV7004674
+DQ-12,lb_invoices,CRN8000091,credit for INV7004696
+DQ-12,lb_invoices,CRN8000092,credit for INV7004492
+DQ-12,lb_invoices,CRN8000093,credit for INV7004731
+DQ-12,lb_invoices,CRN8000094,credit for INV7005075
+DQ-12,lb_invoices,CRN8000095,credit for INV7004389
+DQ-12,lb_invoices,CRN8000096,credit for INV7005502
+DQ-12,lb_invoices,CRN8000097,credit for INV7004845
+DQ-12,lb_invoices,CRN8000098,credit for INV7005275
+DQ-12,lb_invoices,CRN8000099,credit for INV7005559
+DQ-12,lb_invoices,CRN8000100,credit for INV7005222
+DQ-12,lb_invoices,CRN8000101,credit for INV7004979
+DQ-12,lb_invoices,CRN8000102,credit for INV7005468
+DQ-12,lb_invoices,CRN8000103,credit for INV7005492
+DQ-12,lb_invoices,CRN8000104,credit for INV7005445
+DQ-12,lb_invoices,CRN8000105,credit for INV7005372
+DQ-12,lb_invoices,CRN8000106,credit for INV7005952
+DQ-12,lb_invoices,CRN8000107,credit for INV7005740
+DQ-12,lb_invoices,CRN8000108,credit for INV7005723
+DQ-12,lb_invoices,CRN8000109,credit for INV7005371
+DQ-12,lb_invoices,CRN8000110,credit for INV7005196
+DQ-12,lb_invoices,CRN8000111,credit for INV7005530
+DQ-12,lb_invoices,CRN8000112,credit for INV7005632
+DQ-12,lb_invoices,CRN8000113,credit for INV7005409
+DQ-12,lb_invoices,CRN8000114,credit for INV7005546
+DQ-12,lb_invoices,CRN8000115,credit for INV7005868
+DQ-12,lb_invoices,CRN8000116,credit for INV7005332
+DQ-12,lb_invoices,CRN8000117,credit for INV7006190
+DQ-12,lb_invoices,CRN8000118,credit for INV7005731
+DQ-12,lb_invoices,CRN8000119,credit for INV7006311
+DQ-12,lb_invoices,CRN8000120,credit for INV7005668
+DQ-12,lb_invoices,CRN8000121,credit for INV7005616
+DQ-12,lb_invoices,CRN8000122,credit for INV7005771
+DQ-12,lb_invoices,CRN8000123,credit for INV7005824
+DQ-12,lb_invoices,CRN8000124,credit for INV7005959
+DQ-12,lb_invoices,CRN8000125,credit for INV7005923
+DQ-12,lb_invoices,CRN8000126,credit for INV7006313
+DQ-12,lb_invoices,CRN8000127,credit for INV7006446
+DQ-12,lb_invoices,CRN8000128,credit for INV7006448
+DQ-12,lb_invoices,CRN8000129,credit for INV7006375
+DQ-12,lb_invoices,CRN8000130,credit for INV7006622
+DQ-12,lb_invoices,CRN8000131,credit for INV7006257
+DQ-12,lb_invoices,CRN8000132,credit for INV7006286
+DQ-12,lb_invoices,CRN8000133,credit for INV7006078
+DQ-12,lb_invoices,CRN8000134,credit for INV7006704
+DQ-12,lb_invoices,CRN8000135,credit for INV7006895
+DQ-12,lb_invoices,CRN8000136,credit for INV7006234
+DQ-12,lb_invoices,CRN8000137,credit for INV7007043
+DQ-12,lb_invoices,CRN8000138,credit for INV7006409
+DQ-12,lb_invoices,CRN8000139,credit for INV7007068
+DQ-12,lb_invoices,CRN8000140,credit for INV7006302
+DQ-12,lb_invoices,CRN8000141,credit for INV7007061
+DQ-12,lb_invoices,CRN8000142,credit for INV7006812
+DQ-12,lb_invoices,CRN8000143,credit for INV7006655
+DQ-12,lb_invoices,CRN8000144,credit for INV7006925
+DQ-12,lb_invoices,CRN8000145,credit for INV7006761
+DQ-12,lb_invoices,CRN8000146,credit for INV7006447
+DQ-12,lb_invoices,CRN8000147,credit for INV7006642
+DQ-12,lb_invoices,CRN8000148,credit for INV7006860
+DQ-12,lb_invoices,CRN8000149,credit for INV7006769
+DQ-12,lb_invoices,CRN8000150,credit for INV7007183
+DQ-12,lb_invoices,CRN8000151,credit for INV7006675
+DQ-12,lb_invoices,CRN8000152,credit for INV7007381
+DQ-12,lb_invoices,CRN8000153,credit for INV7007308
+DQ-12,lb_invoices,CRN8000154,credit for INV7007536
+DQ-12,lb_invoices,CRN8000155,credit for INV7007253
+DQ-12,lb_invoices,CRN8000156,credit for INV7007414
+DQ-12,lb_invoices,CRN8000157,credit for INV7007539
+DQ-12,lb_invoices,CRN8000158,credit for INV7007340
+DQ-12,lb_invoices,CRN8000159,credit for INV7007580
+DQ-12,lb_invoices,CRN8000160,credit for INV7007461
+DQ-12,lb_invoices,CRN8000161,credit for INV7007841
+DQ-12,lb_invoices,CRN8000162,credit for INV7007802
+DQ-12,lb_invoices,CRN8000163,credit for INV7007497
+DQ-12,lb_invoices,CRN8000164,credit for INV7008058
+DQ-12,lb_invoices,CRN8000165,credit for INV7008167
+DQ-12,lb_invoices,CRN8000166,credit for INV7008008
+DQ-12,lb_invoices,CRN8000167,credit for INV7007386
+DQ-12,lb_invoices,CRN8000168,credit for INV7008116
+DQ-12,lb_invoices,CRN8000169,credit for INV7007495
+DQ-12,lb_invoices,CRN8000170,credit for INV7007650
+DQ-12,lb_invoices,CRN8000171,credit for INV7007670
+DQ-12,lb_invoices,CRN8000172,credit for INV7007491
+DQ-12,lb_invoices,CRN8000173,credit for INV7007876
+DQ-12,lb_invoices,CRN8000174,credit for INV7008340
+DQ-12,lb_invoices,CRN8000175,credit for INV7007612
+DQ-12,lb_invoices,CRN8000176,credit for INV7008321
+DQ-12,lb_invoices,CRN8000177,credit for INV7008669
+DQ-12,lb_invoices,CRN8000178,credit for INV7007988
+DQ-12,lb_invoices,CRN8000179,credit for INV7008582
+DQ-12,lb_invoices,CRN8000180,credit for INV7008689
+DQ-12,lb_invoices,CRN8000181,credit for INV7008063
+DQ-12,lb_invoices,CRN8000182,credit for INV7008705
+DQ-12,lb_invoices,CRN8000183,credit for INV7008455
+DQ-12,lb_invoices,CRN8000184,credit for INV7008454
+DQ-12,lb_invoices,CRN8000185,credit for INV7008939
+DQ-12,lb_invoices,CRN8000186,credit for INV7008293
+DQ-12,lb_invoices,CRN8000187,credit for INV7008822
+DQ-12,lb_invoices,CRN8000188,credit for INV7008630
+DQ-12,lb_invoices,CRN8000189,credit for INV7008909
+DQ-12,lb_invoices,CRN8000190,credit for INV7009151
+DQ-12,lb_invoices,CRN8000191,credit for INV7009458
+DQ-12,lb_invoices,CRN8000192,credit for INV7008878
+DQ-12,lb_invoices,CRN8000193,credit for INV7009050
+DQ-12,lb_invoices,CRN8000194,credit for INV7009620
+DQ-12,lb_invoices,CRN8000195,credit for INV7009416
+DQ-12,lb_invoices,CRN8000196,credit for INV7009788
+DQ-12,lb_invoices,CRN8000197,credit for INV7010131
+DQ-12,lb_invoices,CRN8000198,credit for INV7009928
+DQ-12,lb_invoices,CRN8000199,credit for INV7010216
+DQ-12,lb_invoices,CRN8000200,credit for INV7009449
+DQ-12,lb_invoices,CRN8000201,credit for INV7009649
+DQ-12,lb_invoices,CRN8000202,credit for INV7010442
+DQ-12,lb_invoices,CRN8000203,credit for INV7010491
+DQ-12,lb_invoices,CRN8000204,credit for INV7010300
+DQ-12,lb_invoices,CRN8000205,credit for INV7010181
+DQ-12,lb_invoices,CRN8000206,credit for INV7009925
+DQ-12,lb_invoices,CRN8000207,credit for INV7010247
+DQ-12,lb_invoices,CRN8000208,credit for INV7010526
+DQ-12,lb_invoices,CRN8000209,credit for INV7010227
+DQ-12,lb_invoices,CRN8000210,credit for INV7010634
+DQ-12,lb_invoices,CRN8000211,credit for INV7010770
+DQ-12,lb_invoices,CRN8000212,credit for INV7010255
+DQ-12,lb_invoices,CRN8000213,credit for INV7010184
+DQ-12,lb_invoices,CRN8000214,credit for INV7010435
+DQ-12,lb_invoices,CRN8000215,credit for INV7010909
+DQ-12,lb_invoices,CRN8000216,credit for INV7010348
+DQ-12,lb_invoices,CRN8000217,credit for INV7010411
+DQ-12,lb_invoices,CRN8000218,credit for INV7010865
+DQ-12,lb_invoices,CRN8000219,credit for INV7011243
+DQ-12,lb_invoices,CRN8000220,credit for INV7011163
+DQ-12,lb_invoices,CRN8000221,credit for INV7010778
+DQ-12,lb_invoices,CRN8000222,credit for INV7010613
+DQ-12,lb_invoices,CRN8000223,credit for INV7010539
+DQ-12,lb_invoices,CRN8000224,credit for INV7011422
+DQ-12,lb_invoices,CRN8000225,credit for INV7010674
+DQ-12,lb_invoices,CRN8000226,credit for INV7010841
+DQ-12,lb_invoices,CRN8000227,credit for INV7011071
+DQ-12,lb_invoices,CRN8000228,credit for INV7011557
+DQ-12,lb_invoices,CRN8000229,credit for INV7010888
+DQ-12,lb_invoices,CRN8000230,credit for INV7011416
+DQ-12,lb_invoices,CRN8000231,credit for INV7011549
+DQ-12,lb_invoices,CRN8000232,credit for INV7011314
+DQ-12,lb_invoices,CRN8000233,credit for INV7011265
+DQ-12,lb_invoices,CRN8000234,credit for INV7011961
+DQ-12,lb_invoices,CRN8000235,credit for INV7011465
+DQ-12,lb_invoices,CRN8000236,credit for INV7011960
+DQ-12,lb_invoices,CRN8000237,credit for INV7011902
+DQ-12,lb_invoices,CRN8000238,credit for INV7011646
+DQ-12,lb_invoices,CRN8000239,credit for INV7011828
+DQ-12,lb_invoices,CRN8000240,credit for INV7012383
+DQ-12,lb_invoices,CRN8000241,credit for INV7012363
+DQ-12,lb_invoices,CRN8000242,credit for INV7011938
+DQ-12,lb_invoices,CRN8000243,credit for INV7011955
+DQ-12,lb_invoices,CRN8000244,credit for INV7012080
+DQ-12,lb_invoices,CRN8000245,credit for INV7012349
+DQ-12,lb_invoices,CRN8000246,credit for INV7013105
+DQ-12,lb_invoices,CRN8000247,credit for INV7012932
+DQ-12,lb_invoices,CRN8000248,credit for INV7012671
+DQ-12,lb_invoices,CRN8000249,credit for INV7012309
+DQ-12,lb_invoices,CRN8000250,credit for INV7012827
+DQ-12,lb_invoices,CRN8000251,credit for INV7012865
+DQ-12,lb_invoices,CRN8000252,credit for INV7012820
+DQ-12,lb_invoices,CRN8000253,credit for INV7013337
+DQ-12,lb_invoices,CRN8000254,credit for INV7013325
+DQ-12,lb_invoices,CRN8000255,credit for INV7012712
+DQ-12,lb_invoices,CRN8000256,credit for INV7013428
+DQ-12,lb_invoices,CRN8000257,credit for INV7013645
+DQ-12,lb_invoices,CRN8000258,credit for INV7013025
+DQ-12,lb_invoices,CRN8000259,credit for INV7012881
+DQ-12,lb_invoices,CRN8000260,credit for INV7013549
+DQ-12,lb_invoices,CRN8000261,credit for INV7013846
+DQ-12,lb_invoices,CRN8000262,credit for INV7013010
+DQ-12,lb_invoices,CRN8000263,credit for INV7013856
+DQ-12,lb_invoices,CRN8000264,credit for INV7013419
+DQ-12,lb_invoices,CRN8000265,credit for INV7012826
+DQ-12,lb_invoices,CRN8000266,credit for INV7013443
+DQ-12,lb_invoices,CRN8000267,credit for INV7013487
+DQ-12,lb_invoices,CRN8000268,credit for INV7013434
+DQ-12,lb_invoices,CRN8000269,credit for INV7013560
+DQ-12,lb_invoices,CRN8000270,credit for INV7013561
+DQ-12,lb_invoices,CRN8000271,credit for INV7013680
+DQ-12,lb_invoices,CRN8000272,credit for INV7014087
+DQ-12,lb_invoices,CRN8000273,credit for INV7013098
+DQ-12,lb_invoices,CRN8000274,credit for INV7013096
+DQ-12,lb_invoices,CRN8000275,credit for INV7013178
+DQ-12,lb_invoices,CRN8000276,credit for INV7013570
+DQ-12,lb_invoices,CRN8000277,credit for INV7013186
+DQ-12,lb_invoices,CRN8000278,credit for INV7013809
+DQ-12,lb_invoices,CRN8000279,credit for INV7013972
+DQ-12,lb_invoices,CRN8000280,credit for INV7014023
+DQ-12,lb_invoices,CRN8000281,credit for INV7014299
+DQ-12,lb_invoices,CRN8000282,credit for INV7013524
+DQ-12,lb_invoices,CRN8000283,credit for INV7013738
+DQ-12,lb_invoices,CRN8000284,credit for INV7013636
+DQ-12,lb_invoices,CRN8000285,credit for INV7014424
+DQ-12,lb_invoices,CRN8000286,credit for INV7014049
+DQ-12,lb_invoices,CRN8000287,credit for INV7014405
+DQ-12,lb_invoices,CRN8000288,credit for INV7014359
+DQ-12,lb_invoices,CRN8000289,credit for INV7014675
+DQ-12,lb_invoices,CRN8000290,credit for INV7014451
+DQ-12,lb_invoices,CRN8000291,credit for INV7014081
+DQ-12,lb_invoices,CRN8000292,credit for INV7014676
+DQ-12,lb_invoices,CRN8000293,credit for INV7014085
+DQ-12,lb_invoices,CRN8000294,credit for INV7014453
+DQ-12,lb_invoices,CRN8000295,credit for INV7014836
+DQ-12,lb_invoices,CRN8000296,credit for INV7014650
+DQ-12,lb_invoices,CRN8000297,credit for INV7014855
+DQ-12,lb_invoices,CRN8000298,credit for INV7014743
+DQ-12,lb_invoices,CRN8000299,credit for INV7015221
+DQ-12,lb_invoices,CRN8000300,credit for INV7014688
+DQ-12,lb_invoices,CRN8000301,credit for INV7015057
+DQ-12,lb_invoices,CRN8000302,credit for INV7015744
+DQ-12,lb_invoices,CRN8000303,credit for INV7015360
+DQ-12,lb_invoices,CRN8000304,credit for INV7015760
+DQ-12,lb_invoices,CRN8000305,credit for INV7015482
+DQ-12,lb_invoices,CRN8000306,credit for INV7015290
+DQ-12,lb_invoices,CRN8000307,credit for INV7015769
+DQ-12,lb_invoices,CRN8000308,credit for INV7015103
+DQ-12,lb_invoices,CRN8000309,credit for INV7015634
+DQ-12,lb_invoices,CRN8000310,credit for INV7015348
+DQ-12,lb_invoices,CRN8000311,credit for INV7015227
+DQ-12,lb_invoices,CRN8000312,credit for INV7015675
+DQ-12,lb_invoices,CRN8000313,credit for INV7015641
+DQ-12,lb_invoices,CRN8000314,credit for INV7016170
+DQ-12,lb_invoices,CRN8000315,credit for INV7015829
+DQ-12,lb_invoices,CRN8000316,credit for INV7015942
+DQ-12,lb_invoices,CRN8000317,credit for INV7016671
+DQ-12,lb_invoices,CRN8000318,credit for INV7016672
+DQ-12,lb_invoices,CRN8000319,credit for INV7016499
+DQ-12,lb_invoices,CRN8000320,credit for INV7016699
+DQ-12,lb_invoices,CRN8000321,credit for INV7016781
+DQ-12,lb_invoices,CRN8000322,credit for INV7016816
+DQ-12,lb_invoices,CRN8000323,credit for INV7016893
+DQ-12,lb_invoices,CRN8000324,credit for INV7016218
+DQ-12,lb_invoices,CRN8000325,credit for INV7016635
+DQ-12,lb_invoices,CRN8000326,credit for INV7016173
+DQ-12,lb_invoices,CRN8000327,credit for INV7016014
+DQ-12,lb_invoices,CRN8000328,credit for INV7017052
+DQ-12,lb_invoices,CRN8000329,credit for INV7016603
+DQ-12,lb_invoices,CRN8000330,credit for INV7016800
+DQ-12,lb_invoices,CRN8000331,credit for INV7016417
+DQ-12,lb_invoices,CRN8000332,credit for INV7017295
+DQ-12,lb_invoices,CRN8000333,credit for INV7017220
+DQ-12,lb_invoices,CRN8000334,credit for INV7017034
+DQ-12,lb_invoices,CRN8000335,credit for INV7016438
+DQ-12,lb_invoices,CRN8000336,credit for INV7016407
+DQ-12,lb_invoices,CRN8000337,credit for INV7016558
+DQ-12,lb_invoices,CRN8000338,credit for INV7017401
+DQ-12,lb_invoices,CRN8000339,credit for INV7016780
+DQ-12,lb_invoices,CRN8000340,credit for INV7017014
+DQ-12,lb_invoices,CRN8000341,credit for INV7017406
+DQ-12,lb_invoices,CRN8000342,credit for INV7017180
+DQ-12,lb_invoices,CRN8000343,credit for INV7017197
+DQ-12,lb_invoices,CRN8000344,credit for INV7017746
+DQ-12,lb_invoices,CRN8000345,credit for INV7017532
+DQ-12,lb_invoices,CRN8000346,credit for INV7017528
+DQ-12,lb_invoices,CRN8000347,credit for INV7017271
+DQ-12,lb_invoices,CRN8000348,credit for INV7017830
+DQ-12,lb_invoices,CRN8000349,credit for INV7017418
+DQ-12,lb_invoices,CRN8000350,credit for INV7018084
+DQ-12,lb_invoices,CRN8000351,credit for INV7018304
+DQ-12,lb_invoices,CRN8000352,credit for INV7018014
+DQ-12,lb_invoices,CRN8000353,credit for INV7018185
+DQ-12,lb_invoices,CRN8000354,credit for INV7018393
+DQ-12,lb_invoices,CRN8000355,credit for INV7018433
+DQ-12,lb_invoices,CRN8000356,credit for INV7018033
+DQ-12,lb_invoices,CRN8000357,credit for INV7017649
+DQ-12,lb_invoices,CRN8000358,credit for INV7018037
+DQ-12,lb_invoices,CRN8000359,credit for INV7018429
+DQ-12,lb_invoices,CRN8000360,credit for INV7018412
+DQ-12,lb_invoices,CRN8000361,credit for INV7018284
+DQ-12,lb_invoices,CRN8000362,credit for INV7017662
+DQ-12,lb_invoices,CRN8000363,credit for INV7018469
+DQ-12,lb_invoices,CRN8000364,credit for INV7017784
+DQ-12,lb_invoices,CRN8000365,credit for INV7018091
+DQ-12,lb_invoices,CRN8000366,credit for INV7018034
+DQ-12,lb_invoices,CRN8000367,credit for INV7018860
+DQ-12,lb_invoices,CRN8000368,credit for INV7018273
+DQ-12,lb_invoices,CRN8000369,credit for INV7018461
+DQ-12,lb_invoices,CRN8000370,credit for INV7018857
+DQ-12,lb_invoices,CRN8000371,credit for INV7018871
+DQ-12,lb_invoices,CRN8000372,credit for INV7017949
+DQ-12,lb_invoices,CRN8000373,credit for INV7018293
+DQ-12,lb_invoices,CRN8000374,credit for INV7018928
+DQ-12,lb_invoices,CRN8000375,credit for INV7018075
+DQ-12,lb_invoices,CRN8000376,credit for INV7018714
+DQ-12,lb_invoices,CRN8000377,credit for INV7018832
+DQ-12,lb_invoices,CRN8000378,credit for INV7018658
+DQ-12,lb_invoices,CRN8000379,credit for INV7018915
+DQ-12,lb_invoices,CRN8000380,credit for INV7019448
+DQ-12,lb_invoices,CRN8000381,credit for INV7019305
+DQ-12,lb_invoices,CRN8000382,credit for INV7018519
+DQ-12,lb_invoices,CRN8000383,credit for INV7018632
+DQ-12,lb_invoices,CRN8000384,credit for INV7018689
+DQ-12,lb_invoices,CRN8000385,credit for INV7019592
+DQ-12,lb_invoices,CRN8000386,credit for INV7019431
+DQ-12,lb_invoices,CRN8000387,credit for INV7019864
+DQ-12,lb_invoices,CRN8000388,credit for INV7019082
+DQ-12,lb_invoices,CRN8000389,credit for INV7019980
+DQ-12,lb_invoices,CRN8000390,credit for INV7020073
+DQ-12,lb_invoices,CRN8000391,credit for INV7019485
+DQ-12,lb_invoices,CRN8000392,credit for INV7019500
+DQ-12,lb_invoices,CRN8000393,credit for INV7019446
+DQ-12,lb_invoices,CRN8000394,credit for INV7020290
+DQ-12,lb_invoices,CRN8000395,credit for INV7019335
+DQ-12,lb_invoices,CRN8000396,credit for INV7019501
+DQ-12,lb_invoices,CRN8000397,credit for INV7020037
+DQ-12,lb_invoices,CRN8000398,credit for INV7019712
+DQ-12,lb_invoices,CRN8000399,credit for INV7019849
+DQ-12,lb_invoices,CRN8000400,credit for INV7020214
+DQ-12,lb_invoices,CRN8000401,credit for INV7020364
+DQ-12,lb_invoices,CRN8000402,credit for INV7020598
+DQ-12,lb_invoices,CRN8000403,credit for INV7020772
+DQ-12,lb_invoices,CRN8000404,credit for INV7020027
+DQ-12,lb_invoices,CRN8000405,credit for INV7019994
+DQ-12,lb_invoices,CRN8000406,credit for INV7020447
+DQ-12,lb_invoices,CRN8000407,credit for INV7020242
+DQ-12,lb_invoices,CRN8000408,credit for INV7020869
+DQ-12,lb_invoices,CRN8000409,credit for INV7020675
+DQ-12,lb_invoices,CRN8000410,credit for INV7020809
+DQ-12,lb_invoices,CRN8000411,credit for INV7020334
+DQ-12,lb_invoices,CRN8000412,credit for INV7020607
+DQ-12,lb_invoices,CRN8000413,credit for INV7021098
+DQ-12,lb_invoices,CRN8000414,credit for INV7020949
+DQ-12,lb_invoices,CRN8000415,credit for INV7021008
+DQ-12,lb_invoices,CRN8000416,credit for INV7021355
+DQ-12,lb_invoices,CRN8000417,credit for INV7020938
+DQ-12,lb_invoices,CRN8000418,credit for INV7020603
+DQ-12,lb_invoices,CRN8000419,credit for INV7020439
+DQ-12,lb_invoices,CRN8000420,credit for INV7021618
+DQ-12,lb_invoices,CRN8000421,credit for INV7021045
+DQ-12,lb_invoices,CRN8000422,credit for INV7021658
+DQ-12,lb_invoices,CRN8000423,credit for INV7021192
+DQ-12,lb_invoices,CRN8000424,credit for INV7021018
+DQ-12,lb_invoices,CRN8000425,credit for INV7021843
+DQ-12,lb_invoices,CRN8000426,credit for INV7021632
+DQ-12,lb_invoices,CRN8000427,credit for INV7021087
+DQ-12,lb_invoices,CRN8000428,credit for INV7021759
+DQ-12,lb_invoices,CRN8000429,credit for INV7021637
+DQ-12,lb_invoices,CRN8000430,credit for INV7021370
+DQ-12,lb_invoices,CRN8000431,credit for INV7022032
+DQ-12,lb_invoices,CRN8000432,credit for INV7021795
+DQ-12,lb_invoices,CRN8000433,credit for INV7021974
+DQ-12,lb_invoices,CRN8000434,credit for INV7021477
+DQ-12,lb_invoices,CRN8000435,credit for INV7021801
+DQ-12,lb_invoices,CRN8000436,credit for INV7021278
+DQ-12,lb_invoices,CRN8000437,credit for INV7021971
+DQ-12,lb_invoices,CRN8000438,credit for INV7022392
+DQ-12,lb_invoices,CRN8000439,credit for INV7021541
+DQ-12,lb_invoices,CRN8000440,credit for INV7021846
+DQ-12,lb_invoices,CRN8000441,credit for INV7022547
+DQ-12,lb_invoices,CRN8000442,credit for INV7021518
+DQ-12,lb_invoices,CRN8000443,credit for INV7021819
+DQ-12,lb_invoices,CRN8000444,credit for INV7022132
+DQ-12,lb_invoices,CRN8000445,credit for INV7022323
+DQ-12,lb_invoices,CRN8000446,credit for INV7022153
+DQ-12,lb_invoices,CRN8000447,credit for INV7022644
+DQ-12,lb_invoices,CRN8000448,credit for INV7022016
+DQ-12,lb_invoices,CRN8000449,credit for INV7021807
+DQ-12,lb_invoices,CRN8000450,credit for INV7022225
+DQ-12,lb_invoices,CRN8000451,credit for INV7022155
+DQ-12,lb_invoices,CRN8000452,credit for INV7022440
+DQ-12,lb_invoices,CRN8000453,credit for INV7022826
+DQ-12,lb_invoices,CRN8000454,credit for INV7023039
+DQ-12,lb_invoices,CRN8000455,credit for INV7022997
+DQ-12,lb_invoices,CRN8000456,credit for INV7023151
+DQ-12,lb_invoices,CRN8000457,credit for INV7023590
+DQ-12,lb_invoices,CRN8000458,credit for INV7023303
+DQ-12,lb_invoices,CRN8000459,credit for INV7022670
+DQ-12,lb_invoices,CRN8000460,credit for INV7022630
+DQ-12,lb_invoices,CRN8000461,credit for INV7023345
+DQ-12,lb_invoices,CRN8000462,credit for INV7023648
+DQ-12,lb_invoices,CRN8000463,credit for INV7022704
+DQ-12,lb_invoices,CRN8000464,credit for INV7023294
+DQ-12,lb_invoices,CRN8000465,credit for INV7023220
+DQ-12,lb_invoices,CRN8000466,credit for INV7022820
+DQ-12,lb_invoices,CRN8000467,credit for INV7023652
+DQ-12,lb_invoices,CRN8000468,credit for INV7023563
+DQ-12,lb_invoices,CRN8000469,credit for INV7023942
+DQ-12,lb_invoices,CRN8000470,credit for INV7023007
+DQ-12,lb_invoices,CRN8000471,credit for INV7023082
+DQ-12,lb_invoices,CRN8000472,credit for INV7024019
+DQ-12,lb_invoices,CRN8000473,credit for INV7023208
+DQ-12,lb_invoices,CRN8000474,credit for INV7023218
+DQ-12,lb_invoices,CRN8000475,credit for INV7023875
+DQ-12,lb_invoices,CRN8000476,credit for INV7023911
+DQ-12,lb_invoices,CRN8000477,credit for INV7023713
+DQ-12,lb_invoices,CRN8000478,credit for INV7023248
+DQ-12,lb_invoices,CRN8000479,credit for INV7023600
+DQ-12,lb_invoices,CRN8000480,credit for INV7023426
+DQ-12,lb_invoices,CRN8000481,credit for INV7023946
+DQ-12,lb_invoices,CRN8000482,credit for INV7023640
+DQ-12,lb_invoices,CRN8000483,credit for INV7024742
+DQ-12,lb_invoices,CRN8000484,credit for INV7024674
+DQ-12,lb_invoices,CRN8000485,credit for INV7024595
+DQ-12,lb_invoices,CRN8000486,credit for INV7025037
+DQ-12,lb_invoices,CRN8000487,credit for INV7024287
+DQ-12,lb_invoices,CRN8000488,credit for INV7024522
+DQ-12,lb_invoices,CRN8000489,credit for INV7025017
+DQ-12,lb_invoices,CRN8000490,credit for INV7024385
+DQ-12,lb_invoices,CRN8000491,credit for INV7023994
+DQ-12,lb_invoices,CRN8000492,credit for INV7024786
+DQ-12,lb_invoices,CRN8000493,credit for INV7024634
+DQ-12,lb_invoices,CRN8000494,credit for INV7024745
+DQ-12,lb_invoices,CRN8000495,credit for INV7024966
+DQ-12,lb_invoices,CRN8000496,credit for INV7025328
+DQ-12,lb_invoices,CRN8000497,credit for INV7024599
+DQ-12,lb_invoices,CRN8000498,credit for INV7024553
+DQ-12,lb_invoices,CRN8000499,credit for INV7024895
+DQ-12,lb_invoices,CRN8000500,credit for INV7024417
+DQ-12,lb_invoices,CRN8000501,credit for INV7025203
+DQ-12,lb_invoices,CRN8000502,credit for INV7024701
+DQ-12,lb_invoices,CRN8000503,credit for INV7024679
+DQ-12,lb_invoices,CRN8000504,credit for INV7025448
+DQ-12,lb_invoices,CRN8000505,credit for INV7024422
+DQ-12,lb_invoices,CRN8000506,credit for INV7025554
+DQ-12,lb_invoices,CRN8000507,credit for INV7025673
+DQ-12,lb_invoices,CRN8000508,credit for INV7025108
+DQ-12,lb_invoices,CRN8000509,credit for INV7025921
+DQ-12,lb_invoices,CRN8000510,credit for INV7025683
+DQ-12,lb_invoices,CRN8000511,credit for INV7024711
+DQ-12,lb_invoices,CRN8000512,credit for INV7025919
+DQ-12,lb_invoices,CRN8000513,credit for INV7024925
+DQ-12,lb_invoices,CRN8000514,credit for INV7025677
+DQ-12,lb_invoices,CRN8000515,credit for INV7025275
+DQ-12,lb_invoices,CRN8000516,credit for INV7025121
+DQ-12,lb_invoices,CRN8000517,credit for INV7025279
+DQ-12,lb_invoices,CRN8000518,credit for INV7025294
+DQ-12,lb_invoices,CRN8000519,credit for INV7025891
+DQ-12,lb_invoices,CRN8000520,credit for INV7025623
+DQ-12,lb_invoices,CRN8000521,credit for INV7025484
+DQ-12,lb_invoices,CRN8000522,credit for INV7026108
+DQ-12,lb_invoices,CRN8000523,credit for INV7025960
+DQ-12,lb_invoices,CRN8000524,credit for INV7026320
+DQ-12,lb_invoices,CRN8000525,credit for INV7025901
+DQ-12,lb_invoices,CRN8000526,credit for INV7025685
+DQ-12,lb_invoices,CRN8000527,credit for INV7025990
+DQ-12,lb_invoices,CRN8000528,credit for INV7026005
+DQ-12,lb_invoices,CRN8000529,credit for INV7026415
+DQ-12,lb_invoices,CRN8000530,credit for INV7026648
+DQ-12,lb_invoices,CRN8000531,credit for INV7026393
+DQ-12,lb_invoices,CRN8000532,credit for INV7026911
+DQ-12,lb_invoices,CRN8000533,credit for INV7026855
+DQ-12,lb_invoices,CRN8000534,credit for INV7026419
+DQ-12,lb_invoices,CRN8000535,credit for INV7026885
+DQ-12,lb_invoices,CRN8000536,credit for INV7026263
+DQ-12,lb_invoices,CRN8000537,credit for INV7026679
+DQ-12,lb_invoices,CRN8000538,credit for INV7026533
+DQ-12,lb_invoices,CRN8000539,credit for INV7026490
+DQ-12,lb_invoices,CRN8000540,credit for INV7026697
+DQ-12,lb_invoices,CRN8000541,credit for INV7026638
+DQ-12,lb_invoices,CRN8000542,credit for INV7026665
+DQ-12,lb_invoices,CRN8000543,credit for INV7027409
+DQ-12,lb_invoices,CRN8000544,credit for INV7026615
+DQ-12,lb_invoices,CRN8000545,credit for INV7026687
+DQ-12,lb_invoices,CRN8000546,credit for INV7026791
+DQ-12,lb_invoices,CRN8000547,credit for INV7027578
+DQ-12,lb_invoices,CRN8000548,credit for INV7027272
+DQ-12,lb_invoices,CRN8000549,credit for INV7026963
+DQ-12,lb_invoices,CRN8000550,credit for INV7026869
+DQ-12,lb_invoices,CRN8000551,credit for INV7026942
+DQ-12,lb_invoices,CRN8000552,credit for INV7027435
+DQ-12,lb_invoices,CRN8000553,credit for INV7026970
+DQ-12,lb_invoices,CRN8000554,credit for INV7027918
+DQ-12,lb_invoices,CRN8000555,credit for INV7027727
+DQ-12,lb_invoices,CRN8000556,credit for INV7027142
+DQ-12,lb_invoices,CRN8000557,credit for INV7026868
+DQ-12,lb_invoices,CRN8000558,credit for INV7027024
+DQ-12,lb_invoices,CRN8000559,credit for INV7027125
+DQ-12,lb_invoices,CRN8000560,credit for INV7027246
+DQ-12,lb_invoices,CRN8000561,credit for INV7026993
+DQ-12,lb_invoices,CRN8000562,credit for INV7026972
+DQ-12,lb_invoices,CRN8000563,credit for INV7027340
+DQ-12,lb_invoices,CRN8000564,credit for INV7027244
+DQ-12,lb_invoices,CRN8000565,credit for INV7027371
+DQ-12,lb_invoices,CRN8000566,credit for INV7028334
+DQ-12,lb_invoices,CRN8000567,credit for INV7027947
+DQ-12,lb_invoices,CRN8000568,credit for INV7027924
+DQ-12,lb_invoices,CRN8000569,credit for INV7027912
+DQ-12,lb_invoices,CRN8000570,credit for INV7028420
+DQ-12,lb_invoices,CRN8000571,credit for INV7027552
+DQ-12,lb_invoices,CRN8000572,credit for INV7028043
+DQ-12,lb_invoices,CRN8000573,credit for INV7028185
+DQ-12,lb_invoices,CRN8000574,credit for INV7028004
+DQ-12,lb_invoices,CRN8000575,credit for INV7028284
+DQ-12,lb_invoices,CRN8000576,credit for INV7027878
+DQ-12,lb_invoices,CRN8000577,credit for INV7028137
+DQ-12,lb_invoices,CRN8000578,credit for INV7027998
+DQ-12,lb_invoices,CRN8000579,credit for INV7029170
+DQ-12,lb_invoices,CRN8000580,credit for INV7028498
+DQ-12,lb_invoices,CRN8000581,credit for INV7028313
+DQ-12,lb_invoices,CRN8000582,credit for INV7028187
+DQ-12,lb_invoices,CRN8000583,credit for INV7028438
+DQ-12,lb_invoices,CRN8000584,credit for INV7028995
+DQ-12,lb_invoices,CRN8000585,credit for INV7029601
+DQ-12,lb_invoices,CRN8000586,credit for INV7029362
+DQ-12,lb_invoices,CRN8000587,credit for INV7029369
+DQ-12,lb_invoices,CRN8000588,credit for INV7028934
+DQ-12,lb_invoices,CRN8000589,credit for INV7029218
+DQ-12,lb_invoices,CRN8000590,credit for INV7028769
+DQ-12,lb_invoices,CRN8000591,credit for INV7029789
+DQ-12,lb_invoices,CRN8000592,credit for INV7029623
+DQ-12,lb_invoices,CRN8000593,credit for INV7029066
+DQ-12,lb_invoices,CRN8000594,credit for INV7028890
+DQ-12,lb_invoices,CRN8000595,credit for INV7028813
+DQ-12,lb_invoices,CRN8000596,credit for INV7028913
+DQ-12,lb_invoices,CRN8000597,credit for INV7029195
+DQ-12,lb_invoices,CRN8000598,credit for INV7030090
+DQ-12,lb_invoices,CRN8000599,credit for INV7030185
+DQ-12,lb_invoices,CRN8000600,credit for INV7029714
+DQ-12,lb_invoices,CRN8000601,credit for INV7029273
+DQ-12,lb_invoices,CRN8000602,credit for INV7029832
+DQ-12,lb_invoices,CRN8000603,credit for INV7030342
+DQ-12,lb_invoices,CRN8000604,credit for INV7029767
+DQ-12,lb_invoices,CRN8000605,credit for INV7030135
+DQ-12,lb_invoices,CRN8000606,credit for INV7029612
+DQ-12,lb_invoices,CRN8000607,credit for INV7030658
+DQ-12,lb_invoices,CRN8000608,credit for INV7030496
+DQ-12,lb_invoices,CRN8000609,credit for INV7029861
+DQ-12,lb_invoices,CRN8000610,credit for INV7030494
+DQ-12,lb_invoices,CRN8000611,credit for INV7030100
+DQ-12,lb_invoices,CRN8000612,credit for INV7030650
+DQ-12,lb_invoices,CRN8000613,credit for INV7030073
+DQ-12,lb_invoices,CRN8000614,credit for INV7030986
+DQ-12,lb_invoices,CRN8000615,credit for INV7030699
+DQ-12,lb_invoices,CRN8000616,credit for INV7030315
+DQ-12,lb_invoices,CRN8000617,credit for INV7030346
+DQ-12,lb_invoices,CRN8000618,credit for INV7030213
+DQ-12,lb_invoices,CRN8000619,credit for INV7030701
+DQ-12,lb_invoices,CRN8000620,credit for INV7031182
+DQ-12,lb_invoices,CRN8000621,credit for INV7031527
+DQ-12,lb_invoices,CRN8000622,credit for INV7030726
+DQ-12,lb_invoices,CRN8000623,credit for INV7030912
+DQ-12,lb_invoices,CRN8000624,credit for INV7030679
+DQ-12,lb_invoices,CRN8000625,credit for INV7031469
+DQ-12,lb_invoices,CRN8000626,credit for INV7030782
+DQ-12,lb_invoices,CRN8000627,credit for INV7030772
+DQ-12,lb_invoices,CRN8000628,credit for INV7031833
+DQ-12,lb_invoices,CRN8000629,credit for INV7031392
+DQ-12,lb_invoices,CRN8000630,credit for INV7031878
+DQ-12,lb_invoices,CRN8000631,credit for INV7031191
+DQ-12,lb_invoices,CRN8000632,credit for INV7031276
+DQ-12,lb_invoices,CRN8000633,credit for INV7032151
+DQ-12,lb_invoices,CRN8000634,credit for INV7032052
+DQ-12,lb_invoices,CRN8000635,credit for INV7031453
+DQ-13,lb_subscriptions,S501889,"CANC, 2024-10-24 to 2025-01-10"
+DQ-13,lb_subscriptions,S501890,"CANC, 2024-09-07 to 2024-10-21"
+DQ-13,lb_subscriptions,S501891,"CANC, 2024-11-02 to 2025-01-20"
+DQ-13,lb_subscriptions,S501892,"CANC, 2024-11-05 to 2025-01-14"
+DQ-13,lb_subscriptions,S501893,"CANC, 2024-10-19 to 2024-12-06"
+DQ-13,lb_subscriptions,S501894,"CANC, 2024-10-22 to 2024-12-16"
+DQ-19,lb_invoices,INV7000018,2023-10-01 OPEN
+DQ-19,lb_invoices,INV7000046,2023-10-02 OPEN
+DQ-19,lb_invoices,INV7000227,2023-10-10 OPEN
+DQ-19,lb_invoices,INV7000718,2023-11-02 OPEN
+DQ-19,lb_invoices,INV7001143,2023-11-20 OPEN
+DQ-19,lb_invoices,INV7001210,2023-11-23 OPEN
+DQ-19,lb_invoices,INV7001291,2023-11-26 OPEN
+DQ-19,lb_invoices,INV7001355,2023-11-28 OPEN
+DQ-19,lb_invoices,INV7001405,2023-12-01 OPEN
+DQ-19,lb_invoices,INV7001543,2023-12-07 OPEN
+DQ-19,lb_invoices,INV7001723,2023-12-14 OPEN
+DQ-19,lb_invoices,INV7001806,2023-12-17 OPEN
+DQ-19,lb_invoices,INV7001845,2023-12-19 OPEN
+DQ-19,lb_invoices,INV7001961,2023-12-25 OPEN
+DQ-19,lb_invoices,INV7002496,2024-01-16 OPEN
+DQ-19,lb_invoices,INV7002945,2024-02-05 OPEN
+DQ-19,lb_invoices,INV7003117,2024-02-12 OPEN
+DQ-19,lb_invoices,INV7003153,2024-02-13 OPEN
+DQ-19,lb_invoices,INV7003229,2024-02-16 OPEN
+DQ-19,lb_invoices,INV7003312,2024-02-20 OPEN
+DQ-19,lb_invoices,INV7003615,2024-03-02 OPEN
+DQ-19,lb_invoices,INV7003747,2024-03-08 OPEN
+DQ-19,lb_invoices,INV7003885,2024-03-13 OPEN
+DQ-19,lb_invoices,INV7003929,2024-03-14 OPEN
+DQ-19,lb_invoices,INV7004194,2024-03-26 OPEN
+DQ-19,lb_invoices,INV7004539,2024-04-09 OPEN
+DQ-19,lb_invoices,INV7004570,2024-04-10 OPEN
+DQ-19,lb_invoices,INV7004647,2024-04-13 OPEN
+DQ-19,lb_invoices,INV7004791,2024-04-19 OPEN
+DQ-19,lb_invoices,INV7005185,2024-05-05 OPEN
+DQ-19,lb_invoices,INV7005329,2024-05-10 OPEN
+DQ-19,lb_invoices,INV7005683,2024-05-24 OPEN
+DQ-19,lb_invoices,INV7005779,2024-05-28 OPEN
+DQ-19,lb_invoices,INV7005965,2024-06-05 OPEN
+DQ-19,lb_invoices,INV7005993,2024-06-06 OPEN
+DQ-19,lb_invoices,INV7006321,2024-06-18 OPEN
+DQ-19,lb_invoices,INV7006406,2024-06-21 OPEN
+DQ-19,lb_invoices,INV7006640,2024-06-28 OPEN
+DQ-19,lb_invoices,INV7006868,2024-07-09 OPEN
+DQ-19,lb_invoices,INV7007098,2024-07-17 OPEN
+DQ-19,lb_invoices,INV7007148,2024-07-19 OPEN
+DQ-19,lb_invoices,INV7007195,2024-07-21 OPEN
+DQ-19,lb_invoices,INV7007307,2024-07-25 OPEN
+DQ-19,lb_invoices,INV7007360,2024-07-27 OPEN
+DQ-19,lb_invoices,INV7007594,2024-08-06 OPEN
+DQ-19,lb_invoices,INV7007624,2024-08-06 OPEN
+DQ-19,lb_invoices,INV7007626,2024-08-06 OPEN
+DQ-19,lb_invoices,INV7007918,2024-08-17 OPEN
+DQ-19,lb_invoices,INV7008275,2024-09-01 OPEN
+DQ-19,lb_invoices,INV7008287,2024-09-01 OPEN
+DQ-19,lb_invoices,INV7008325,2024-09-02 OPEN
+DQ-19,lb_invoices,INV7008451,2024-09-07 OPEN
+DQ-19,lb_invoices,INV7008544,2024-09-10 OPEN
+DQ-19,lb_invoices,INV7008919,2024-09-24 OPEN

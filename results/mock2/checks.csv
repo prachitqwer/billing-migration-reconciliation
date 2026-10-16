@@ -1,0 +1,38 @@
+check_id,level,entity,title,compared,failures,result
+RC-L1-01,L1,customers,"Every in-scope customer loaded exactly once, nothing extra",1153,0,PASS
+RC-L1-02,L1,subscriptions,"Every in-scope subscription loaded exactly once, nothing extra",1722,0,PASS
+RC-L1-03,L1,subscriptions,Platform rejected exactly the expected records,6,0,PASS
+RC-L1-04,L1,invoices,"Every in-scope invoice loaded exactly once, nothing extra",23578,0,PASS
+RC-L1-05,L1,credit notes,"Every in-scope credit note loaded exactly once, as a credit note",444,0,PASS
+RC-L1-06,L1,payments,"Every in-scope payment loaded exactly once, nothing extra",23172,0,PASS
+RC-L2-01,L2,customers,Customers by status and billing hold,3,0,PASS
+RC-L2-02,L2,customers,Customers by country and currency,7,0,PASS
+RC-L2-03,L2,subscriptions,Subscriptions and seats by status,10,0,PASS
+RC-L2-04,L2,subscriptions,Subscriptions and seats by plan,24,0,PASS
+RC-L2-05,L2,invoices,Invoice count and total by currency and month,240,0,PASS
+RC-L2-06,L2,invoices,"Invoice count, total and amount due by status",12,0,PASS
+RC-L2-07,L2,invoices,Invoice tax by currency,4,0,PASS
+RC-L2-08,L2,credit notes,Credit note count and total by currency,8,0,PASS
+RC-L2-09,L2,payments,Payment count and amount by currency and month,200,139,FAIL
+RC-L2-10,L2,payments,Unapplied payments by currency,8,0,PASS
+RC-L3-01,L3,customers,Customers: field-level match (8 fields),9224,0,PASS
+RC-L3-02,L3,subscriptions,Subscriptions: field-level match (7 fields),12054,0,PASS
+RC-L3-03,L3,invoices,Invoices: field-level match (11 fields),259358,0,PASS
+RC-L3-04,L3,credit notes,Credit notes: field-level match (7 fields),3108,0,PASS
+RC-L3-05,L3,payments,Payments: field-level match (7 fields),162204,1463,FAIL
+RC-RI-01,RI,subscriptions,Subscription points at a loaded customer,1722,0,PASS
+RC-RI-02,RI,invoices,Invoice points at a loaded customer,23578,0,PASS
+RC-RI-03,RI,invoices,Invoice subscription link resolves,22760,0,PASS
+RC-RI-04,RI,credit notes,Credit note points at a loaded invoice,444,0,PASS
+RC-RI-05,RI,payments,Payment points at a loaded customer,23172,0,PASS
+RC-RI-06,RI,payments,Applied payments link to an invoice; unapplied do not,23172,0,PASS
+RC-RI-07,RI,subscriptions,Plan is one of the mapped platform plans,1722,0,PASS
+RC-RI-08,RI,invoices,Invoice currency matches the customer,23578,0,PASS
+RC-RI-09,RI,payments,Payment currency matches its invoice,23149,0,PASS
+RC-RI-10,RI,invoices,"Invoice amounts add up (total, paid, due)",23578,0,PASS
+RC-RI-11,RI,all,"No invoice, credit note or payment dated after the extract date",47194,34,FAIL
+RC-L4-01,L4,receivables,Open receivables by currency,4,0,PASS
+RC-L4-02,L4,receivables,Receivables aging by currency and bucket,20,0,PASS
+RC-L4-03,L4,receivables,Balance of every customer with money owed or cash on account,459,0,PASS
+RC-L4-04,L4,billing,Net billing for 2026-09 by currency,4,0,PASS
+RC-L4-05,L4,cash,Cash received in 2026-09 by currency,4,4,FAIL

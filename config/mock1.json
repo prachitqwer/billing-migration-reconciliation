@@ -1,0 +1,59 @@
+{
+  "run_id": "mock1",
+  "label": "Mock cutover 1",
+  "run_date": "2026-10-05",
+  "migration_build": "1.0",
+  "l3_fields": {
+    "customers": [
+      "name",
+      "email",
+      "country",
+      "currency",
+      "status",
+      "invoice_hold",
+      "merged_legacy_ids"
+    ],
+    "subscriptions": [
+      "customer",
+      "plan_id",
+      "quantity",
+      "start_date",
+      "end_date",
+      "status",
+      "cancel_reason"
+    ],
+    "invoices": [
+      "customer",
+      "subscription",
+      "invoice_date",
+      "due_date",
+      "currency",
+      "subtotal",
+      "tax",
+      "total",
+      "amount_paid",
+      "amount_due",
+      "status"
+    ],
+    "credit_notes": [
+      "customer",
+      "invoice",
+      "credit_date",
+      "currency",
+      "subtotal",
+      "tax",
+      "total"
+    ],
+    "payments": [
+      "customer",
+      "invoice",
+      "currency",
+      "amount",
+      "unapplied"
+    ]
+  },
+  "checks_not_in_this_run": [
+    "RC-RI-11"
+  ],
+  "checks_note": "RC-RI-11 was added after mock 1 (DEC-BPM-011)."
+}

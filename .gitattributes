@@ -1,0 +1,11 @@
+# Keep generated files byte-identical across Windows and Linux so the
+# reproducibility tests compare like with like.
+*.csv   -text
+*.json  text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.sql   text eol=lf
+*.yml   text eol=lf
+*.txt   text eol=lf
+*.xlsx  binary
+*.png   binary

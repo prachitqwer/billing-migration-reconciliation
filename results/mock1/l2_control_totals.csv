@@ -1,0 +1,515 @@
+check_id,dimension,measure,unit,expected,actual,diff
+RC-L2-01,active / hold=false,customers,count,958,958,0
+RC-L2-01,active / hold=true,customers,count,22,22,0
+RC-L2-01,inactive / hold=false,customers,count,173,173,0
+RC-L2-02,CA / CAD,customers,count,140,140,0
+RC-L2-02,DE / EUR,customers,count,30,30,0
+RC-L2-02,FR / EUR,customers,count,19,19,0
+RC-L2-02,GB / GBP,customers,count,122,122,0
+RC-L2-02,IE / EUR,customers,count,21,21,0
+RC-L2-02,NL / EUR,customers,count,18,18,0
+RC-L2-02,US / USD,customers,count,803,803,0
+RC-L2-03,active,seats,count,21217,23161,1944
+RC-L2-03,active,subscriptions,count,1224,1309,85
+RC-L2-03,canceled,seats,count,5948,5935,-13
+RC-L2-03,canceled,subscriptions,count,356,354,-2
+RC-L2-03,past_due,seats,count,1537,0,-1537
+RC-L2-03,past_due,subscriptions,count,69,0,-69
+RC-L2-03,paused,seats,count,686,0,-686
+RC-L2-03,paused,subscriptions,count,38,0,-38
+RC-L2-03,trialing,seats,count,595,595,0
+RC-L2-03,trialing,subscriptions,count,35,35,0
+RC-L2-04,addon-api-monthly,seats,count,3907,3907,0
+RC-L2-04,addon-api-monthly,subscriptions,count,187,187,0
+RC-L2-04,addon-sso-monthly,seats,count,3837,3837,0
+RC-L2-04,addon-sso-monthly,subscriptions,count,191,191,0
+RC-L2-04,addon-storage-monthly,seats,count,3768,3768,0
+RC-L2-04,addon-storage-monthly,subscriptions,count,186,186,0
+RC-L2-04,business-annual,seats,count,1371,1346,-25
+RC-L2-04,business-annual,subscriptions,count,91,89,-2
+RC-L2-04,business-monthly,seats,count,2648,2633,-15
+RC-L2-04,business-monthly,subscriptions,count,194,191,-3
+RC-L2-04,enterprise-annual,seats,count,1221,1217,-4
+RC-L2-04,enterprise-annual,subscriptions,count,79,78,-1
+RC-L2-04,legacy-pro-monthly-gf,seats,count,243,236,-7
+RC-L2-04,legacy-pro-monthly-gf,subscriptions,count,25,24,-1
+RC-L2-04,legacy-team-monthly-gf,seats,count,211,206,-5
+RC-L2-04,legacy-team-monthly-gf,subscriptions,count,23,22,-1
+RC-L2-04,professional-annual,seats,count,2232,2232,0
+RC-L2-04,professional-annual,subscriptions,count,114,114,0
+RC-L2-04,professional-monthly,seats,count,5526,5357,-169
+RC-L2-04,professional-monthly,subscriptions,count,329,322,-7
+RC-L2-04,starter-annual,seats,count,1263,1234,-29
+RC-L2-04,starter-annual,subscriptions,count,67,64,-3
+RC-L2-04,starter-monthly,seats,count,3756,3718,-38
+RC-L2-04,starter-monthly,subscriptions,count,236,230,-6
+RC-L2-05,CAD 2023-11,invoice total,cents,1181.77,1181.77,0.00
+RC-L2-05,CAD 2023-11,invoices,count,2,2,0
+RC-L2-05,CAD 2023-12,invoice total,cents,8096.76,8096.76,0.00
+RC-L2-05,CAD 2023-12,invoices,count,1,1,0
+RC-L2-05,CAD 2024-02,invoice total,cents,1088.64,1088.64,0.00
+RC-L2-05,CAD 2024-02,invoices,count,1,1,0
+RC-L2-05,CAD 2024-04,invoice total,cents,6561.53,6561.53,0.00
+RC-L2-05,CAD 2024-04,invoices,count,2,2,0
+RC-L2-05,CAD 2024-05,invoice total,cents,72.58,72.58,0.00
+RC-L2-05,CAD 2024-05,invoices,count,1,1,0
+RC-L2-05,CAD 2024-09,invoice total,cents,45.77,45.77,0.00
+RC-L2-05,CAD 2024-09,invoices,count,1,1,0
+RC-L2-05,CAD 2024-10,invoice total,cents,169385.00,158377.90,-11007.10
+RC-L2-05,CAD 2024-10,invoices,count,106,105,-1
+RC-L2-05,CAD 2024-11,invoice total,cents,135508.99,116248.55,-19260.44
+RC-L2-05,CAD 2024-11,invoices,count,106,108,2
+RC-L2-05,CAD 2024-12,invoice total,cents,180676.09,210809.89,30133.80
+RC-L2-05,CAD 2024-12,invoices,count,108,111,3
+RC-L2-05,CAD 2025-01,invoice total,cents,195292.29,178767.09,-16525.20
+RC-L2-05,CAD 2025-01,invoices,count,112,112,0
+RC-L2-05,CAD 2025-02,invoice total,cents,204617.28,176385.21,-28232.07
+RC-L2-05,CAD 2025-02,invoices,count,113,115,2
+RC-L2-05,CAD 2025-03,invoice total,cents,181126.06,177840.09,-3285.97
+RC-L2-05,CAD 2025-03,invoices,count,111,116,5
+RC-L2-05,CAD 2025-04,invoice total,cents,243299.53,250951.99,7652.46
+RC-L2-05,CAD 2025-04,invoices,count,115,118,3
+RC-L2-05,CAD 2025-05,invoice total,cents,205610.69,203856.34,-1754.35
+RC-L2-05,CAD 2025-05,invoices,count,116,119,3
+RC-L2-05,CAD 2025-06,invoice total,cents,102439.09,102209.84,-229.25
+RC-L2-05,CAD 2025-06,invoices,count,109,111,2
+RC-L2-05,CAD 2025-07,invoice total,cents,144519.88,144454.72,-65.16
+RC-L2-05,CAD 2025-07,invoices,count,115,118,3
+RC-L2-05,CAD 2025-08,invoice total,cents,140745.49,121144.90,-19600.59
+RC-L2-05,CAD 2025-08,invoices,count,117,120,3
+RC-L2-05,CAD 2025-09,invoice total,cents,183582.01,137220.59,-46361.42
+RC-L2-05,CAD 2025-09,invoices,count,123,124,1
+RC-L2-05,CAD 2025-10,invoice total,cents,145948.43,208671.11,62722.68
+RC-L2-05,CAD 2025-10,invoices,count,120,124,4
+RC-L2-05,CAD 2025-11,invoice total,cents,148123.79,145465.70,-2658.09
+RC-L2-05,CAD 2025-11,invoices,count,124,125,1
+RC-L2-05,CAD 2025-12,invoice total,cents,170131.40,172223.19,2091.79
+RC-L2-05,CAD 2025-12,invoices,count,123,129,6
+RC-L2-05,CAD 2026-01,invoice total,cents,133445.32,130333.28,-3112.04
+RC-L2-05,CAD 2026-01,invoices,count,123,124,1
+RC-L2-05,CAD 2026-02,invoice total,cents,189109.26,141653.46,-47455.80
+RC-L2-05,CAD 2026-02,invoices,count,126,125,-1
+RC-L2-05,CAD 2026-03,invoice total,cents,259086.34,256685.26,-2401.08
+RC-L2-05,CAD 2026-03,invoices,count,133,137,4
+RC-L2-05,CAD 2026-04,invoice total,cents,241893.72,274577.14,32683.42
+RC-L2-05,CAD 2026-04,invoices,count,138,144,6
+RC-L2-05,CAD 2026-05,invoice total,cents,229060.89,243396.47,14335.58
+RC-L2-05,CAD 2026-05,invoices,count,137,141,4
+RC-L2-05,CAD 2026-06,invoice total,cents,151022.75,150053.20,-969.55
+RC-L2-05,CAD 2026-06,invoices,count,138,142,4
+RC-L2-05,CAD 2026-07,invoice total,cents,255903.58,225784.77,-30118.81
+RC-L2-05,CAD 2026-07,invoices,count,148,148,0
+RC-L2-05,CAD 2026-08,invoice total,cents,183040.13,212964.08,29923.95
+RC-L2-05,CAD 2026-08,invoices,count,152,156,4
+RC-L2-05,CAD 2026-09,invoice total,cents,212187.14,209026.81,-3160.33
+RC-L2-05,CAD 2026-09,invoices,count,149,154,5
+RC-L2-05,EUR 2024-04,invoice total,cents,133.58,133.58,0.00
+RC-L2-05,EUR 2024-04,invoices,count,1,1,0
+RC-L2-05,EUR 2024-06,invoice total,cents,441.60,441.60,0.00
+RC-L2-05,EUR 2024-06,invoices,count,2,2,0
+RC-L2-05,EUR 2024-07,invoice total,cents,157.00,157.00,0.00
+RC-L2-05,EUR 2024-07,invoices,count,3,3,0
+RC-L2-05,EUR 2024-10,invoice total,cents,19637.23,19637.23,0.00
+RC-L2-05,EUR 2024-10,invoices,count,64,64,0
+RC-L2-05,EUR 2024-11,invoice total,cents,35765.47,35765.47,0.00
+RC-L2-05,EUR 2024-11,invoices,count,68,68,0
+RC-L2-05,EUR 2024-12,invoice total,cents,77401.75,58350.60,-19051.15
+RC-L2-05,EUR 2024-12,invoices,count,73,72,-1
+RC-L2-05,EUR 2025-01,invoice total,cents,107913.60,122364.57,14450.97
+RC-L2-05,EUR 2025-01,invoices,count,75,75,0
+RC-L2-05,EUR 2025-02,invoice total,cents,52576.52,46602.39,-5974.13
+RC-L2-05,EUR 2025-02,invoices,count,75,75,0
+RC-L2-05,EUR 2025-03,invoice total,cents,46273.52,56625.20,10351.68
+RC-L2-05,EUR 2025-03,invoices,count,72,75,3
+RC-L2-05,EUR 2025-04,invoice total,cents,70699.12,58661.56,-12037.56
+RC-L2-05,EUR 2025-04,invoices,count,75,75,0
+RC-L2-05,EUR 2025-05,invoice total,cents,84291.02,96298.22,12007.20
+RC-L2-05,EUR 2025-05,invoices,count,77,78,1
+RC-L2-05,EUR 2025-06,invoice total,cents,100006.87,78238.25,-21768.62
+RC-L2-05,EUR 2025-06,invoices,count,76,77,1
+RC-L2-05,EUR 2025-07,invoice total,cents,57974.35,72718.58,14744.23
+RC-L2-05,EUR 2025-07,invoices,count,76,76,0
+RC-L2-05,EUR 2025-08,invoice total,cents,64772.60,71696.57,6923.97
+RC-L2-05,EUR 2025-08,invoices,count,75,76,1
+RC-L2-05,EUR 2025-09,invoice total,cents,83291.50,83258.93,-32.57
+RC-L2-05,EUR 2025-09,invoices,count,75,77,2
+RC-L2-05,EUR 2025-10,invoice total,cents,40812.90,32375.80,-8437.10
+RC-L2-05,EUR 2025-10,invoices,count,74,74,0
+RC-L2-05,EUR 2025-11,invoice total,cents,60736.15,68973.46,8237.31
+RC-L2-05,EUR 2025-11,invoices,count,76,80,4
+RC-L2-05,EUR 2025-12,invoice total,cents,56681.48,56638.97,-42.51
+RC-L2-05,EUR 2025-12,invoices,count,78,80,2
+RC-L2-05,EUR 2026-01,invoice total,cents,113979.28,113800.80,-178.48
+RC-L2-05,EUR 2026-01,invoices,count,77,79,2
+RC-L2-05,EUR 2026-02,invoice total,cents,62828.38,62793.89,-34.49
+RC-L2-05,EUR 2026-02,invoices,count,79,80,1
+RC-L2-05,EUR 2026-03,invoice total,cents,43868.65,36823.23,-7045.42
+RC-L2-05,EUR 2026-03,invoices,count,76,76,0
+RC-L2-05,EUR 2026-04,invoice total,cents,58809.17,65757.88,6948.71
+RC-L2-05,EUR 2026-04,invoices,count,82,86,4
+RC-L2-05,EUR 2026-05,invoice total,cents,85070.93,84310.53,-760.40
+RC-L2-05,EUR 2026-05,invoices,count,80,85,5
+RC-L2-05,EUR 2026-06,invoice total,cents,31629.46,31629.46,0.00
+RC-L2-05,EUR 2026-06,invoices,count,75,75,0
+RC-L2-05,EUR 2026-07,invoice total,cents,76794.30,76733.01,-61.29
+RC-L2-05,EUR 2026-07,invoices,count,77,80,3
+RC-L2-05,EUR 2026-08,invoice total,cents,41016.43,39873.33,-1143.10
+RC-L2-05,EUR 2026-08,invoices,count,79,80,1
+RC-L2-05,EUR 2026-09,invoice total,cents,73487.92,62853.71,-10634.21
+RC-L2-05,EUR 2026-09,invoices,count,84,84,0
+RC-L2-05,EUR 2026-10,invoice total,cents,0.00,7091.23,7091.23
+RC-L2-05,EUR 2026-10,invoices,count,0,1,1
+RC-L2-05,GBP 2024-02,invoice total,cents,57.60,57.60,0.00
+RC-L2-05,GBP 2024-02,invoices,count,1,1,0
+RC-L2-05,GBP 2024-06,invoice total,cents,6511.68,6511.68,0.00
+RC-L2-05,GBP 2024-06,invoices,count,1,1,0
+RC-L2-05,GBP 2024-07,invoice total,cents,4642.56,4642.56,0.00
+RC-L2-05,GBP 2024-07,invoices,count,2,2,0
+RC-L2-05,GBP 2024-10,invoice total,cents,68970.58,68936.98,-33.60
+RC-L2-05,GBP 2024-10,invoices,count,89,90,1
+RC-L2-05,GBP 2024-11,invoice total,cents,62779.15,49144.68,-13634.47
+RC-L2-05,GBP 2024-11,invoices,count,91,90,-1
+RC-L2-05,GBP 2024-12,invoice total,cents,68951.64,82501.14,13549.50
+RC-L2-05,GBP 2024-12,invoices,count,90,93,3
+RC-L2-05,GBP 2025-01,invoice total,cents,80053.50,79969.39,-84.11
+RC-L2-05,GBP 2025-01,invoices,count,95,97,2
+RC-L2-05,GBP 2025-02,invoice total,cents,82267.67,82012.30,-255.37
+RC-L2-05,GBP 2025-02,invoices,count,95,98,3
+RC-L2-05,GBP 2025-03,invoice total,cents,74054.07,73637.87,-416.20
+RC-L2-05,GBP 2025-03,invoices,count,92,94,2
+RC-L2-05,GBP 2025-04,invoice total,cents,93975.18,93585.42,-389.76
+RC-L2-05,GBP 2025-04,invoices,count,96,97,1
+RC-L2-05,GBP 2025-05,invoice total,cents,108010.19,108010.20,0.01
+RC-L2-05,GBP 2025-05,invoices,count,100,100,0
+RC-L2-05,GBP 2025-06,invoice total,cents,103924.50,98920.04,-5004.46
+RC-L2-05,GBP 2025-06,invoices,count,102,104,2
+RC-L2-05,GBP 2025-07,invoice total,cents,114049.56,118643.15,4593.59
+RC-L2-05,GBP 2025-07,invoices,count,104,106,2
+RC-L2-05,GBP 2025-08,invoice total,cents,100862.11,100797.31,-64.80
+RC-L2-05,GBP 2025-08,invoices,count,100,102,2
+RC-L2-05,GBP 2025-09,invoice total,cents,108753.27,108619.64,-133.63
+RC-L2-05,GBP 2025-09,invoices,count,108,109,1
+RC-L2-05,GBP 2025-10,invoice total,cents,57364.42,57082.18,-282.24
+RC-L2-05,GBP 2025-10,invoices,count,102,103,1
+RC-L2-05,GBP 2025-11,invoice total,cents,109962.77,88950.83,-21011.94
+RC-L2-05,GBP 2025-11,invoices,count,106,105,-1
+RC-L2-05,GBP 2025-12,invoice total,cents,74727.93,94331.65,19603.72
+RC-L2-05,GBP 2025-12,invoices,count,104,109,5
+RC-L2-05,GBP 2026-01,invoice total,cents,98577.68,87550.45,-11027.23
+RC-L2-05,GBP 2026-01,invoices,count,106,105,-1
+RC-L2-05,GBP 2026-02,invoice total,cents,108502.47,119455.29,10952.82
+RC-L2-05,GBP 2026-02,invoices,count,105,108,3
+RC-L2-05,GBP 2026-03,invoice total,cents,111017.65,93286.19,-17731.46
+RC-L2-05,GBP 2026-03,invoices,count,107,106,-1
+RC-L2-05,GBP 2026-04,invoice total,cents,133958.16,135908.36,1950.20
+RC-L2-05,GBP 2026-04,invoices,count,112,115,3
+RC-L2-05,GBP 2026-05,invoice total,cents,165620.85,134016.70,-31604.15
+RC-L2-05,GBP 2026-05,invoices,count,110,112,2
+RC-L2-05,GBP 2026-06,invoice total,cents,89843.12,124952.54,35109.42
+RC-L2-05,GBP 2026-06,invoices,count,110,114,4
+RC-L2-05,GBP 2026-07,invoice total,cents,87159.35,86739.35,-420.00
+RC-L2-05,GBP 2026-07,invoices,count,118,121,3
+RC-L2-05,GBP 2026-08,invoice total,cents,65370.95,61849.95,-3521.00
+RC-L2-05,GBP 2026-08,invoices,count,111,112,1
+RC-L2-05,GBP 2026-09,invoice total,cents,192745.22,196179.64,3434.42
+RC-L2-05,GBP 2026-09,invoices,count,117,119,2
+RC-L2-05,USD 2023-10,invoice total,cents,607.57,607.57,0.00
+RC-L2-05,USD 2023-10,invoices,count,3,3,0
+RC-L2-05,USD 2023-11,invoice total,cents,3638.81,3638.81,0.00
+RC-L2-05,USD 2023-11,invoices,count,3,3,0
+RC-L2-05,USD 2023-12,invoice total,cents,6405.69,6405.68,-0.01
+RC-L2-05,USD 2023-12,invoices,count,5,5,0
+RC-L2-05,USD 2024-01,invoice total,cents,446.25,446.25,0.00
+RC-L2-05,USD 2024-01,invoices,count,1,1,0
+RC-L2-05,USD 2024-02,invoice total,cents,2536.56,2536.56,0.00
+RC-L2-05,USD 2024-02,invoices,count,3,3,0
+RC-L2-05,USD 2024-03,invoice total,cents,795.24,795.24,0.00
+RC-L2-05,USD 2024-03,invoices,count,5,5,0
+RC-L2-05,USD 2024-04,invoice total,cents,8.00,8.00,0.00
+RC-L2-05,USD 2024-04,invoices,count,1,1,0
+RC-L2-05,USD 2024-05,invoice total,cents,400.83,400.83,0.00
+RC-L2-05,USD 2024-05,invoices,count,3,3,0
+RC-L2-05,USD 2024-06,invoice total,cents,277.74,277.73,-0.01
+RC-L2-05,USD 2024-06,invoices,count,2,2,0
+RC-L2-05,USD 2024-07,invoice total,cents,127.80,127.80,0.00
+RC-L2-05,USD 2024-07,invoices,count,1,1,0
+RC-L2-05,USD 2024-08,invoice total,cents,824.55,824.55,0.00
+RC-L2-05,USD 2024-08,invoices,count,4,4,0
+RC-L2-05,USD 2024-09,invoice total,cents,5686.68,5686.68,0.00
+RC-L2-05,USD 2024-09,invoices,count,5,5,0
+RC-L2-05,USD 2024-10,invoice total,cents,597352.07,550002.45,-47349.62
+RC-L2-05,USD 2024-10,invoices,count,577,576,-1
+RC-L2-05,USD 2024-11,invoice total,cents,561253.20,524944.87,-36308.33
+RC-L2-05,USD 2024-11,invoices,count,587,593,6
+RC-L2-05,USD 2024-12,invoice total,cents,589039.53,615600.15,26560.62
+RC-L2-05,USD 2024-12,invoices,count,590,606,16
+RC-L2-05,USD 2025-01,invoice total,cents,557694.51,561385.31,3690.80
+RC-L2-05,USD 2025-01,invoices,count,605,616,11
+RC-L2-05,USD 2025-02,invoice total,cents,635937.51,627804.53,-8132.98
+RC-L2-05,USD 2025-02,invoices,count,615,624,9
+RC-L2-05,USD 2025-03,invoice total,cents,742171.65,733789.71,-8381.94
+RC-L2-05,USD 2025-03,invoices,count,637,654,17
+RC-L2-05,USD 2025-04,invoice total,cents,492100.08,514424.81,22324.73
+RC-L2-05,USD 2025-04,invoices,count,626,640,14
+RC-L2-05,USD 2025-05,invoice total,cents,680218.16,705358.20,25140.04
+RC-L2-05,USD 2025-05,invoices,count,637,646,9
+RC-L2-05,USD 2025-06,invoice total,cents,832599.19,764975.74,-67623.45
+RC-L2-05,USD 2025-06,invoices,count,643,651,8
+RC-L2-05,USD 2025-07,invoice total,cents,789985.90,744791.21,-45194.69
+RC-L2-05,USD 2025-07,invoices,count,657,672,15
+RC-L2-05,USD 2025-08,invoice total,cents,815881.48,827081.49,11200.01
+RC-L2-05,USD 2025-08,invoices,count,657,675,18
+RC-L2-05,USD 2025-09,invoice total,cents,908176.47,887025.95,-21150.52
+RC-L2-05,USD 2025-09,invoices,count,680,692,12
+RC-L2-05,USD 2025-10,invoice total,cents,625389.92,658563.11,33173.19
+RC-L2-05,USD 2025-10,invoices,count,656,677,21
+RC-L2-05,USD 2025-11,invoice total,cents,638284.18,547276.80,-91007.38
+RC-L2-05,USD 2025-11,invoices,count,677,681,4
+RC-L2-05,USD 2025-12,invoice total,cents,722805.35,713208.78,-9596.57
+RC-L2-05,USD 2025-12,invoices,count,688,702,14
+RC-L2-05,USD 2026-01,invoice total,cents,669007.85,712939.82,43931.97
+RC-L2-05,USD 2026-01,invoices,count,687,705,18
+RC-L2-05,USD 2026-02,invoice total,cents,744823.90,755873.61,11049.71
+RC-L2-05,USD 2026-02,invoices,count,700,715,15
+RC-L2-05,USD 2026-03,invoice total,cents,710893.96,690379.73,-20514.23
+RC-L2-05,USD 2026-03,invoices,count,720,739,19
+RC-L2-05,USD 2026-04,invoice total,cents,685356.06,696191.47,10835.41
+RC-L2-05,USD 2026-04,invoices,count,737,754,17
+RC-L2-05,USD 2026-05,invoice total,cents,649571.13,646919.45,-2651.68
+RC-L2-05,USD 2026-05,invoices,count,755,766,11
+RC-L2-05,USD 2026-06,invoice total,cents,910276.01,854222.91,-56053.10
+RC-L2-05,USD 2026-06,invoices,count,766,782,16
+RC-L2-05,USD 2026-07,invoice total,cents,968340.42,939905.17,-28435.25
+RC-L2-05,USD 2026-07,invoices,count,795,806,11
+RC-L2-05,USD 2026-08,invoice total,cents,925729.64,942452.84,16723.20
+RC-L2-05,USD 2026-08,invoices,count,800,813,13
+RC-L2-05,USD 2026-09,invoice total,cents,745736.10,686713.84,-59022.26
+RC-L2-05,USD 2026-09,invoices,count,782,793,11
+RC-L2-05,USD 2026-10,invoice total,cents,0.00,99527.29,99527.29
+RC-L2-05,USD 2026-10,invoices,count,0,7,7
+RC-L2-06,open,amount due,cents,810749.76,533976.24,-276773.52
+RC-L2-06,open,invoice total,cents,823420.11,546646.59,-276773.52
+RC-L2-06,open,invoices,count,706,1150,444
+RC-L2-06,paid,amount due,cents,0.00,0.00,0.00
+RC-L2-06,paid,invoice total,cents,24026274.36,24026263.06,-11.30
+RC-L2-06,paid,invoices,count,22266,22266,0
+RC-L2-06,uncollectible,amount due,cents,218962.50,218962.42,-0.08
+RC-L2-06,uncollectible,invoice total,cents,235600.28,235600.20,-0.08
+RC-L2-06,uncollectible,invoices,count,230,230,0
+RC-L2-06,void,amount due,cents,0.00,0.00,0.00
+RC-L2-06,void,invoice total,cents,477652.05,477651.86,-0.19
+RC-L2-06,void,invoices,count,376,376,0
+RC-L2-07,CAD,tax,cents,520692.10,513596.18,-7095.92
+RC-L2-07,EUR,tax,cents,91011.01,90397.01,-614.00
+RC-L2-07,GBP,tax,cents,395452.28,392715.49,-2736.79
+RC-L2-07,USD,tax,cents,783846.83,775825.83,-8021.00
+RC-L2-08,CAD,credit note total,cents,56652.71,0.00,-56652.71
+RC-L2-08,CAD,credit notes,count,64,0,-64
+RC-L2-08,EUR,credit note total,cents,6445.75,0.00,-6445.75
+RC-L2-08,EUR,credit notes,count,30,0,-30
+RC-L2-08,GBP,credit note total,cents,16420.72,0.00,-16420.72
+RC-L2-08,GBP,credit notes,count,39,0,-39
+RC-L2-08,USD,credit note total,cents,197254.31,0.00,-197254.31
+RC-L2-08,USD,credit notes,count,311,0,-311
+RC-L2-09,CAD 2024-10,payment amount,cents,126625.56,0.00,-126625.56
+RC-L2-09,CAD 2024-10,payments,count,72,0,-72
+RC-L2-09,CAD 2024-11,payment amount,cents,88560.75,0.00,-88560.75
+RC-L2-09,CAD 2024-11,payments,count,90,0,-90
+RC-L2-09,CAD 2024-12,payment amount,cents,188693.37,0.00,-188693.37
+RC-L2-09,CAD 2024-12,payments,count,116,0,-116
+RC-L2-09,CAD 2025-01,payment amount,cents,160563.05,0.00,-160563.05
+RC-L2-09,CAD 2025-01,payments,count,114,0,-114
+RC-L2-09,CAD 2025-02,payment amount,cents,156541.32,0.00,-156541.32
+RC-L2-09,CAD 2025-02,payments,count,111,0,-111
+RC-L2-09,CAD 2025-03,payment amount,cents,208952.77,0.00,-208952.77
+RC-L2-09,CAD 2025-03,payments,count,110,0,-110
+RC-L2-09,CAD 2025-04,payment amount,cents,245017.95,0.00,-245017.95
+RC-L2-09,CAD 2025-04,payments,count,125,0,-125
+RC-L2-09,CAD 2025-05,payment amount,cents,165800.44,0.00,-165800.44
+RC-L2-09,CAD 2025-05,payments,count,119,0,-119
+RC-L2-09,CAD 2025-06,payment amount,cents,171539.13,0.00,-171539.13
+RC-L2-09,CAD 2025-06,payments,count,114,0,-114
+RC-L2-09,CAD 2025-07,payment amount,cents,129591.38,0.00,-129591.38
+RC-L2-09,CAD 2025-07,payments,count,117,0,-117
+RC-L2-09,CAD 2025-08,payment amount,cents,147729.70,0.00,-147729.70
+RC-L2-09,CAD 2025-08,payments,count,123,0,-123
+RC-L2-09,CAD 2025-09,payment amount,cents,123407.89,0.00,-123407.89
+RC-L2-09,CAD 2025-09,payments,count,104,0,-104
+RC-L2-09,CAD 2025-10,payment amount,cents,194598.39,0.00,-194598.39
+RC-L2-09,CAD 2025-10,payments,count,132,0,-132
+RC-L2-09,CAD 2025-11,payment amount,cents,137177.74,0.00,-137177.74
+RC-L2-09,CAD 2025-11,payments,count,120,0,-120
+RC-L2-09,CAD 2025-12,payment amount,cents,109206.58,0.00,-109206.58
+RC-L2-09,CAD 2025-12,payments,count,133,0,-133
+RC-L2-09,CAD 2026-01,payment amount,cents,134387.86,0.00,-134387.86
+RC-L2-09,CAD 2026-01,payments,count,122,0,-122
+RC-L2-09,CAD 2026-02,payment amount,cents,157304.31,0.00,-157304.31
+RC-L2-09,CAD 2026-02,payments,count,115,0,-115
+RC-L2-09,CAD 2026-03,payment amount,cents,234267.93,0.00,-234267.93
+RC-L2-09,CAD 2026-03,payments,count,145,0,-145
+RC-L2-09,CAD 2026-04,payment amount,cents,216334.46,0.00,-216334.46
+RC-L2-09,CAD 2026-04,payments,count,139,0,-139
+RC-L2-09,CAD 2026-05,payment amount,cents,236437.75,0.00,-236437.75
+RC-L2-09,CAD 2026-05,payments,count,148,0,-148
+RC-L2-09,CAD 2026-06,payment amount,cents,170986.27,0.00,-170986.27
+RC-L2-09,CAD 2026-06,payments,count,132,0,-132
+RC-L2-09,CAD 2026-07,payment amount,cents,180033.90,0.00,-180033.90
+RC-L2-09,CAD 2026-07,payments,count,144,0,-144
+RC-L2-09,CAD 2026-08,payment amount,cents,148926.70,0.00,-148926.70
+RC-L2-09,CAD 2026-08,payments,count,129,0,-129
+RC-L2-09,CAD 2026-09,payment amount,cents,217300.20,0.00,-217300.20
+RC-L2-09,CAD 2026-09,payments,count,177,0,-177
+RC-L2-09,EUR 2024-10,payment amount,cents,8558.74,0.00,-8558.74
+RC-L2-09,EUR 2024-10,payments,count,30,0,-30
+RC-L2-09,EUR 2024-11,payment amount,cents,21299.87,0.00,-21299.87
+RC-L2-09,EUR 2024-11,payments,count,65,0,-65
+RC-L2-09,EUR 2024-12,payment amount,cents,73556.75,0.00,-73556.75
+RC-L2-09,EUR 2024-12,payments,count,84,0,-84
+RC-L2-09,EUR 2025-01,payment amount,cents,84778.87,0.00,-84778.87
+RC-L2-09,EUR 2025-01,payments,count,69,0,-69
+RC-L2-09,EUR 2025-02,payment amount,cents,59456.18,0.00,-59456.18
+RC-L2-09,EUR 2025-02,payments,count,64,0,-64
+RC-L2-09,EUR 2025-03,payment amount,cents,47734.88,0.00,-47734.88
+RC-L2-09,EUR 2025-03,payments,count,71,0,-71
+RC-L2-09,EUR 2025-04,payment amount,cents,28603.06,0.00,-28603.06
+RC-L2-09,EUR 2025-04,payments,count,83,0,-83
+RC-L2-09,EUR 2025-05,payment amount,cents,97088.22,0.00,-97088.22
+RC-L2-09,EUR 2025-05,payments,count,72,0,-72
+RC-L2-09,EUR 2025-06,payment amount,cents,95771.35,0.00,-95771.35
+RC-L2-09,EUR 2025-06,payments,count,79,0,-79
+RC-L2-09,EUR 2025-07,payment amount,cents,72360.50,0.00,-72360.50
+RC-L2-09,EUR 2025-07,payments,count,78,0,-78
+RC-L2-09,EUR 2025-08,payment amount,cents,31958.25,0.00,-31958.25
+RC-L2-09,EUR 2025-08,payments,count,79,0,-79
+RC-L2-09,EUR 2025-09,payment amount,cents,109992.88,0.00,-109992.88
+RC-L2-09,EUR 2025-09,payments,count,76,0,-76
+RC-L2-09,EUR 2025-10,payment amount,cents,35241.05,0.00,-35241.05
+RC-L2-09,EUR 2025-10,payments,count,70,0,-70
+RC-L2-09,EUR 2025-11,payment amount,cents,94703.81,0.00,-94703.81
+RC-L2-09,EUR 2025-11,payments,count,81,0,-81
+RC-L2-09,EUR 2025-12,payment amount,cents,49701.58,0.00,-49701.58
+RC-L2-09,EUR 2025-12,payments,count,82,0,-82
+RC-L2-09,EUR 2026-01,payment amount,cents,79238.79,0.00,-79238.79
+RC-L2-09,EUR 2026-01,payments,count,68,0,-68
+RC-L2-09,EUR 2026-02,payment amount,cents,95302.17,0.00,-95302.17
+RC-L2-09,EUR 2026-02,payments,count,69,0,-69
+RC-L2-09,EUR 2026-03,payment amount,cents,33219.76,0.00,-33219.76
+RC-L2-09,EUR 2026-03,payments,count,81,0,-81
+RC-L2-09,EUR 2026-04,payment amount,cents,82913.83,0.00,-82913.83
+RC-L2-09,EUR 2026-04,payments,count,93,0,-93
+RC-L2-09,EUR 2026-05,payment amount,cents,50402.80,0.00,-50402.80
+RC-L2-09,EUR 2026-05,payments,count,75,0,-75
+RC-L2-09,EUR 2026-06,payment amount,cents,53037.49,0.00,-53037.49
+RC-L2-09,EUR 2026-06,payments,count,74,0,-74
+RC-L2-09,EUR 2026-07,payment amount,cents,43194.59,0.00,-43194.59
+RC-L2-09,EUR 2026-07,payments,count,72,0,-72
+RC-L2-09,EUR 2026-08,payment amount,cents,68862.30,0.00,-68862.30
+RC-L2-09,EUR 2026-08,payments,count,77,0,-77
+RC-L2-09,EUR 2026-09,payment amount,cents,76911.74,0.00,-76911.74
+RC-L2-09,EUR 2026-09,payments,count,93,0,-93
+RC-L2-09,GBP 2024-10,payment amount,cents,39171.53,0.00,-39171.53
+RC-L2-09,GBP 2024-10,payments,count,56,0,-56
+RC-L2-09,GBP 2024-11,payment amount,cents,71282.94,0.00,-71282.94
+RC-L2-09,GBP 2024-11,payments,count,74,0,-74
+RC-L2-09,GBP 2024-12,payment amount,cents,65765.94,0.00,-65765.94
+RC-L2-09,GBP 2024-12,payments,count,90,0,-90
+RC-L2-09,GBP 2025-01,payment amount,cents,71970.58,0.00,-71970.58
+RC-L2-09,GBP 2025-01,payments,count,99,0,-99
+RC-L2-09,GBP 2025-02,payment amount,cents,78430.65,0.00,-78430.65
+RC-L2-09,GBP 2025-02,payments,count,93,0,-93
+RC-L2-09,GBP 2025-03,payment amount,cents,86189.73,0.00,-86189.73
+RC-L2-09,GBP 2025-03,payments,count,103,0,-103
+RC-L2-09,GBP 2025-04,payment amount,cents,67562.39,0.00,-67562.39
+RC-L2-09,GBP 2025-04,payments,count,92,0,-92
+RC-L2-09,GBP 2025-05,payment amount,cents,87595.23,0.00,-87595.23
+RC-L2-09,GBP 2025-05,payments,count,100,0,-100
+RC-L2-09,GBP 2025-06,payment amount,cents,62638.15,0.00,-62638.15
+RC-L2-09,GBP 2025-06,payments,count,104,0,-104
+RC-L2-09,GBP 2025-07,payment amount,cents,149656.49,0.00,-149656.49
+RC-L2-09,GBP 2025-07,payments,count,101,0,-101
+RC-L2-09,GBP 2025-08,payment amount,cents,69317.67,0.00,-69317.67
+RC-L2-09,GBP 2025-08,payments,count,106,0,-106
+RC-L2-09,GBP 2025-09,payment amount,cents,115281.97,0.00,-115281.97
+RC-L2-09,GBP 2025-09,payments,count,100,0,-100
+RC-L2-09,GBP 2025-10,payment amount,cents,86155.26,0.00,-86155.26
+RC-L2-09,GBP 2025-10,payments,count,106,0,-106
+RC-L2-09,GBP 2025-11,payment amount,cents,51697.79,0.00,-51697.79
+RC-L2-09,GBP 2025-11,payments,count,98,0,-98
+RC-L2-09,GBP 2025-12,payment amount,cents,82651.07,0.00,-82651.07
+RC-L2-09,GBP 2025-12,payments,count,108,0,-108
+RC-L2-09,GBP 2026-01,payment amount,cents,84410.61,0.00,-84410.61
+RC-L2-09,GBP 2026-01,payments,count,116,0,-116
+RC-L2-09,GBP 2026-02,payment amount,cents,95198.12,0.00,-95198.12
+RC-L2-09,GBP 2026-02,payments,count,88,0,-88
+RC-L2-09,GBP 2026-03,payment amount,cents,106818.88,0.00,-106818.88
+RC-L2-09,GBP 2026-03,payments,count,118,0,-118
+RC-L2-09,GBP 2026-04,payment amount,cents,135377.82,0.00,-135377.82
+RC-L2-09,GBP 2026-04,payments,count,120,0,-120
+RC-L2-09,GBP 2026-05,payment amount,cents,160585.93,0.00,-160585.93
+RC-L2-09,GBP 2026-05,payments,count,117,0,-117
+RC-L2-09,GBP 2026-06,payment amount,cents,99027.51,0.00,-99027.51
+RC-L2-09,GBP 2026-06,payments,count,106,0,-106
+RC-L2-09,GBP 2026-07,payment amount,cents,91616.33,0.00,-91616.33
+RC-L2-09,GBP 2026-07,payments,count,120,0,-120
+RC-L2-09,GBP 2026-08,payment amount,cents,83794.38,0.00,-83794.38
+RC-L2-09,GBP 2026-08,payments,count,100,0,-100
+RC-L2-09,GBP 2026-09,payment amount,cents,165793.68,0.00,-165793.68
+RC-L2-09,GBP 2026-09,payments,count,125,0,-125
+RC-L2-09,USD 2024-10,payment amount,cents,369974.05,532789.24,162815.19
+RC-L2-09,USD 2024-10,payments,count,369,524,155
+RC-L2-09,USD 2024-11,payment amount,cents,577690.05,688157.35,110467.30
+RC-L2-09,USD 2024-11,payments,count,551,776,225
+RC-L2-09,USD 2024-12,payment amount,cents,434477.95,826155.99,391678.04
+RC-L2-09,USD 2024-12,payments,count,590,882,292
+RC-L2-09,USD 2025-01,payment amount,cents,535552.36,859613.53,324061.17
+RC-L2-09,USD 2025-01,payments,count,610,892,282
+RC-L2-09,USD 2025-02,payment amount,cents,521059.79,818155.47,297095.68
+RC-L2-09,USD 2025-02,payments,count,573,843,270
+RC-L2-09,USD 2025-03,payment amount,cents,766947.23,1089410.63,322463.40
+RC-L2-09,USD 2025-03,payments,count,660,943,283
+RC-L2-09,USD 2025-04,payment amount,cents,624751.36,995487.46,370736.10
+RC-L2-09,USD 2025-04,payments,count,621,925,304
+RC-L2-09,USD 2025-05,payment amount,cents,578856.21,928959.05,350102.84
+RC-L2-09,USD 2025-05,payments,count,645,933,288
+RC-L2-09,USD 2025-06,payment amount,cents,793185.70,1115705.39,322519.69
+RC-L2-09,USD 2025-06,payments,count,655,951,296
+RC-L2-09,USD 2025-07,payment amount,cents,795578.89,1152846.18,357267.29
+RC-L2-09,USD 2025-07,payments,count,644,943,299
+RC-L2-09,USD 2025-08,payment amount,cents,641400.74,883319.74,241919.00
+RC-L2-09,USD 2025-08,payments,count,651,955,304
+RC-L2-09,USD 2025-09,payment amount,cents,944168.08,1208004.85,263836.77
+RC-L2-09,USD 2025-09,payments,count,668,944,276
+RC-L2-09,USD 2025-10,payment amount,cents,622504.44,1010705.43,388200.99
+RC-L2-09,USD 2025-10,payments,count,665,979,314
+RC-L2-09,USD 2025-11,payment amount,cents,649005.82,892102.64,243096.82
+RC-L2-09,USD 2025-11,payments,count,696,986,290
+RC-L2-09,USD 2025-12,payment amount,cents,628627.72,911143.51,282515.79
+RC-L2-09,USD 2025-12,payments,count,696,1028,332
+RC-L2-09,USD 2026-01,payment amount,cents,725813.81,1023586.52,297772.71
+RC-L2-09,USD 2026-01,payments,count,694,998,304
+RC-L2-09,USD 2026-02,payment amount,cents,695465.89,1018644.76,323178.87
+RC-L2-09,USD 2026-02,payments,count,651,922,271
+RC-L2-09,USD 2026-03,payment amount,cents,784881.26,1138673.71,353792.45
+RC-L2-09,USD 2026-03,payments,count,735,1079,344
+RC-L2-09,USD 2026-04,payment amount,cents,546256.74,1047641.59,501384.85
+RC-L2-09,USD 2026-04,payments,count,727,1084,357
+RC-L2-09,USD 2026-05,payment amount,cents,663568.97,1048115.60,384546.63
+RC-L2-09,USD 2026-05,payments,count,790,1124,334
+RC-L2-09,USD 2026-06,payment amount,cents,811792.01,1181059.58,369267.57
+RC-L2-09,USD 2026-06,payments,count,745,1063,318
+RC-L2-09,USD 2026-07,payment amount,cents,909266.83,1192233.04,282966.21
+RC-L2-09,USD 2026-07,payments,count,743,1076,333
+RC-L2-09,USD 2026-08,payment amount,cents,899937.15,1191492.76,291555.61
+RC-L2-09,USD 2026-08,payments,count,728,1032,304
+RC-L2-09,USD 2026-09,payment amount,cents,891453.69,1324613.46,433159.77
+RC-L2-09,USD 2026-09,payments,count,889,1256,367
+RC-L2-09,USD 2026-10,payment amount,cents,0.00,85464.77,85464.77
+RC-L2-09,USD 2026-10,payments,count,0,34,34
+RC-L2-10,CAD,unapplied amount,cents,19357.67,0.00,-19357.67
+RC-L2-10,CAD,unapplied payments,count,3,0,-3
+RC-L2-10,EUR,unapplied amount,cents,6007.74,0.00,-6007.74
+RC-L2-10,EUR,unapplied payments,count,1,0,-1
+RC-L2-10,GBP,unapplied amount,cents,5784.11,0.00,-5784.11
+RC-L2-10,GBP,unapplied payments,count,2,0,-2
+RC-L2-10,USD,unapplied amount,cents,77350.24,108499.76,31149.52
+RC-L2-10,USD,unapplied payments,count,17,23,6

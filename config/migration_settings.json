@@ -1,0 +1,6 @@
+{
+  "extract_as_of": "2026-09-30",
+  "history_cutoff": "2024-10-01",
+  "legacy_timezone": "America/New_York",
+  "note": "Scope and survivorship rules are in docs/03_source_to_target_mapping.md. history_cutoff is DEC-BPM-002; extract_as_of is the September close."
+}

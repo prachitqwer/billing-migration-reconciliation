@@ -1,0 +1,102 @@
+{
+  "row_counts": {
+    "lb_customers": 1227,
+    "lb_plans": 10,
+    "lb_subscriptions": 1894,
+    "lb_invoices": 33266,
+    "lb_payments": 32339
+  },
+  "total_rows": 68736,
+  "invoice_rows_by_type": {
+    "CRN": 635,
+    "INV": 32631
+  },
+  "customers_by_status": {
+    "A": 974,
+    "H": 22,
+    "I": 231
+  },
+  "customers_by_currency": {
+    "CAD": 149,
+    "EUR": 93,
+    "GBP": 128,
+    "USD": 857
+  },
+  "country_spellings": {
+    "CA": 103,
+    "Canada": 46,
+    "DE": 17,
+    "FR": 17,
+    "France": 4,
+    "GB": 48,
+    "Germany": 14,
+    "IE": 13,
+    "Ireland": 8,
+    "NL": 14,
+    "Netherlands": 6,
+    "U.S.": 32,
+    "UK": 56,
+    "US": 483,
+    "USA": 197,
+    "United Kingdom": 24,
+    "United States": 145
+  },
+  "subscriptions_by_status": {
+    "ACT": 1224,
+    "CANC": 378,
+    "EXP": 126,
+    "PAUS": 38,
+    "PEND": 24,
+    "SUSP": 69,
+    "TRL": 35
+  },
+  "invoices_by_status": {
+    "OPEN": 650,
+    "PAID": 31103,
+    "PART": 56,
+    "VOID": 501,
+    "WO": 321
+  },
+  "invoice_date_range": {
+    "first": "2023-10-01",
+    "last": "2026-09-30"
+  },
+  "payment_date_range": {
+    "first": "2023-10-01",
+    "last": "2026-09-30"
+  },
+  "payments_by_method": {
+    "ACH": 7814,
+    "BACS": 1406,
+    "CARD": 17618,
+    "CHK": 858,
+    "EFT": 1204,
+    "SEPA": 1139,
+    "WIRE": 2300
+  },
+  "invoices_dated_differently_in_utc": 261,
+  "payments_dated_differently_in_utc": 2036,
+  "duplicate_groups": 27,
+  "dq": {
+    "DQ-01": 1149,
+    "DQ-02": 532,
+    "DQ-03": 0,
+    "DQ-04": 225,
+    "DQ-05": 27,
+    "DQ-06": 27,
+    "DQ-07": 1001,
+    "DQ-08": 124,
+    "DQ-09": 58,
+    "DQ-10": 0,
+    "DQ-11": 23,
+    "DQ-12": 635,
+    "DQ-13": 6,
+    "DQ-14": 0,
+    "DQ-15": 0,
+    "DQ-16": 0,
+    "DQ-17": 0,
+    "DQ-18": 0,
+    "DQ-19": 54,
+    "DQ-20": 0
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "run_id": "mock1",
+  "label": "Mock cutover 1",
+  "run_date": "2026-10-05",
+  "migration_build": "1.0",
+  "checks_total": 36,
+  "checks_passed": 13,
+  "checks_failed": [
+    "RC-L1-02",
+    "RC-L1-04",
+    "RC-L1-05",
+    "RC-L2-03",
+    "RC-L2-04",
+    "RC-L2-05",
+    "RC-L2-06",
+    "RC-L2-07",
+    "RC-L2-08",
+    "RC-L2-09",
+    "RC-L2-10",
+    "RC-L3-02",
+    "RC-L3-03",
+    "RC-L3-05",
+    "RC-RI-09",
+    "RC-RI-10",
+    "RC-L4-01",
+    "RC-L4-02",
+    "RC-L4-03",
+    "RC-L4-04",
+    "RC-L4-05"
+  ],
+  "checks_no_data": [
+    "RC-L3-04",
+    "RC-RI-04"
+  ],
+  "by_level": {
+    "L1": {
+      "total": 6,
+      "passed": 3
+    },
+    "L2": {
+      "total": 10,
+      "passed": 2
+    },
+    "L3": {
+      "total": 5,
+      "passed": 1
+    },
+    "RI": {
+      "total": 10,
+      "passed": 7
+    },
+    "L4": {
+      "total": 5,
+      "passed": 0
+    }
+  },
+  "l1_bridge": {
+    "customers": {
+      "entity": "customers",
+      "source_rows": 1227,
+      "merged": 27,
+      "out_of_scope": 47,
+      "expected_rejects": 0,
+      "expected_loads": 1153,
+      "actual_loads": 1153,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "subscriptions": {
+      "entity": "subscriptions",
+      "source_rows": 1894,
+      "merged": 0,
+      "out_of_scope": 166,
+      "expected_rejects": 6,
+      "expected_loads": 1722,
+      "actual_loads": 1698,
+      "actual_rejects": 6,
+      "missing_in_target": 24,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "invoices": {
+      "entity": "invoices",
+      "source_rows": 32631,
+      "merged": 0,
+      "out_of_scope": 9053,
+      "expected_rejects": 0,
+      "expected_loads": 23578,
+      "actual_loads": 24022,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 444,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "credit notes": {
+      "entity": "credit notes",
+      "source_rows": 635,
+      "merged": 0,
+      "out_of_scope": 191,
+      "expected_rejects": 0,
+      "expected_loads": 444,
+      "actual_loads": 0,
+      "actual_rejects": 0,
+      "missing_in_target": 444,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    },
+    "payments": {
+      "entity": "payments",
+      "source_rows": 32339,
+      "merged": 0,
+      "out_of_scope": 9167,
+      "expected_rejects": 0,
+      "expected_loads": 23172,
+      "actual_loads": 23172,
+      "actual_rejects": 0,
+      "missing_in_target": 0,
+      "not_expected": 0,
+      "loaded_twice": 0,
+      "bridge_balances": 1
+    }
+  },
+  "l3_mismatches_by_field": {
+    "subscriptions.status": 105,
+    "invoices.subscription": 419,
+    "invoices.invoice_date": 197,
+    "invoices.tax": 1192,
+    "invoices.total": 1267,
+    "invoices.amount_due": 49,
+    "payments.currency": 7176
+  },
+  "l3_records_with_mismatch": {
+    "customers": 0,
+    "subscriptions": 105,
+    "invoices": 1882,
+    "credit_notes": 0,
+    "payments": 7176
+  },
+  "money": {
+    "expected_invoice_total_by_currency": {
+      "CAD": "4422802.20",
+      "EUR": "1547050.78",
+      "GBP": "2372713.83",
+      "USD": "17220379.99"
+    },
+    "actual_invoice_total_by_currency": {
+      "CAD": "4366148.63",
+      "EUR": "1540605.05",
+      "GBP": "2356293.09",
+      "USD": "17023114.94"
+    },
+    "expected_payment_total_by_currency": {
+      "CAD": "4049985.40",
+      "EUR": "1493889.46",
+      "GBP": "2207990.65",
+      "USD": "16412216.74"
+    },
+    "actual_payment_total_by_currency": {
+      "USD": "24164082.25"
+    },
+    "expected_open_ar_by_currency": {
+      "CAD": "331093.70",
+      "EUR": "43081.77",
+      "GBP": "99317.02",
+      "USD": "228757.51"
+    },
+    "actual_open_ar_by_currency": {
+      "CAD": "293798.71",
+      "EUR": "42643.79",
+      "GBP": "88680.41",
+      "USD": "353.57"
+    }
+  },
+  "accepted_exceptions": {
+    "EX-01": 23,
+    "EX-02": 80,
+    "EX-03": 25,
+    "EX-04": 6
+  },
+  "coverage_change": ""
+}
