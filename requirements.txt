@@ -1,6 +1,9 @@
 # Runtime and test dependencies (built and tested on Python 3.13).
 pandas>=2.2
 openpyxl>=3.1
+lxml>=5.0             # openpyxl writes through lxml when it's installed; without it the
+                      # workbook XML is spelled slightly differently and the committed .xlsx
+                      # files no longer match byte for byte
 tzdata>=2024.1        # IANA time zones for zoneinfo; Windows has none built in
 pytest>=8.0
 
